@@ -9,5 +9,8 @@
         <module name="HW_30" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HW_30" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

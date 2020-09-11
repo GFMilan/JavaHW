@@ -23,7 +23,7 @@ public class Users {
         driver.findElement(By.xpath("//div[@class='row']//div[1]//form[1]//table[1]//tbody[1]//tr[2]//td[2]//input[1]")).sendKeys("12345");
         driver.findElement(By.xpath("//div[@class='row']//div[1]//form[1]//table[1]//tbody[1]//tr[3]//td[2]//input[1]")).click();
         Thread.sleep(3000);
-        WebElement AddUser = driver.findElement(By.xpath("//*[contains(text(), 'Добавить пользователя')]"));
+        WebElement AddUser = driver.findElement(By.xpath("//a[@class='btn btn-danger']"));
         Assert.assertEquals(true, AddUser.isDisplayed());
 
         //Search user by name
@@ -41,6 +41,14 @@ public class Users {
         driver.findElement(By.xpath("//input[@name='noibiz_password']")).sendKeys("1234");
         driver.findElement(By.xpath("//input[@name='act_create']")).click();
         Thread.sleep(2000);
+        //Exception handling
+        try{
+            WebElement NewUser = driver.findElement(By.xpath("//*[contains(text(), 'qeqeqe12@gmail.com')]"));
+            Assert.assertEquals(true, NewUser.isDisplayed());
+        }
+        catch(Exception ex){
+            System.out.println("Пользователь с email \"qeqeqe12@gmail.com\" уже существует!");
+        }
 
         //Transfer to Personal Area
         driver.findElement(By.xpath("//a[@class='dropdown-toggle']")).click();
@@ -51,10 +59,6 @@ public class Users {
 
         //Edit personal information
         driver.findElement(By.xpath("//select[@name='gender']")).sendKeys("Мужской");
-        driver.findElement(By.xpath("//input[@name='birthday']")).clear();
-        driver.findElement(By.xpath("//input[@name='birthday']")).sendKeys("01.11.1989");
-        driver.findElement(By.xpath("//input[@name='date_start']")).clear();
-        driver.findElement(By.xpath("//input[@name='date_start']")).sendKeys("01.01.2011");
         driver.findElement(By.xpath("//textarea[@name='hobby']")).clear();
         driver.findElement(By.xpath("//textarea[@name='hobby']")).sendKeys("Футбол");
         driver.findElement(By.xpath("//input[@name='inn']")).clear();
