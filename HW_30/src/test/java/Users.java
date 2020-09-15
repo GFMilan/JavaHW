@@ -58,6 +58,7 @@ public class Users {
         Assert.assertEquals(true, PA.isDisplayed());
 
         //Edit personal information
+        driver.findElement(By.xpath("//input[@name='avatar']")).sendKeys("D:\\Hillel\\Git_JAVA\\HW_30\\Milan.png");
         driver.findElement(By.xpath("//select[@name='gender']")).sendKeys("Мужской");
         driver.findElement(By.xpath("//textarea[@name='hobby']")).clear();
         driver.findElement(By.xpath("//textarea[@name='hobby']")).sendKeys("Футбол");
