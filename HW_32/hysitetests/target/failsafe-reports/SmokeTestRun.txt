@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: SmokeTestRun
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 1, Skipped: 4, Time elapsed: 152.716 sec <<< FAILURE! - in SmokeTestRun
+I as a job seeker WTBAT send my CV and apply for  job(Send CV)  Time elapsed: 111.56 sec  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: Timed out after 80 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-100108', ip: '169.254.231.64', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+	at net.thucydides.core.annotations.locators.SmartAjaxElementLocator.ajaxFindElement(SmartAjaxElementLocator.java:166)
+	at net.thucydides.core.annotations.locators.SmartAjaxElementLocator.findElement(SmartAjaxElementLocator.java:118)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy26.isDisplayed(Unknown Source)
+	at steps.VacanciesPageSteps.isSuccessMessageDisplayed(VacanciesPageSteps.java:50)
+	at steps.VacanciesPageSteps$$EnhancerByCGLIB$$f37143a6.CGLIB$isSuccessMessageDisplayed$6(<generated>)
+	at steps.VacanciesPageSteps$$EnhancerByCGLIB$$f37143a6$$FastClassByCGLIB$$42e4339b.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:461)
+	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:446)
+	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:421)
+	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:176)
+	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:163)
+	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:69)
+	at steps.VacanciesPageSteps$$EnhancerByCGLIB$$f37143a6.isSuccessMessageDisplayed(<generated>)
+	at stepdefinitions.CareerStepDef.messageIsDisplsyed(CareerStepDef.java:53)
+	at ✽.message "We will contact you soon" is displsyed(src/test/resources/features/smoke/Smoke_send_CV.feature:11)
+

@@ -1,0 +1,835 @@
+<html lang="en-US" class=""><!--<![endif]--><head>
+	<!-- Meta UTF8 charset -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/2018/09/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/2018/09/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/2018/09/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/wp-content/uploads/2018/09/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/wp-content/uploads/2018/09/favicons/safari-pinned-tab.svg" color="#03066d">
+    <meta name="apple-mobile-web-app-title" content="HYS Enterprise">
+    <meta name="application-name" content="HYS Enterprise">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Google Tag Manager -->
+    <script src="https://connect.facebook.net/signals/config/2770339363244639?v=2.9.24&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/527702751123836?v=2.9.24&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://js.hs-banner.com/4264808.js" type="text/javascript" id="cookieBanner-4264808" data-loader="hs-scriptloader" data-hsjs-portal="4264808" data-hsjs-env="prod"></script><script src="//js.hs-analytics.net/analytics/1600339200000/4264808.js" type="text/javascript" id="hs-analytics"></script><script src="https://js.usemessages.com/conversations-embed.js" type="text/javascript" id="hubspot-messages-loader" data-loader="hs-scriptloader" data-hsjs-portal="4264808" data-hsjs-env="prod"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MRDS8WD"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MRDS8WD');</script>
+    <!-- End Google Tag Manager -->
+	<script>var et_site_url='https://stage.hwr.hysdev.com';var et_post_id='2931';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Home - HYS Enterprise</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="HYS Enterprise is a full-cycle IT outsourcing service provider that delivers custom software development services to fuel businesses in the digital era.">
+<link rel="canonical" href="https://stage.hwr.hysdev.com/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Home - HYS Enterprise">
+<meta property="og:description" content="HYS Enterprise is a full-cycle IT outsourcing service provider that delivers custom software development services to fuel businesses in the digital era.">
+<meta property="og:url" content="https://stage.hwr.hysdev.com/">
+<meta property="og:site_name" content="HYS Enterprise">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="HYS Enterprise is a full-cycle IT outsourcing service provider that delivers custom software development services to fuel businesses in the digital era.">
+<meta name="twitter:title" content="Home - HYS Enterprise">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://stage.hwr.hysdev.com/#organization","name":"","url":"https://stage.hwr.hysdev.com/","sameAs":[]},{"@type":"WebSite","@id":"https://stage.hwr.hysdev.com/#website","url":"https://stage.hwr.hysdev.com/","name":"HYS Enterprise","publisher":{"@id":"https://stage.hwr.hysdev.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://stage.hwr.hysdev.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://stage.hwr.hysdev.com/#webpage","url":"https://stage.hwr.hysdev.com/","inLanguage":"en-US","name":"Home - HYS Enterprise","isPartOf":{"@id":"https://stage.hwr.hysdev.com/#website"},"about":{"@id":"https://stage.hwr.hysdev.com/#organization"},"datePublished":"2019-08-05T13:56:28+00:00","dateModified":"2019-11-05T09:47:39+00:00","description":"HYS Enterprise is a full-cycle IT outsourcing service provider that delivers custom software development services to fuel businesses in the digital era."}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="HYS Enterprise » Feed" href="https://stage.hwr.hysdev.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="HYS Enterprise » Comments Feed" href="https://stage.hwr.hysdev.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/stage.hwr.hysdev.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://stage.hwr.hysdev.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://stage.hwr.hysdev.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="nt-conversi-parent-style-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/dist/css/main.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi-child/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="et-builder-modules-style-css" href="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/includes/builder/styles/frontend-builder-plugin-style.min.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://stage.hwr.hysdev.com/wp-includes/css/dashicons.min.css?ver=5.2.2" type="text/css" media="all">
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"stage.hwr.hysdev.com"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/core/admin/js/recaptcha.js?ver=5.2.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stage.hwr.hysdev.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://stage.hwr.hysdev.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://stage.hwr.hysdev.com/">
+<link rel="alternate" type="application/json+oembed" href="https://stage.hwr.hysdev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstage.hwr.hysdev.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://stage.hwr.hysdev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstage.hwr.hysdev.com%2F&amp;format=xml">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-9139606-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-9139606-1');
+	</script>
+    <script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin=""></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin=""></script>
+
+            <script src="https://www.googleoptimize.com/optimize.js?id=OPT-KRXH87G"></script>
+    <style>[data-columns]::before{visibility:hidden;position:absolute;font-size:1px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+
+	<!-- BODY START=========== -->
+	<body class="home page-template page-template-templates page-template-index2 page-template-templatesindex2-php page page-id-2931 et_divi_builder et-pb-theme-nt conversi child et-db et_minified_js et_minified_css chrome"><style type="text/css">div#hs-eu-cookie-confirmation{background:#fff;height:auto;left:0;position:absolute;top:0;width:100%;z-index:100000000!important;border-bottom:1px solid #cbd6e2;border-top:1px solid #cbd6e2;box-shadow:0 1px 5px #eaf0f6;color:#33475b;font-family:inherit;font-size:inherit;font-weight:400!important;line-height:inherit;text-align:left;text-shadow:none!important;font-size:12px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;line-height:18px}div#hs-eu-cookie-confirmation *{box-sizing:border-box!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner{background:#fff;margin:0 auto;max-width:1000px;padding:20px}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a{text-decoration:none!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a,div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a:hover{background:none!important;border:none!important;box-shadow:none!important;color:#0091ae;font-family:inherit;font-size:inherit;font-weight:400!important;line-height:inherit;text-align:left;text-shadow:none!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a:hover{text-decoration:underline!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner div#hs-eu-policy-wording{margin-bottom:12px}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner div#hs-en-cookie-confirmation-buttons-area{margin:10px 0 0!important;text-align:right!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-confirmation-button,div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-decline-button{border-radius:3px;display:inline-block;padding:10px 16px!important;text-decoration:none!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-confirmation-button{background-color:#00bda5!important;border:1px solid #00bda5!important;margin-right:12px!important;color:#fff;font-family:inherit;font-size:inherit;font-weight:400!important;line-height:inherit;text-align:left;text-shadow:none!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-decline-button{border:1px solid #00bda5!important;color:#00bda5;font-family:inherit;font-size:inherit;font-weight:400!important;line-height:inherit;text-align:left;text-shadow:none!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-cookie-settings-button{color:#00bda5!important;margin-right:12px!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner p{margin:0 0 12px;color:#33475b;font-family:inherit;font-size:inherit;font-weight:400!important;line-height:inherit;text-align:left;text-shadow:none!important}@media print{div#hs-eu-cookie-confirmation{display:none!important}}@media screen and (max-width:480px){div#hs-eu-cookie-confirmation{font-size:12px!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner{padding:8px 14px 14px!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a,div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner a#hs-eu-confirmation-button{font-size:12px!important}div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner p{font-size:12px!important;margin-bottom:12px!important;line-height:15px!important}}@media only screen and (min-width:960px){div#hs-eu-cookie-confirmation{position:fixed}div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom{border-bottom:0;bottom:0;top:auto;box-shadow:0 -1px 3px #eaf0f6}div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom-left{border-bottom:0;border-right:1px solid #cbd6e2;bottom:0;box-shadow:1px -1px 3px #eaf0f6;left:0;max-width:600px;right:auto;top:auto;width:45%}}</style><div id="hs-eu-cookie-confirmation" class="" data-nosnippet="">
+            <div id="hs-eu-cookie-confirmation-inner">
+              <div id="hs-eu-policy-wording"><p>This website stores cookies to collect analytics and metrics about how visitors interact with the website. This will help us offer you the most relevant information and ensure you get the best-personalized experience. For more details read our <a href="https://stage.hwr.hysdev.com/privacy-policy/" target="_blank">Privacy policy</a>. </p></div>
+              <p id="hs-eu-cookie-disclaimer">If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.</p>
+              <div id="hs-en-cookie-confirmation-buttons-area">
+                
+                <a href="#" id="hs-eu-confirmation-button">
+    Accept
+  </a>
+                <a href="#" id="hs-eu-decline-button">Decline</a>
+              </div>
+            </div>
+          </div><style type="text/css">html.hs-messages-widget-open.hs-messages-mobile,html.hs-messages-widget-open.hs-messages-mobile body{overflow:hidden!important;position:relative!important}html.hs-messages-widget-open.hs-messages-mobile body{height:100%!important;margin:0!important}#hubspot-messages-iframe-container{display:initial!important;z-index:2147483647;position:fixed!important;bottom:0!important}#hubspot-messages-iframe-container.widget-align-left{left:0!important}#hubspot-messages-iframe-container.widget-align-right{right:0!important}#hubspot-messages-iframe-container.internal{z-index:1016}#hubspot-messages-iframe-container.internal iframe{min-width:108px}#hubspot-messages-iframe-container .shadow-container{display:initial!important;z-index:-1;position:absolute;width:0;height:0;bottom:0;content:""}#hubspot-messages-iframe-container .shadow-container.internal{display:none!important}#hubspot-messages-iframe-container .shadow-container.active{width:400px;height:400px}#hubspot-messages-iframe-container iframe{display:initial!important;width:100%!important;height:100%!important;border:none!important;position:absolute!important;bottom:0!important;right:0!important;background:transparent!important}</style>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRDS8WD"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->        <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&amp;display=swap" rel="stylesheet">
+<header id="header" style="display: block;" class="header-fixed">
+    	<nav id="navigation" class="navbar">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="navbar-wrap">
+                        <div class="navbar-brand">
+                            <a href="/" class="img-logo">
+                                                                    <img src="/wp-content/uploads/2018/09/logo-mono-colored.png" alt="HYS Logo" class="white hidden">
+                                    <img src="/wp-content/uploads/2018/09/logo-colored-1.png" alt="HYS Logo" class="">
+                                                            </a>
+                        </div>
+                        <button type="button" class="menu-toggle">
+                            <span class="top"></span>
+                            <span class="center"></span>
+                            <span class="bottom"></span>
+                        </button>
+                    </div>
+                    <ul id="primary-menu-affix" class="nav navbar-nav primary-menu">
+    <li class="menu-item">
+        <a href="/about-us/">
+            About us
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false">
+            Services <span class="caret"></span></a>
+        <ul role="menu" class="sub-menu dropdown-menu">
+                        <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/technology-consulting/">IT Consulting and Advising</a></li>
+                        <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/custom-software-development/">Custom Software and Product Development</a></li>
+                        <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/enterprise-software-development/">Enterprise Applications</a></li>
+                        <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/software-modernization/">Software Modernization</a></li>
+                        <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/quality-assurance-and-software-testing-2/">Quality Assurance</a></li>
+                        <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/software-maintenance/">Software Maintenance</a></li>
+             
+        </ul>
+    </li>
+    <li class="menu-item">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false">
+            Industries <span class="caret"></span></a>
+        <ul role="menu" class="sub-menu dropdown-menu">
+                                        <li class="menu-item"><a href="/industries/energy-and-utilities">Energy and Utilities</a></li>
+                            <li class="menu-item"><a href="/industries/travel-and-leisure">Travel and Leisure</a></li>
+                            <li class="menu-item"><a href="/industries/transport-and-logistics">Transport and Logistics</a></li>
+                            <li class="menu-item"><a href="/industries/finance-and-banking">Finance and Banking</a></li>
+                            <li class="menu-item"><a href="/industries/telecommunications">Telecom</a></li>
+                            <li class="menu-item"><a href="/industries/retail-and-e-commerce">Retail and E-commerce</a></li>
+                    </ul>
+    </li>
+    <li class="menu-item">
+        <a href="/success-cases/">
+            Our cases
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/blog/">
+            Blog
+        </a>
+    </li>
+        <li class="menu-item">
+        <a href="/career/" target="_blank">Career</a>
+    </li>
+    <li class="menu-item">
+        <a href="/references/">References</a>
+    </li>
+    <li class="menu-item">
+        <a id="contact-us-menu" href="/contact-us/" class="contact-us">
+            Contact us
+        </a>
+    </li>
+</ul>                    <ul id="mobile-menu-affix" class="nav navbar-nav mobile-menu">
+    <li class="menu-item">
+        <a href="/about-us/">
+            About us
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false">
+            Services <span class="caret"></span></a>
+        <ul role="menu" class="sub-menu dropdown-menu">
+                                <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/technology-consulting/">IT Consulting and Advising</a></li>
+                                    <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/custom-software-development/">Custom Software and Product Development</a></li>
+                                    <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/enterprise-software-development/">Enterprise Applications</a></li>
+                                    <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/software-modernization/">Software Modernization</a></li>
+                                    <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/quality-assurance-and-software-testing-2/">Quality Assurance</a></li>
+                                    <li class="menu-item"><a href="https://stage.hwr.hysdev.com/services/software-maintenance/">Software Maintenance</a></li>
+                        </ul>
+    </li>
+    <li class="menu-item">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false">
+            Industries <span class="caret"></span></a>
+        <ul role="menu" class="sub-menu dropdown-menu">
+                                        <li class="menu-item"><a href="/industries/energy-and-utilities">Energy and Utilities</a></li>
+                            <li class="menu-item"><a href="/industries/travel-and-leisure">Travel and Leisure</a></li>
+                            <li class="menu-item"><a href="/industries/transport-and-logistics">Transport and Logistics</a></li>
+                            <li class="menu-item"><a href="/industries/finance-and-banking">Finance and Banking</a></li>
+                            <li class="menu-item"><a href="/industries/telecommunications">Telecom</a></li>
+                            <li class="menu-item"><a href="/industries/retail-and-e-commerce">Retail and E-commerce</a></li>
+                    </ul>
+    </li>
+        <li class="menu-item">
+        <a href="/success-cases/">
+            Our cases
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/blog/">
+            Blog
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/">Career</a>
+    </li>
+    <li class="menu-item">
+        <a href="/references/">References</a>
+    </li>
+    <li class="menu-item">
+        <a href="/contact-us/">
+            Contact us
+        </a>
+    </li>
+    <li class="menu-item social">
+        <ul class="social-icons">
+            <li><a target="_blank" href="https://www.instagram.com/hys_enterprise/"> <i class="icon-instagram"></i> </a></li>
+            <li><a target="_blank" href="https://www.facebook.com/hysenterprise/"> <i class="icon-facebook"></i> </a></li>
+            <li><a target="_blank" href="https://www.linkedin.com/company/hys-enterprise"> <i class="icon-linkedin"></i> </a></li>
+            <li><a target="_blank" href="https://twitter.com/hys_enterprise"> <i class="icon-twitter"></i> </a></li>
+            <li><a target="_blank" href="https://www.youtube.com/channel/UCl3yhYAbPoZcLgiwjBkZ9WQ"> <i class="icon-youtube"></i> </a></li>
+        </ul>
+    </li>
+</ul>                </div>
+            </div>
+        </div>
+	</nav>
+</header>
+
+    <script type="text/javascript">
+        jQuery('document').ready(function(){
+            jQuery('.how-to-start .list div').hover(function(){
+                jQuery(this).addClass('hvd');
+                jQuery(this).prevAll().addClass('hvd');
+            });
+        });
+
+
+
+    </script><script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "brand": "HYS Enterprise",
+        "logo": "https://www.hys-enterprise.com/wp-content/uploads/2018/09/logo-colored-1.png",
+        "name": "HYS Enterprise",
+        "alternateName": "HYS",
+        "url": "https://www.hys-enterprise.com/",
+        "sameAs": [
+            "https://www.facebook.com/hysenterprise/",
+            "https://twitter.com/hys_enterprise",
+            "https://www.linkedin.com/company/hys-enterprise",
+            "https://www.youtube.com/channel/UCl3yhYAbPoZcLgiwjBkZ9WQ",
+            "https://www.instagram.com/hys_enterprise/"
+        ]
+    }
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "url": "https://www.hys-enterprise.com/",
+  "itemListElement":[
+    {
+      "@type":"SiteNavigationElement",
+      "position": 1,
+      "url":"https://www.hys-enterprise.com"
+    },
+    {
+      "@type":"SiteNavigationElement",
+      "position": 2,
+      "url":"https://www.hys-enterprise.com/about-us/"
+    },
+    {
+      "@type":"SiteNavigationElement",
+      "position": 3,
+      "url":"https://www.hys-enterprise.com/services/"
+    },
+    {
+      "@type":"SiteNavigationElement",
+      "position": 4,
+      "url":"https://www.hys-enterprise.com/blog/"
+    },
+    {
+      "@type":"SiteNavigationElement",
+      "position": 5,
+      "url":"https://www.hys-enterprise.com/career/"
+    },
+    {
+      "@type":"SiteNavigationElement",
+      "position": 6,
+      "url":"https://www.hys-enterprise.com/contact-us/"
+    }
+  ]
+}
+</script>
+
+
+<div id="main-page" class="main-page home-page">
+    <!-- Header -->
+        <section id="main-jumbotron" class="main-jumbotron">
+        <div class="gradient"></div>
+        <div class="left">
+            <div class="block"></div>
+            <div class="block"></div>
+            <div class="block"></div>
+        </div>
+        <div class="right">
+            <div class="block"></div>
+            <div class="block"></div>
+            <div class="block"></div>
+        </div>
+        <div class="background-blur1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h1 class="text-white">Delivering Excellence</h1>
+                        <h3 class="text-white">Technology Consulting and Software Development House</h3>
+                        <p class="center"><a href="/contact-us" class="btn orange hidden-md1 hidden-sm1 hidden-xs1">
+                            <span>Let’s discuss your project</span>
+                            </a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="hys-partners">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <h3>Among our customers</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="container hidden-scrollbar">
+                    <div class="inner-wrap row">
+                                                    <span class="partner-image">
+                            <img src="https://stage.hwr.hysdev.com/wp-content/uploads/2018/09/you.png" alt="you">
+                        </span>
+                                                    <span class="partner-image">
+                            <img src="https://stage.hwr.hysdev.com/wp-content/uploads/2018/09/N.png" alt="N">
+                        </span>
+                                                    <span class="partner-image">
+                            <img src="https://stage.hwr.hysdev.com/wp-content/uploads/2018/10/SF.png" alt="SF">
+                        </span>
+                                                    <span class="partner-image">
+                            <img src="https://stage.hwr.hysdev.com/wp-content/uploads/100@2x.png" alt="100@2x">
+                        </span>
+                                                    <span class="partner-image">
+                            <img src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/05/brico-grey-min.png" alt="brico-grey-min">
+                        </span>
+                                                    <span class="partner-image">
+                            <img src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/05/praxis-grey-min.png" alt="praxis-grey-min">
+                        </span>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blocks after header
+    <section class="hys-features">
+        <div class="container">
+            <div class="row">
+                            </div>
+        </div>
+    </section>
+
+     Get reference form -->
+
+
+    <!-- Epicflow-->
+    
+
+
+</div>
+
+
+
+    <section class="success-cases-widget widget-m ">
+        <div class="container has-margin-bottom">
+            <div class="row">
+                <div class="success-cases-description col-lg-3 col-xs-12">
+                    <h2 class="text-blue">We make IT happen</h2>
+                                        <p>Find out how we solve business challenges as a long-term software development partner</p>
+                    <a href="/success-cases" class="btn-icon btn-arrow orange hidden-md hidden-sm hidden-xs">
+                        <span>See All Cases</span>
+                        <i class="icon-arrow-short"></i>
+                    </a>
+                </div>
+                <div class="success-cases-content col-xl-offset-1 col-xl-8 col-lg-9 col-xs-12">
+                    <div class="decorative"></div>
+                    <div class="row ajax-call">
+                        <!-- Success - cases -->
+                                                    <div class="success-cases-item col-xs-12">
+                                <div class="success-cases-heading hidden-md hidden-sm hidden-xs">
+                                    <a href="https://stage.hwr.hysdev.com/success-cases/multifunctional-merchant-web-portal/" class="success-cases-image">
+                                        <div class="success-cases-image-wrap" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/Untitled-design-12.png"></div>
+                                                                            </a>
+                                </div>
+                                <div class="success-cases-info-wrap">
+                                    <div class="success-case-info">
+                                        <div class="success-case-info-wrap hidden-xl hidden-lg">
+                                            <a href="https://stage.hwr.hysdev.com/success-cases/multifunctional-merchant-web-portal/" class="success-cases-image">
+                                                <div class="success-cases-image-wrap" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/Untitled-design-12.png"></div>
+                                                                                            </a>
+                                                                                            <a class="tag outline" href="/success-cases/?industry=finance-and-banking">Finance and Banking</a>
+                                                                                    </div>
+                                                                                    <a class="tag outline hidden-md hidden-sm hidden-xs" href="/success-cases/?industry=finance-and-banking">Finance and Banking</a>
+                                                                                <h3>
+                                            <a class="truncate truncate-3" href="https://stage.hwr.hysdev.com/success-cases/multifunctional-merchant-web-portal/">
+                                                Web Portal for Merchants with Full-Featured Users’ Subscription Management Package                                            </a>
+                                        </h3>
+                                        <a href="https://stage.hwr.hysdev.com/success-cases/multifunctional-merchant-web-portal/" class="btn-icon orange transparent hidden-md hidden-sm hidden-xs">
+                                            <i class="ic ic-arrow">
+                                                <span></span>
+                                            </i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="success-cases-item col-xs-12">
+                                <div class="success-cases-heading hidden-md hidden-sm hidden-xs">
+                                    <a href="https://stage.hwr.hysdev.com/success-cases/custom-crm-for-a-financial-platform/" class="success-cases-image">
+                                        <div class="success-cases-image-wrap" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/art-big-data-blur-373543.jpg"></div>
+                                                                            </a>
+                                </div>
+                                <div class="success-cases-info-wrap">
+                                    <div class="success-case-info">
+                                        <div class="success-case-info-wrap hidden-xl hidden-lg">
+                                            <a href="https://stage.hwr.hysdev.com/success-cases/custom-crm-for-a-financial-platform/" class="success-cases-image">
+                                                <div class="success-cases-image-wrap" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/art-big-data-blur-373543.jpg"></div>
+                                                                                            </a>
+                                                                                            <a class="tag outline" href="/success-cases/?industry=finance-and-banking">Finance and Banking</a>
+                                                                                    </div>
+                                                                                    <a class="tag outline hidden-md hidden-sm hidden-xs" href="/success-cases/?industry=finance-and-banking">Finance and Banking</a>
+                                                                                <h3>
+                                            <a class="truncate truncate-3" href="https://stage.hwr.hysdev.com/success-cases/custom-crm-for-a-financial-platform/">
+                                                Custom CRM for a Financial Platform with an Integrated Data Management System to Support the Decision Making Process                                            </a>
+                                        </h3>
+                                        <a href="https://stage.hwr.hysdev.com/success-cases/custom-crm-for-a-financial-platform/" class="btn-icon orange transparent hidden-md hidden-sm hidden-xs">
+                                            <i class="ic ic-arrow">
+                                                <span></span>
+                                            </i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="success-cases-item col-xs-12">
+                                <div class="success-cases-heading hidden-md hidden-sm hidden-xs">
+                                    <a href="https://stage.hwr.hysdev.com/success-cases/third-generation-cross-media-entertainment-experience-platform/" class="success-cases-image">
+                                        <div class="success-cases-image-wrap" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/Untitled-design-5.png"></div>
+                                                                            </a>
+                                </div>
+                                <div class="success-cases-info-wrap">
+                                    <div class="success-case-info">
+                                        <div class="success-case-info-wrap hidden-xl hidden-lg">
+                                            <a href="https://stage.hwr.hysdev.com/success-cases/third-generation-cross-media-entertainment-experience-platform/" class="success-cases-image">
+                                                <div class="success-cases-image-wrap" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/Untitled-design-5.png"></div>
+                                                                                            </a>
+                                                                                            <a class="tag outline" href="/success-cases/?industry=finance-and-banking">Finance and Banking</a>
+                                                                                    </div>
+                                                                                    <a class="tag outline hidden-md hidden-sm hidden-xs" href="/success-cases/?industry=finance-and-banking">Finance and Banking</a>
+                                                                                <h3>
+                                            <a class="truncate truncate-3" href="https://stage.hwr.hysdev.com/success-cases/third-generation-cross-media-entertainment-experience-platform/">
+                                                FCCE: A Third-Generation Cross-Media Entertainment Experience Platform                                            </a>
+                                        </h3>
+                                        <a href="https://stage.hwr.hysdev.com/success-cases/third-generation-cross-media-entertainment-experience-platform/" class="btn-icon orange transparent hidden-md hidden-sm hidden-xs">
+                                            <i class="ic ic-arrow">
+                                                <span></span>
+                                            </i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+                    <a href="/success-cases" class="btn-icon btn-arrow orange hidden-xl hidden-lg">
+                        <span>See more cases</span>
+                        <i class="icon-arrow-short"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+<section class="success-cases-references-widget widget-p ">
+    <div class="container has-margin-bottom">
+        <div class="success-cases-content">
+            <div class="row">
+                <!-- Reference -->
+                <div class="col-xs-12">
+                    <!-- Wrapper for slides -->
+                    <h2 class="text-blue hidden-xl hidden-lg">What our
+                        partners say
+                        about working
+                        with us</h2>
+                    <div class="top">
+                        <div id="reference-carousel" class="carousel slide" data-interval="false" data-total="4">
+                            <div class="carousel-inner ajax-call" role="listbox">
+                                                                    <div class="item active">
+                                        <div class="reference-media">
+                                                                                            <div class="youtube-wrap">
+                                                    <div class="youtube-thumbnail" id="thumbnail" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/wXb8NVO-1-min.jpg">
+<!--                                                        onclick="loadPlayer(this, '--><!--')"-->
+                                                        <button id="play-button" class="btn-circle btn-play" onclick="openVideo(this, 'Uv5reT1obvs')" data-toggle="modal" data-target="#video-modal"></button>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                        <a href="https://stage.hwr.hysdev.com/references/fcce/" class="reference-description-wrap">
+                                            <h3 class="reference-description"><p><span style="font-weight: 400">I think that&nbsp;it is one of the best experiences we had so far with people who build things like this.</span></p>
+</h3>
+                                            <div class="reference-description-info">
+                                                <div class="author">
+                                                    <div class="author-avatar" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/d921b2c2b10ba9a9e6a032f815deaf9e_360x360_center-min.jpg"></div>
+                                                    <div class="author-info">
+                                                        <h3 class="author-name text-white">Justus Verkerk</h3>
+                                                        <div class="author-position text-white">Founder and CEO of FCCE</div>
+                                                    </div>
+                                                </div>
+                                                <div class="logo-wrap">
+                                                    <img src="https://stage.hwr.hysdev.com/wp-content/uploads/fcce-min.png" data-src="https://stage.hwr.hysdev.com/wp-content/uploads/fcce-min.png" alt="FCCE">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="bottom">
+                        <div class="row">
+                            <div class="col-lg-3 col-xs-12">
+                                <h2 class="text-blue hidden-md hidden-sm hidden-xs">What our
+                                    partners say
+                                    about working
+                                    with us</h2>
+                            </div>
+                        </div>
+                        <a class="btn-icon btn-arrow orange" href="/references">
+                            <span>See All References</span>
+                            <i class="icon-arrow-short"></i>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div id="video-modal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            </div>
+            <div class="modal-body">
+                <div class="player"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="get-reference widget-p ">
+    <div class="container has-margin-bottom">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>We're One Handshake Away From You</h2>
+                <p>We’ve been part of the Dutch business community for more than 10 years, so lots of people know us! Click this button and we'll see if we can find some mutual connections you can talk to as references.</p>
+                <button id="ask-ref-btn" type="button" class="btn orange" data-toggle="modal" data-target="#getReferenceModal">Ask for a reference</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="modal modal-form fade" id="getReferenceModal" tabindex="-1" role="dialog" data-backdrop="true" aria-labelledby="getReferenceModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h3 class="modal-title">Reference inquiry form</h3>
+            </div>
+            <div class="modal-body">
+                <p>
+                    We are happy to get in touch and provide you with details about our projects and references.
+                    Please, leave us your contacts and choose the industry you are in.
+                </p>
+                <form id="reference-form" class="reference-form" novalidate="">
+                    <div class="row">
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="form-group form-group-floating">
+                                <input id="full_name" name="full_name" type="text" required="">
+                                <label for="full_name">Full Name</label>
+                                <div class="error-tooltip">
+                                    <div class="icon icon-question"></div>
+                                    <div class="tooltip"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6 col-xs-12 mb">
+                                                        <span class="multiselect-native-select"><select id="reference-industry" name="industry" class="reference-industry-select accordion">
+                                <option value="0">All Industries</option>
+                                                                    <option value="energy-and-utilities">Energy and Utilities</option>
+                                                                    <option value="travel-and-leisure">Travel and Leisure</option>
+                                                                    <option value="transport-and-logistics">Transport and Logistics</option>
+                                                                    <option value="finance-and-banking">Finance and Banking</option>
+                                                                    <option value="telecommunications">Telecom</option>
+                                                                    <option value="retail-and-e-commerce">Retail and E-commerce</option>
+                                                            </select><div class="btn-group"><button type="button" class="multiselect dropdown-toggle btn btn-default" data-toggle="dropdown" title="All Industries"><span class="multiselect-selected-text">All Industries</span> <b class="caret"></b></button><ul class="multiselect-container dropdown-menu"><li class="active"><a tabindex="0"><label class="radio" title="All Industries"><input type="radio" value="0"> All Industries</label></a></li><li><a tabindex="0"><label class="radio" title="Energy and Utilities"><input type="radio" value="energy-and-utilities"> Energy and Utilities</label></a></li><li><a tabindex="0"><label class="radio" title="Travel and Leisure"><input type="radio" value="travel-and-leisure"> Travel and Leisure</label></a></li><li><a tabindex="0"><label class="radio" title="Transport and Logistics"><input type="radio" value="transport-and-logistics"> Transport and Logistics</label></a></li><li><a tabindex="0"><label class="radio" title="Finance and Banking"><input type="radio" value="finance-and-banking"> Finance and Banking</label></a></li><li><a tabindex="0"><label class="radio" title="Telecom"><input type="radio" value="telecommunications"> Telecom</label></a></li><li><a tabindex="0"><label class="radio" title="Retail and E-commerce"><input type="radio" value="retail-and-e-commerce"> Retail and E-commerce</label></a></li></ul></div></span>
+                        </div>
+
+                        <div class="col-sm-6 col-xs-12">
+                            <div class="form-group form-group-floating">
+                                <input type="text" id="email" name="email" data-unvalid="Valid email required" maxlength="70" required="">
+                                <label for="email">Email</label>
+                                <div class="error-tooltip">
+                                    <div class="icon icon-question"></div>
+                                    <div class="tooltip"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group checkbox-wrap">
+                                <label>
+                                    <input type="checkbox" id="ch1" name="privacy_policy" value="yes" required="" data-unvalid="Please, tick the box to let us know you’ve read and consented to Privacy Policy.">
+                                    <label for="ch1"></label>
+                                    <span>
+                                        By entering my details, I agree to the use and storage of my data submitted and to be contacted with the information requested.
+                                        <br>
+                                        We're committed to protecting and respecting your privacy and we'll only use your personal data to provide you with content you are interested in.<br> You can unsubscribe anytime. For more details, please review our <a href="/privacy-policy" class="blue" target="_blank">Privacy Policy</a>.
+                                    </span>
+                                </label>
+                                <div class="error-tooltip">
+                                    <div class="icon icon-question"></div>
+                                    <div class="tooltip"></div>
+                                </div>
+                            </div>
+                            <div class="form-group checkbox-wrap">
+                                <label>
+                                    <input type="checkbox" id="subscribe_newsletter" name="subscribe_newsletter" value="yes">
+                                    <label for="subscribe_newsletter"></label>
+                                    <span>
+                                        I would like to receive the latest from HYS Enterprise - monthly newsletters with industry tips, research copies, success cases, secret handshakes, and more.
+                                    </span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="submit-wrap">
+                        <button id="ref-inquiry-submit-btn" type="submit" class="btn blue">Submit</button>
+                        <div class="form-message"></div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button id="thank-you-ref-inquiry" type="button" data-dismiss="modal">Close the window</button>
+            </div>
+        </div>
+    </div>
+</div><section class="hys-events widget-p ">
+    <div class="container">
+        <div class="container-mx">
+            <div class="row">
+                <div class="col-xs-12 events-description">
+                    <h2>Let's network</h2>
+
+                    <a href="/events" class="btn-icon btn-arrow orange hidden-xs hidden-sm hidden-md">
+                        <span>Upcoming events</span>
+                        <i class="icon-arrow-short"></i>
+                    </a>
+
+                </div>
+            </div>
+            <div class="hys-events-wrap hidden-scrollbar">
+                <div class="row">
+                                    </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <a href="/events" class="btn-icon btn-arrow orange hidden-xl hidden-lg">
+                        <span>See more events</span>
+                        <i class="icon-arrow-short"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><footer class="main-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="scroll-top-wrap">
+                    <div class="scroll-top">
+                        <i class="icon icon-chevron-right"></i>
+                        <span>Back to top</span>
+                    </div>
+                </div>
+            </div>
+            <div class="left">
+                <div class="col-lg-6 hidden-md hidden-sm hidden-xs">
+                    <div class="footer-contacts">
+                        <div class="footer-media">
+                            <a href="/">
+                                <img src="/wp-content/uploads/2018/09/logo-mono-colored.png" alt="HYS Logo" class="white">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="footer-navigation">
+                        <div class="links">
+                            <small>Links</small>
+                            <ul>
+                                                                        <li><a href="/about-us">About us</a></li>
+                                                                            <li><a href="/services">Services</a></li>
+                                                                            <li><a href="/success-cases">Success cases</a></li>
+                                                                            <li><a href="/references">References</a></li>
+                                                                            <li><a href="/blog">Blog</a></li>
+                                                                            <li><a href="/career">Career</a></li>
+                                                                            <li><a href="/contact-us">Contact us</a></li>
+                                                                </ul>
+                        </div>
+                        <div class="expertise">
+                            <small>Expertise</small>
+                            <ul>
+<li><a href="https://stage.hwr.hysdev.combusiness-solution/technology-consulting">Technology consulting</a></li>
+<li><a href="https://stage.hwr.hysdev.combusiness-solution/custom-software-solutions">Custom software solutions</a></li>
+<li><a href="https://stage.hwr.hysdev.comtechnology/web-development/">Web development</a></li>
+<li><a href="https://stage.hwr.hysdev.comtechnology/mobile-development/">Mobile development</a></li>
+<li><a href="https://stage.hwr.hysdev.comtechnology/database-design-and-development/">Database design</a></li>
+<li><a href="https://stage.hwr.hysdev.comtechnology/cloud-computing/">Cloud computing</a></li>
+<li><a href="https://stage.hwr.hysdev.combusiness-solution/team-extension">Team extension</a></li>
+</ul>
+                        </div>
+                        <div class="industries">
+                            <small>Industries</small>
+                            <ul>
+                                                                                                    <li><a href="/industries/energy-and-utilities">Energy and Utilities</a></li>
+                                                                    <li><a href="/industries/travel-and-leisure">Travel and Leisure</a></li>
+                                                                    <li><a href="/industries/transport-and-logistics">Transport and Logistics</a></li>
+                                                                    <li><a href="/industries/finance-and-banking">Finance and Banking</a></li>
+                                                                    <li><a href="/industries/telecommunications">Telecom</a></li>
+                                                                    <li><a href="/industries/retail-and-e-commerce">Retail and E-commerce</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="col-lg-6 col-xs-12">
+                    <div class="footer-contacts">
+                        <small>Get connected</small>
+                            <ul class="social-icons">
+                                <li><a target="_blank" href="https://www.instagram.com/hys_enterprise/"> <i class="icon-instagram"></i> </a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/hysenterprise/"> <i class="icon-facebook"></i> </a></li>
+                                <li><a target="_blank" href="https://www.linkedin.com/company/hys-enterprise"> <i class="icon-linkedin"></i> </a></li>
+                                <li><a target="_blank" href="https://twitter.com/hys_enterprise"> <i class="icon-twitter"></i> </a></li>
+                                <li><a target="_blank" href="https://www.youtube.com/channel/UCl3yhYAbPoZcLgiwjBkZ9WQ"> <i class="icon-youtube"></i> </a></li>
+                            </ul>
+                        <a class="contact-link" href="tel:+31 20 808 1314">+31 20 808 1314</a>
+                        <br>
+                        <a class="contact-link" href="mailto:info@hys-enterprise.com">info@hys-enterprise.com</a>
+                    </div>
+                    <div class="footer-offices">
+                        <small>Our Offices</small>
+                        <ul class="location-list">
+                                                            <li>
+                                    <a href="https://www.google.com/maps/place/HYS+Enterprise/@52.3656763,4.8874553,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609ea1aae336f:0x91924971ab442603!8m2!3d52.3656763!4d4.889644?authuser=1" target="_blank" class="grey">Herengracht 456, Amsterdam<b>NL</b></a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.google.com/maps/place/HYS+Enterprise/@46.4768324,30.7281272,16z/data=!4m8!1m2!2m1!1sHYS+enterprise!3m4!1s0x40c63137b4654edf:0xd4cecb8bcffed2d9!8m2!3d46.4802852!4d30.7314225" target="_blank" class="grey">Tyraspilska Square 2, Odesa<b>UA</b></a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.google.com/maps/place/HYS+Enterprise/@46.4733798,30.731398,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd6cfc618a2306a04!8m2!3d46.4733798!4d30.7335867?authuser=1" target="_blank" class="grey">Velyka Arnauts'ka 72/74, Odesa<b>UA</b></a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12">
+                <div class="footer-menu">
+                    <a href="/privacy-policy" class="p-policy">Privacy policy</a>
+                    <small class="copywrite">© All rights reserved 2007 - <span id="current-year">2020</span></small>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+        jQuery("#current-year").text( (new Date).getFullYear() );
+    });
+</script>
+
+<script type="text/javascript" defer="" src="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/dist/js/index.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/stage.hwr.hysdev.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/stage.hwr.hysdev.com\/wp-content\/themes\/nt-conversi\/images","builder_images_uri":"https:\/\/stage.hwr.hysdev.com\/wp-content\/plugins\/divi-builder\/includes\/builder\/images","et_frontend_nonce":"dfdd63469a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"cffff98650","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"2931","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/js/divi-builder.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/core/admin/js/common.js?ver=4.2.2"></script>
+<script type="text/javascript" defer="" src="https://stage.hwr.hysdev.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
+<!-- Start of HubSpot Embed Code -->
+<script id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/4264808.js"></script>
+<!-- End of HubSpot Embed Code -->
+<!-- #footer end -->
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","527702751123836");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=527702751123836&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2770339363244639");fbq("set","agent","tmgoogletagmanager","2770339363244639");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2770339363244639&amp;ev=PageView&amp;noscript=1"></noscript>
+<div id="hubspot-messages-iframe-container" class="widget-align-right" style="width: 276px; height: 270px;"><div class="shadow-container"></div><iframe src="https://app.hubspot.com/conversations-visitor/4264808/threads/utk/0678ac616f5844dab8a4ec145e4efdca?uuid=7a8f3738c4d949398702477f9582edcf&amp;mobile=false&amp;mobileSafari=false&amp;hideWelcomeMessage=false&amp;hstc=null&amp;domain=stage.hwr.hysdev.com&amp;inApp53=false&amp;messagesUtk=0678ac616f5844dab8a4ec145e4efdca&amp;url=https%3A%2F%2Fstage.hwr.hysdev.com%2F&amp;inline=false&amp;isFullscreen=false&amp;globalCookieOptOut=null&amp;isFirstVisitorSession=true&amp;isAttachmentDisabled=false&amp;enableWidgetCookieBanner=false&amp;isInCMS=false" title="chat widget"></iframe></div></body></html>

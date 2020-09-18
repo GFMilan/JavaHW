@@ -1,0 +1,870 @@
+<html lang="en-US" class=""><!--<![endif]--><head>
+	<!-- Meta UTF8 charset -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/2018/09/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/2018/09/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/2018/09/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/wp-content/uploads/2018/09/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/wp-content/uploads/2018/09/favicons/safari-pinned-tab.svg" color="#03066d">
+    <meta name="apple-mobile-web-app-title" content="HYS Enterprise">
+    <meta name="application-name" content="HYS Enterprise">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+	<!-- Google Tag Manager -->
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TBWN976"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TBWN976');</script>
+	<!-- End Google Tag Manager -->
+	<script>var et_site_url='https://stage.hwr.hysdev.com';var et_post_id='3242';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Event Manager – HYS Enterprise</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://stage.hwr.hysdev.com/career/vacancies/event-manager/">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://stage.hwr.hysdev.com/#organization","name":"","url":"https://stage.hwr.hysdev.com/","sameAs":[]},{"@type":"WebSite","@id":"https://stage.hwr.hysdev.com/#website","url":"https://stage.hwr.hysdev.com/","name":"HYS Enterprise","publisher":{"@id":"https://stage.hwr.hysdev.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://stage.hwr.hysdev.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://stage.hwr.hysdev.com/career/vacancies/event-manager/#webpage","url":"https://stage.hwr.hysdev.com/career/vacancies/event-manager/","inLanguage":"en-US","name":"","isPartOf":{"@id":"https://stage.hwr.hysdev.com/#website"},"datePublished":"2019-11-14T12:14:05+00:00","dateModified":"2019-11-14T12:14:05+00:00"}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="HYS Enterprise » Feed" href="https://stage.hwr.hysdev.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="HYS Enterprise » Comments Feed" href="https://stage.hwr.hysdev.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/stage.hwr.hysdev.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://stage.hwr.hysdev.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.2" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://stage.hwr.hysdev.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="nt-conversi-parent-style-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/dist/css/main.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi-child/style.css?ver=5.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="et-builder-modules-style-css" href="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/includes/builder/styles/frontend-builder-plugin-style.min.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://stage.hwr.hysdev.com/wp-includes/css/dashicons.min.css?ver=5.2.2" type="text/css" media="all">
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"eventmanager"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/core/admin/js/recaptcha.js?ver=5.2.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stage.hwr.hysdev.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://stage.hwr.hysdev.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://stage.hwr.hysdev.com/?p=3242">
+<link rel="alternate" type="application/json+oembed" href="https://stage.hwr.hysdev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstage.hwr.hysdev.com%2Fcareer%2Fvacancies%2Fevent-manager%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://stage.hwr.hysdev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstage.hwr.hysdev.com%2Fcareer%2Fvacancies%2Fevent-manager%2F&amp;format=xml">
+			<!-- Pods Framework 2.7.13 -->
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-9139606-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-9139606-1');
+	</script>
+    <script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin=""></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin=""></script>
+<style>[data-columns]::before{visibility:hidden;position:absolute;font-size:1px;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+
+	<!-- BODY START=========== -->
+	<body class="vacancies-template-default single single-vacancies postid-3242 pods pod-page-career-vacancies-w pod-vacancies et_divi_builder et-pb-theme-nt conversi child et-db et_minified_js et_minified_css chrome">
+     <div class="
+                    career-page
+                ">
+        <header id="header" style="display: block;" class="header-fixed">
+            <nav id="navigation" class="navbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="navbar-wrap">
+                                <div class="navbar-brand">
+                                    <a href="/" class="img-logo">
+                                                                                    <img src="/wp-content/uploads/2018/09/logo-mono-colored.png" alt="HYS Logo" class="white hidden">
+                                            <img src="/wp-content/uploads/2018/09/logo-colored-1.png" alt="HYS Logo" class="">
+                                                                            </a>
+                                </div>
+                                <button type="button" class="menu-toggle">
+                                    <span class="top"></span>
+                                    <span class="center"></span>
+                                    <span class="bottom"></span>
+                                </button>
+                            </div>
+                            <ul id="primary-menu-affix" class="nav navbar-nav primary-menu">
+    <li class="menu-item">
+        <a href="/career/team/">
+            Team
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/vacancies/">
+            Vacancies
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/events/">
+            Events
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/blog/">
+            Blog
+        </a>
+    </li>
+</ul>                            <ul id="mobile-menu-affix" class="nav navbar-nav mobile-menu">
+    <li class="menu-item">
+        <a href="/career/team/">
+            Team
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/vacancies/">
+            Vacancies
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/events/">
+            Events
+        </a>
+    </li>
+    <li class="menu-item">
+        <a href="/career/blog/">
+            Blog
+        </a>
+    </li>
+    <li class="menu-item social"> 
+            <ul class="social-icons">
+                <li><a target="_blank" href="https://www.instagram.com/hys_enterprise/"> <i class="icon-instagram"></i> </a></li>
+                <li><a target="_blank" href="https://www.facebook.com/hysenterprise/"> <i class="icon-facebook"></i> </a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/company/hys-enterprise"> <i class="icon-linkedin"></i> </a></li>
+                <li><a target="_blank" href="https://twitter.com/hys_enterprise"> <i class="icon-twitter"></i> </a></li>
+                <li><a target="_blank" href="https://www.youtube.com/channel/UCl3yhYAbPoZcLgiwjBkZ9WQ"> <i class="icon-youtube"></i> </a></li>
+            </ul> 
+    </li>
+</ul>                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+    </div>    <section id="blog" class="career-view">
+        <div id="main-jumbotron" class="career-jumbotron" style="background-image: url(https://stage.hwr.hysdev.com/wp-content/uploads/2019/04/career-view.jpg);">
+            <div class="container">
+                <div class="container-mx">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="title" style="opacity: -6.99;">
+                                <span class="vacancy-tag"><img src="https://stage.hwr.hysdev.com/wp-content/uploads/2019/01/Management.png"></span>
+                                <h2>
+                                    Event Manager                                </h2>
+                                <p>Have you ever dreamt of&nbsp;working at&nbsp;an&nbsp;IT company in&nbsp;Odessa? You have an&nbsp;excellent chance, because we’re hiring! We&nbsp;are looking for an&nbsp;enthusiastic Event Manager.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="container">
+                <div class="container-mx">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <ul class="breadcrumbs"><li><svg xmlns="http://www.w3.org/2000/svg" width="14" height="12"><g><path d="M7 2.392L1.936 6.546a.119.119 0 0 1-.004.026.12.12 0 0 0-.005.026v4.82c0 .101.003.288.009.56h3.935V8h2.254v3.979h3.936c.006-.273.009-.46.009-.561v-4.82a.123.123 0 0 0-.01-.052L7 2.392z"></path><path d="M13.998 5.6L12.07 4.004 9.817 2.138 6.999 0 0 5.6l.907 1.077 6.092-5.056 6.093 5.056.906-1.078z"></path></g></svg>
+                                                <a href="/">Home</a> <i class="icon icon-chevron-right"></i></li><li><a href="/career">Career</a><i class="icon icon-chevron-right"></i></li><li><a href="/career/vacancies">Vacancies</a><i class="icon icon-chevron-right"></i></li><li><span>Event Manager</span></li></ul>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="career-view-wrap">
+            <div class="container">
+                <div class="container-mx">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="vacancy-view-inner">
+                                <div class="vacancy-info">
+                                    <div class="content-editable">
+                                        <div class="row">
+                                            <div class="col-md-8 col-xs-12">
+                                                <div class="vacancy-details row">
+                                                                                                            <div>
+                                                            <h3>Requirements</h3>
+                                                            <ul>
+<li>1+ year of IT experience;</li>
+<li>Experience in events organization (corporate parties, trips, games and competitions);</li>
+<li>Experience in writing press releases, announcements;</li>
+<li>Experience in social media platforms management;</li>
+<li>Self-management, time management and self-organization skills;</li>
+<li>Excellent problem-solving skills;</li>
+<li>At least Intermediate level of English.</li>
+</ul>
+                                                        </div>
+                                                                                                                                                                                                                                                                        <div>
+                                                            <h3>Responsibilities</h3>
+                                                            <ul>
+<li>Planning events for 150+ employees in three areas (corporate parties, trips, games and competitions);</li>
+<li>Event budget planning;</li>
+<li>Coordination of the event at all stages;</li>
+<li>Organization of large-scale holidays such as New Year’s Day, May Holidays, Summer Corporate Party and others;</li>
+<li>Management of special events (International Women’s Day, Halloween, Programmers’ Day, Men’s Day and others);</li>
+<li>Organization of sports and indoor events;</li>
+<li>Internal activities of the company — Secret Santa and others;</li>
+<li>Corporate promotional merchandise and printed products;</li>
+<li>Assistance in preparing packages for the event participants (souvenirs, printings, activity);</li>
+<li>Social media platforms — design, announcements and internal events reviews.</li>
+</ul>
+                                                        </div>
+                                                                                                    </div>
+                                            </div>
+                                            <div class="col-md-4 col-xs-12">
+                                                <div class="contacts-block">
+                                                    <h3>HR Contacts</h3>
+                                                                                                                <div class="hr-info-wrap">
+                                                                <div class="hr-img" style="background-image: url(https://stage.hwr.hysdev.com/wp-content/uploads/anna-yeliseeva1.jpg);">
+                                                                    <div class="hr-label">HR</div>
+                                                                </div>
+                                                                <div class="contact-type-wrap">
+                                                                    <div class="contact-type">
+                                                                        <div>Email</div> <a href="mailto:anna.yeliseeva@hys-enterprise.com" class="blue">anna.yeliseeva@hys-enterprise.com</a>
+                                                                    </div>
+                                                                    <div class="contact-type">
+                                                                        <div>Skype</div> <a href="skype:anna.yeliseeva@hys-enterprise.com?userinfo" class="blue">anna.yeliseeva@hys-enterprise.com</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                                                                            <small>We’re proud of our team and are always on the lookout for people who share our vision and values so we can deliver amazing results together.</small>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="vacancy-benefits">
+                                    <h3>Benefits</h3>
+                                    <div class="benefits">
+                                        <div class="benefit">
+                                            <h4>Location</h4>
+                                            <small>You have a great chance to do your favorite thing in a cozy office with the sea view in the heart of sunny Odesa</small>
+                                        </div>
+                                        <div class="benefit">
+                                            <h4>Lunches</h4>
+                                            <small>There is no need to waste your energy on cooking or searching for catering, because we have free tasty lunches, yummy snacks and fruits</small>
+                                        </div>
+                                        <div class="benefit">
+                                            <h4>Team</h4>
+                                            <small>You will have all-round growth which is unavoidable in a team of cool specialists in large-scale projects</small>
+                                        </div>
+                                        <div class="benefit">
+                                            <h4>Parties</h4>
+                                            <small>We know how to work hard, but also we know how to enjoy life, that’s why we have a lot of fun corporate parties and team buildings</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="vacancy-form">
+            <div class="container">
+                <div class="container-mx">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-wrap">
+                                <h3>Send Your CV</h3>
+                                <form action="#" id="cv-form" class="contact-form" enctype="multipart/form-data" method="post" name="fileinfo" novalidate="">
+                                    <input type="hidden" name="hr_id" value="2486">
+                                    <input type="hidden" name="vacancy_name" value="Event Manager">
+                                    <input type="hidden" name="vacancy_id" value="3242">
+                                    <div class="row">
+                                        <div class="col-md-4 col-xs-12">
+                                            <div class="form-group form-group-floating active">
+                                                <input type="text" id="full_name" name="full_name" required="">
+                                                <label for="full_name">Your Name</label>
+                                                <div class="error-tooltip">
+                                                    <div class="icon icon-question"></div>
+                                                    <div class="tooltip"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-xs-12">
+                                            <div class="form-group form-group-floating active">
+                                                <input type="text" id="email" name="email" data-unvalid="Valid email required" required="">
+                                                <label for="email">Your Email</label>
+                                                <div class="error-tooltip">
+                                                    <div class="icon icon-question"></div>
+                                                    <div class="tooltip"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-xs-12">
+                                            <div class="form-group form-group-floating active">
+                                                <input type="text" id="phone" name="phone" required="">
+                                                <label for="phone">Phone, Skype or Linkedin</label>
+                                                <div class="error-tooltip">
+                                                    <div class="icon icon-question"></div>
+                                                    <div class="tooltip"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12">
+                                            <div class="form-group form-group-floating">
+                                                <textarea name="message" id="message" rows="1" style="height: 49px;"></textarea>
+                                                <label for="message">Message (Optional)</label>
+                                                <div class="error-tooltip">
+                                                    <div class="icon icon-question"></div>
+                                                    <div class="tooltip"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12">
+                                            <div class="form-group checkbox-wrap">
+                                                <label>
+                                                    <input type="checkbox" id="ch1" name="privacy_policy" value="yes" data-unvalid="Please, tick the box to let us know you’ve read and consented to Privacy Policy." required="">
+                                                    <label for="ch1"></label>
+                                                    <span>
+                                                        By entering my details, I agree to the use and storage of my data submitted and to be contacted with the information requested.
+                                                        <br>
+                                                        We're committed to protecting and respecting your privacy. Please, review our <a href="/privacy-policy" class="blue" target="_blank">Privacy Policy</a> for details.
+                                                    </span>
+                                                </label>
+                                                <div class="error-tooltip">
+                                                    <div class="icon icon-question"></div>
+                                                    <div class="tooltip"></div>
+                                                </div>
+                                            </div>
+                                            <div class="submit-wrap">
+                                                <button type="submit" class="btn orange" disabled="disabled">Submit</button>
+                                                <div class="form-message"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                                <div class="box-wrap">
+                                    <form id="files_sender" method="post" action="/wp-json/cv/v1/save" enctype="multipart/form-data" novalidate="" class="box has-advanced-upload">
+                                        <div class="box__input">
+                                            <i class="icon icon-arrow-long"></i>
+                                            <input type="file" name="files[]" id="file" class="box__file" data-multiple-caption="{count} files uploaded" multiple="">
+                                            <label for="file"><strong>Drag &amp; Drop<br>or click <u>here</u> to upload CV</strong></label>
+                                            <button type="submit" class="box__button">Upload</button>
+                                        </div>
+                                        <div class="box__uploading">
+                                            <span>Uploading...</span>
+                                        </div>
+                                        <div class="box__success">
+                                            <div class="wrap">
+                                                <div class="success">
+                                                    <i class="icon icon-success"></i>
+                                                </div>
+                                                <span>File(s) attached successfully</span>
+                                            </div>
+                                        </div>
+                                        <div class="box__error">Error! <span></span>. <a href="https://css-tricks.com/examples/DragAndDropFileUploading//?" class="box__restart" role="button">Try again!</a></div>
+                                    <input type="hidden" name="ajax" value="1"></form>
+                                    <div class="files-wrap" id="files_names"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <script>
+
+        'use strict';
+
+        ;( function ( document, window, index )
+        {
+            var files_to_send = [];
+            var files_from_back = [];
+            // feature detection for drag&drop upload
+            var isAdvancedUpload = function()
+            {
+                var div = document.createElement( 'div' );
+                return ( ( 'draggable' in div ) || ( 'ondragstart' in div && 'ondrop' in div ) ) && 'FormData' in window && 'FileReader' in window;
+            }();
+
+            // applying the effect for every form
+            var forms = document.querySelectorAll( '.box' );
+            Array.prototype.forEach.call( forms, function( form )
+            {
+                var input		 = form.querySelector( 'input[type="file"]' ),
+                    label		 = form.querySelector( 'label strong' ),
+                    errorMsg	 = form.querySelector( '.box__error span' ),
+                    restart		 = form.querySelectorAll( '.box__restart' ),
+                    droppedFiles = false,
+                    showFiles	 = function( files )
+                    {
+                        uploadEffects();
+                        var count=0;
+                        for (var key in files){
+                            count++;
+                        }
+                        label.textContent = count > 1 ? ( input.getAttribute( 'data-multiple-caption' ) || '' ).replace( '{count}', count ) : (files[ 0 ] ? files[ 0 ].name : "Drag & Drop CV Here");
+                        setTimeout(function(){
+                            var files_names = $('#files_names');
+                            files_names.html('');
+                            var files_list = '';
+                            for (var key in files) {
+                                files_list += '<div class="file-item"><i class="icon icon-clip"></i><strong >'+files[key]['name']+'<button data-item-id="'+key+'" type="button" class="btn-icon btn-close transparent"><i class="icon icon-cross"></i></strong></button></div>';
+                            }
+                            files_names.append(files_list);
+                            $(window).on('resize', function() {
+                                responsive_form();
+                            });
+                            responsive_form();
+                            function responsive_form() {
+                                var checkbox = $('.col-xs-12 .checkbox-wrap:first-child');
+                                var checkboxMargin;
+                                if ($(window).width() < 975) {
+                                    checkboxMargin = '100px';
+                                    checkbox.css('margin-top', (parseInt(checkboxMargin) + parseInt(files_names.outerHeight())) + 60 + 'px');
+                                } else {
+                                    checkboxMargin = '290px';
+                                    checkbox.css('margin-top', (parseInt(checkboxMargin) + parseInt(files_names.outerHeight())) + 'px');
+                                }
+                            }
+                        }, 2000);
+
+                    },
+                    triggerFormSubmit = function()
+                    {
+                        var event = document.createEvent( 'HTMLEvents' );
+                        event.initEvent( 'submit', true, true );
+                        form.dispatchEvent( event );
+                    };
+
+                // letting the server side to know we are going to make an Ajax request
+                var ajaxFlag = document.createElement( 'input' );
+                ajaxFlag.setAttribute( 'type', 'hidden' );
+                ajaxFlag.setAttribute( 'name', 'ajax' );
+                ajaxFlag.setAttribute( 'value', 1 );
+                form.appendChild( ajaxFlag );
+
+                // automatically submit the form on file select
+                input.addEventListener( 'change', function( e )
+                {
+                    var files_to_check  = e.target.files;
+                    var size;
+                    if(files_to_check.length<=10 && files_to_send.length < 10 && (files_to_check.length + files_to_send.length ) <= 10) {
+                        for (var key in files_to_check) {
+                            if (files_to_check[key]['size'] <= 10 * 1024 * 1024) {
+                                if (typeof files_to_check[key] === 'object')
+                                    if(files_to_check.length<=10) {
+                                        files_to_send.push(files_to_check[key]);
+                                    }else{
+                                        alert("You can upload only 10 files");
+                                        break;
+                                    }
+                            } else {
+                                if (typeof files_to_check[key] === 'object'){
+                                    alert(files_to_check[key]['name']+" is too big.");
+                                    delete files_to_check[key];
+                                }
+                            }
+                        }
+                        if(files_to_send.length >= 1){
+                            showFiles(files_to_send);
+                            uploadEffects();
+                            triggerFormSubmit();
+                        }
+                    }else{
+                        alert("You can upload only 10 files");
+                    }
+                });
+
+                // drag&drop files if the feature is available
+                if( isAdvancedUpload )
+                {
+                    form.classList.add( 'has-advanced-upload' ); // letting the CSS part to know drag&drop is supported by the browser
+
+                    [ 'drag', 'dragstart', 'dragend', 'dragover', 'dragenter', 'dragleave', 'drop' ].forEach( function( event )
+                    {
+                        form.addEventListener( event, function( e )
+                        {
+                            // preventing the unwanted behaviours
+                            e.preventDefault();
+                            e.stopPropagation();
+                        });
+                    });
+                    [ 'dragover', 'dragenter' ].forEach( function( event )
+                    {
+                        form.addEventListener( event, function()
+                        {
+                            form.classList.add( 'is-dragover' );
+                        });
+                    });
+                    [ 'dragleave', 'dragend', 'drop' ].forEach( function( event )
+                    {
+                        form.addEventListener( event, function()
+                        {
+                            form.classList.remove( 'is-dragover' );
+                        });
+                    });
+                    form.addEventListener( 'drop', function( e )
+                    {
+                        droppedFiles = e.dataTransfer.files; // the files that were dropped
+                        var size;
+                        if(droppedFiles.length <= 10 && files_to_send.length<10 && (droppedFiles.length + files_to_send.length) <=10) {
+                            for (var key in droppedFiles) {
+                                if (droppedFiles[key]['size'] <= 10 * 1024 * 1024) {
+                                    if (typeof droppedFiles[key] === 'object')
+                                        if(files_to_send.length!=10) {
+                                            files_to_send.push(droppedFiles[key]);
+                                        }else{
+                                            alert("You can upload only 10 files");
+                                            break;
+                                        }
+                                } else {
+                                    if (typeof droppedFiles[key] === 'object') {
+                                        alert(droppedFiles[key]['name']+" is too big.");
+                                        delete droppedFiles[key];
+                                    }
+                                }
+                            }
+                            if(files_to_send.length >= 1) {
+                                showFiles(files_to_send);
+                                uploadEffects();
+                                triggerFormSubmit();
+                            }
+                        }else{
+                            alert("You can upload only 10 files");
+                        }
+                    });
+                }
+
+
+                // if the form was submitted
+                form.addEventListener( 'submit', function( e )
+                {
+                    // preventing the duplicate submissions if the current one is in progress
+                    if( form.classList.contains( 'is-uploading' ) ) return false;
+
+                    form.classList.add( 'is-uploading' );
+                    form.classList.remove( 'is-error' );
+
+                    if( isAdvancedUpload ) // ajax file upload for modern browsers
+                    {
+                        e.preventDefault();
+
+                        // gathering the form data
+                        var ajaxData = new FormData( form );
+                        if (!ajaxData.get('files[]')) {
+                            ajaxData.delete('files[]');
+                        }
+                        if( droppedFiles )
+                        {
+                            Array.prototype.forEach.call( droppedFiles, function( file )
+                            {
+                                ajaxData.append( input.getAttribute( 'name' ), file );
+                            });
+                        }
+
+                        // ajax request
+                        var ajax = new XMLHttpRequest();
+                        ajax.open( form.getAttribute( 'method' ), form.getAttribute( 'action' ), true );
+
+                        ajax.onload = function()
+                        {
+                            form.classList.remove( 'is-uploading' );
+                            if( ajax.status >= 200 && ajax.status < 400 )
+                            {
+                                var data = JSON.parse( ajax.responseText );
+                                if(data ){
+                                    files_from_back = $.merge( files_from_back, data );
+                                }
+                            }
+                            else alert( 'Error. Please, contact the webmaster!' );
+                        };
+
+                        ajax.onerror = function()
+                        {
+                            form.classList.remove( 'is-uploading' );
+                            alert( 'Error. Please, try again!' );
+                        };
+
+                        ajax.send( ajaxData );
+                    }
+                    else // fallback Ajax solution upload for older browsers
+                    {
+                        var iframeName	= 'uploadiframe' + new Date().getTime(),
+                            iframe		= document.createElement( 'iframe' );
+
+                        $iframe		= $( '<iframe name="' + iframeName + '" style="display: none;"></iframe>' );
+
+                        iframe.setAttribute( 'name', iframeName );
+                        iframe.style.display = 'none';
+
+                        document.body.appendChild( iframe );
+                        form.setAttribute( 'target', iframeName );
+
+                        iframe.addEventListener( 'load', function()
+                        {
+                            var data = JSON.parse( iframe.contentDocument.body.innerHTML );
+                            form.classList.remove( 'is-uploading' )
+                            form.classList.add( data.success == true ? 'is-success' : 'is-error' )
+                            form.removeAttribute( 'target' );
+                            if( !data.success ) errorMsg.textContent = data.error;
+                            iframe.parentNode.removeChild( iframe );
+                        });
+                    }
+                });
+
+                function uploadEffects() {
+                    var input = document.querySelector('.box__input');
+                    var uploading = document.querySelector('.box__uploading');
+                    var success = document.querySelector('.box__success');
+
+                    input.style.display = 'none';
+                    uploading.style.display = 'block';
+                    setTimeout(function(){
+                        uploading.style.display = 'none';
+                        success.classList.add('visible');
+                    }, 1000);
+                    setTimeout(function(){
+                        success.classList.remove('visible');
+                    }, 2000);
+                    setTimeout(function(){
+                        input.style.display = 'flex';
+                    }, 2000);
+                }
+
+
+                // restart the form if has a state of error/success
+                Array.prototype.forEach.call( restart, function( entry )
+                {
+                    entry.addEventListener( 'click', function( e )
+                    {
+                        e.preventDefault();
+                        form.classList.remove( 'is-error', 'is-success' );
+                        input.click();
+                    });
+                });
+
+                // Firefox focus bug fix for file input
+                input.addEventListener( 'focus', function(){ input.classList.add( 'has-focus' ); });
+                input.addEventListener( 'blur', function(){ input.classList.remove( 'has-focus' ); });;
+
+                document.addEventListener("DOMContentLoaded", function(event) {
+                    $("#files_names").on("click", "button.btn-close", function(){
+                        var file_key_send =  parseInt($(this).attr('data-item-id'));
+                        var file_key_back;
+                        for (var key in files_from_back) {
+                            if(files_from_back[key]['name'] == files_to_send[file_key_send]['name']){
+                                file_key_back = key;
+                            }
+                        }
+                        $.ajax({
+                            type: 'POST',
+                            url:'/wp-json/cv/v1/delete',
+                            data:   {files : [files_from_back[file_key_back]]},
+                            success: function(data) {
+                                if(files_to_send.length > 1) {
+                                    files_to_send.splice(file_key_send,1);
+                                }else{
+                                    files_to_send = [];
+                                }
+                                if(files_from_back.length>1){
+                                    files_from_back.splice(file_key_send,1);
+                                }else{
+                                    files_from_back = [];
+                                }
+
+                                showFiles(files_to_send);
+                            },
+                            error: function(MLHttpRequest, textStatus, errorThrown) {
+
+                            }
+                        });
+                    });
+
+                    $('#cv-form').submit(function () {
+                        var form = $(this);
+                        var valid = true;
+                        var required = $('#cv-form').find('[required]');
+                        if (required) {
+                            required
+                                .each(function () {
+                                    var $this = $(this);
+                                    if ($this.prop('id') === 'email') {
+                                        var emailInput = $this.prop('id');
+                                    }
+
+                                    var emailPattern = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@(([a-zA-Z\-]+\.)+[a-zA-Z]{2,})$/;
+                                    if (emailInput && !emailPattern.test($this.val())) {
+                                        valid = false;
+                                        $this.closest('.form-group')
+                                            .addClass('error')
+                                            .find('.tooltip')
+                                            .html($this.attr('data-unvalid'));
+                                    }
+                                    if (!$this.val()) {
+                                        valid = false;
+                                        $this.closest('.form-group')
+                                            .addClass('error')
+                                            .find('.tooltip')
+                                            .html('Field cannot be empty');
+                                    }
+                                    if ($this.prop('type') === 'checkbox' && !$this.prop('checked')) {
+                                        valid = false;
+                                        $this.closest('.form-group')
+                                            .addClass('error')
+                                            .find('.tooltip')
+                                            .html($this.attr('data-unvalid'));
+                                    }
+                                })
+                        }
+                        if (valid) {
+                            if ($('#ch1').prop('checked')) {
+                                $.ajax({
+                                    type: 'POST',
+                                    url:'/wp-json/cv/v1/send',
+                                    data:   {files : files_from_back, data: $('#cv-form').serializeArray()},
+                                    success: function(data) {
+                                        form.trigger('reset')
+                                            .find('.form-message')
+                                            .removeClass('error-message hidden')
+                                            .addClass('success-message')
+                                            .html('Message has been sent.</br>We’ll contact you as soon as possible');
+                                        form.find('.form-group-floating').removeClass('active');
+                                        form.find('[type="submit"]').removeAttr('disabled');
+                                        setTimeout(function() {
+                                            form.find('.form-message').addClass('hidden');
+                                        }, 5000);
+                                        $('#files_sender').trigger('reset');
+                                        files_to_send = [];
+                                        files_from_back = [];
+                                        showFiles(0);
+                                    },
+                                    error: function(MLHttpRequest, textStatus, errorThrown) {
+                                        if (errorThrown.trim() === '') {
+                                            errorThrown = 'Sorry, your message cannot be sent. Please try again';
+                                        }
+                                        form.find('.form-message')
+                                            .removeClass('success-message hidden')
+                                            .addClass('error-message')
+                                            .html(errorThrown);
+                                        form.find('[type="submit"]').removeAttr('disabled');
+                                        setTimeout(function() {
+                                            form.find('.form-message').addClass('hidden');
+                                        }, 5000);
+                                    }
+                                });
+                                return false;
+                            } else {
+                                e.preventDefault();
+                            }
+                        }
+                    });
+
+
+                    if ($(window).width() < 991) {
+                        $('.box-wrap').find('label strong').html('Upload CV');
+                    }
+                });
+            });
+        }( document, window, 0 ));
+
+    </script>
+    <footer class="career-footer">
+    <div class="container">
+        <div class="footer-contacts">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="scroll-top-wrap">
+                        <div class="scroll-top">
+                            <i class="icon icon-chevron-right"></i>
+                            <span>Back to top</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-media col-md-6 col-xs-12">
+                    <a href="/">
+                        <img src="/wp-content/uploads/2018/09/logo-mono-colored.png" alt="HYS Logo" class="white">
+                    </a>
+                    <small>Get connected</small>
+                </div>
+                <ul class="social-icons">
+                    <li><a target="_blank" href="https://www.instagram.com/hys_enterprise/"> <i class="icon-instagram"></i> </a></li>
+                    <li><a target="_blank" href="https://www.facebook.com/hysenterprise/"> <i class="icon-facebook"></i> </a></li>
+                    <li><a target="_blank" href="https://www.linkedin.com/company/hys-enterprise/"> <i class="icon-linkedin"></i> </a></li>
+                    <li><a target="_blank" href="https://twitter.com/hys_enterprise/"> <i class="icon-twitter"></i> </a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/channel/UCl3yhYAbPoZcLgiwjBkZ9WQ"> <i class="icon-youtube"></i> </a></li>
+                    <li><a target="_blank" href="https://www.meetup.com/HYS-Tech-Beer-Community"> <i class="icon-meetup"></i> </a></li>
+                </ul>
+                <div class="footer-offices col-md-6 col-xs-12">
+                    <small>Our Offices</small>
+                    <ul class="location-list">
+                                                    <li>
+                                <a href="https://www.google.com/maps/place/HYS+Enterprise/@52.3656763,4.8874553,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609ea1aae336f:0x91924971ab442603!8m2!3d52.3656763!4d4.889644?authuser=1" target="_blank" class="grey">Herengracht 456, Amsterdam<b>NL</b></a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.google.com/maps/place/HYS+Enterprise/@46.4768324,30.7281272,16z/data=!4m8!1m2!2m1!1sHYS+enterprise!3m4!1s0x40c63137b4654edf:0xd4cecb8bcffed2d9!8m2!3d46.4802852!4d30.7314225" target="_blank" class="grey">Tyraspilska Square 2, Odesa<b>UA</b></a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.google.com/maps/place/HYS+Enterprise/@46.4733798,30.731398,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd6cfc618a2306a04!8m2!3d46.4733798!4d30.7335867?authuser=1" target="_blank" class="grey">Velyka Arnauts'ka 72/74, Odesa<b>UA</b></a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-menu">
+            <div class="row">
+                <div class="col-lg-9 col-xs-12">
+                    <ul>
+                                                        <li><a href="/career/team">Team</a></li>
+                                                         <li><a href="/career/vacancies">Vacancies</a></li>
+                                                         <li><a href="/career/events">Events</a></li>
+                                                         <li><a href="/career/blog">Blog</a></li>
+                                                         <li><a href="/career/privacy-policy">Privacy policy</a></li>
+                                             </ul>
+                </div>
+                <div class="col-lg-3 col-xs-12"><small class="copywrite">© All rights reserved 2007 - <span id="current-year"></span></small></div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+        $("#current-year").text( (new Date).getFullYear() );
+    });
+</script>
+
+<script type="text/javascript" defer="" src="https://stage.hwr.hysdev.com/wp-content/themes/nt-conversi/dist/js/index.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/stage.hwr.hysdev.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/stage.hwr.hysdev.com\/wp-content\/themes\/nt-conversi\/images","builder_images_uri":"https:\/\/stage.hwr.hysdev.com\/wp-content\/plugins\/divi-builder\/includes\/builder\/images","et_frontend_nonce":"604e8275f3","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"3801b16adc","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3242","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/js/divi-builder.min.js?ver=4.2.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_modules_wrapper = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/includes/builder/scripts/cpt-modules-wrapper.js?ver=4.2.2"></script>
+<script type="text/javascript" src="https://stage.hwr.hysdev.com/wp-content/plugins/divi-builder/core/admin/js/common.js?ver=4.2.2"></script>
+<script type="text/javascript" defer="" src="https://stage.hwr.hysdev.com/wp-includes/js/wp-embed.min.js?ver=5.2.2"></script>
+
+
+</body></html>

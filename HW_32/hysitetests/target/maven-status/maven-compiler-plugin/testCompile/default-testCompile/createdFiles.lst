@@ -1,0 +1,14 @@
+pages\VacanciesPage.class
+SmokeTestRun.class
+pages\HysBasePageObject.class
+data\RandomDataGenerator.class
+pages\CareerPage.class
+pages\MainPageReferencePopUp.class
+stepdefinitions\VacanciesStepDef.class
+steps\CareerPageSteps.class
+pages\MainPage.class
+stepdefinitions\MainPageStepDefinition.class
+stepdefinitions\CareerStepDef.class
+steps\SeeMoreReferencesSteps.class
+steps\MainPageSteps.class
+steps\VacanciesPageSteps.class
