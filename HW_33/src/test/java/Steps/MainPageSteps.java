@@ -1,9 +1,12 @@
 package Steps;
 
-import data.RandomDataGenerator;
 import net.thucydides.core.annotations.Step;
 import org.junit.Assert;
-import pages.MainPage;
+import Pages.MainPage;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import static net.thucydides.core.webdriver.ThucydidesWebDriverSupport.getDriver;
 
 public class MainPageSteps {
 
@@ -14,57 +17,43 @@ public class MainPageSteps {
     }
 
     @Step
-    public void scrollDownToAskReferenceButton(){
-        mainPage.scrollToReferenceButton();
+    public void clickOnLoginButton(){
+        mainPage.loginButton.click();
+  }
+
+    @Step
+    public void enterUserName(String uname){
+        mainPage.inputUserName.sendKeys(uname);
     }
 
     @Step
-    public void clickOnReferenceButton(){
-        mainPage.askForReferenceButton.click();
+    public void enterPassword(String upass){
+        mainPage.inputPassword.sendKeys(upass);
     }
 
     @Step
-    public void verifyThatModelFormIsDisplayed(){
-        Assert.assertTrue(mainPageReferencePopUp.referenceFormNameTextField.isDisplayed());
+    public void clickSubmitButton(){
+        mainPage.submitButton.click();
     }
 
     @Step
-    public void enterRandomReferenceFormName(){
-        mainPageReferencePopUp.referenceFormEmaileTextField
-                .sendKeys(RandomDataGenerator.getRandomEmail("gregbtfdsnbgf","gmail.com"));
+    public void verifyUserName(){
+        Assert.assertEquals(true,  mainPage.uNameField.isDisplayed());;
     }
 
     @Step
-    public void enterRandomReferenceFormEmail(){
-        mainPageReferencePopUp.referenceFormNameTextField
-                .sendKeys(RandomDataGenerator.getRandomName());
+    public void enterSongName(String sname){
+        mainPage.searchField.sendKeys(sname);
     }
 
     @Step
-    public void clickOnTermsAndAgreementsCheckbox(){
-        mainPageReferencePopUp.termsAndAgreementsCheckBox.click();
-        //mainPageReferencePopUp.termsAndAgreementsCheckBox.submit();
-        //mainPageReferencePopUp.scrollDownToreferenceFormSubmitButton();
+    public void clickSearchButton(){
+        mainPage.searchButton.click();
     }
 
     @Step
-    public void clickOnReferenceFormSubmitButton(){
-        mainPageReferencePopUp.scrollDownToReferenceFormSubmitButton();
-        mainPageReferencePopUp.referenceFormSubmitButton.submit();
+    public void clickPlayButton() throws InterruptedException {
+        mainPage.playButton.click();
+        Thread.sleep(15000);
     }
-
-
-
-    public void checkThatThanksMessageIsDisplayedOnReferenceForm(){
-        Assert.assertTrue(mainPageReferencePopUp.referenceFormModalDialogThanksMessage.isDisplayed());
-    }
-
-    public void scrollToLetsNetworkBlock(){
-        mainPage.scrollToLetsNetworkBlock();
-    }
-
-    public void clickOnSeeMoreEvents(){
-        mainPage.clickOnSeeMoreEvents();
-    }
-
 }
