@@ -1,0 +1,881 @@
+<html lang="uk" class=" desktop portrait"><head>
+    
+    <!--4 /uk uk-->
+
+    
+    
+    
+
+
+
+    <meta charset="utf-8">
+
+    <link rel="manifest" href="https://auto.ria.com/uk/manifest.json">
+
+    
+    
+        <script src="https://connect.facebook.net/signals/config/1515938945286577?v=2.9.24&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-1953436.js?sv=7"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P46SHG8"></script><script>
+            document.oncopy=function(){
+            	if (!window.location.href.match(/\/add_auto\.html|\/addauto\/autoinfo\/autoId\//)) {
+                    var bodyEl = document.getElementsByTagName('body')[0],
+                            selection = window.getSelection();
+                    if(selection.toString().length>25){
+                        var newDiv = document.createElement('div'),
+                                pageLink = ['<p>Источник: <a href="',
+                                    document.location.href,
+                                    '">',document.location.href,
+                                    '</a> © AUTO.RIA.com™</p>'].join('');
+                        newDiv.style.position='absolute';
+                        newDiv.style.left='-99999px';
+                        bodyEl.appendChild(newDiv);
+                        newDiv.innerHTML=selection + pageLink;
+                        selection.selectAllChildren(newDiv);
+                        window.setTimeout(function(){
+                            bodyEl.removeChild(newDiv)
+                        },0)
+                    }
+                }
+            }
+            //fix svg xlink:href
+            !function(e,t){"use strict";e.addEventListener("DOMContentLoaded",function(){var n=t.location.href.replace(t.location.hash,"");[].slice.call(e.querySelectorAll("use[*|href]")).filter(function(e){return 0===e.getAttribute("xlink:href").indexOf("#")}).forEach(function(e){e.setAttribute("xlink:href",n+e.getAttribute("xlink:href"))})},!1)}(document,window);
+        </script>
+    
+
+    <!-- critical url - /demo/partials/criticalcss/(none).css?v=1.89 -->
+    
+    
+        
+    
+    
+
+    <!-- critical= (none) -->
+    
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="yandex-verification" content="6180bcef8e4c4f78">
+
+    <meta name="referrer" content="unsafe-url">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="true" name="HandheldFriendly">
+    <meta content="width" name="MobileOptimized">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+
+    
+    
+
+    
+        <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="https://img7.auto.ria.com/js/builds/index.js?v=8.3.61530" src="https://img7.auto.ria.com/js/builds/index.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="library/jquery/dist/jquery" src="https://img7.auto.ria.com/js/builds/library/jquery/dist/jquery.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="configs/dependencies" src="https://img7.auto.ria.com/js/builds/configs/dependencies.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="library/q/q" src="https://img7.auto.ria.com/js/builds/library/q/q.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="library/basis-templates/basis-templates.min" src="https://img7.auto.ria.com/js/builds/library/basis-templates/basis-templates.min.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="library/jquery-cookie/jquery.cookie" src="https://img7.auto.ria.com/js/builds/library/jquery-cookie/jquery.cookie.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="library/bootstrap-modal/js/bootstrap-modalmanager" src="https://img7.auto.ria.com/js/builds/library/bootstrap-modal/js/bootstrap-modalmanager.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="library/bootstrap-modal/js/bootstrap-modal" src="https://img7.auto.ria.com/js/builds/library/bootstrap-modal/js/bootstrap-modal.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common/pages/login" src="https://img7.auto.ria.com/js/builds/modules/common/pages/login.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/news/components/mixins/withRequestData" src="https://img7.auto.ria.com/js/builds/modules/news/components/mixins/withRequestData.js?v=8.3.61530"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="library/underscore/underscore" src="https://img7.auto.ria.com/js/builds/library/underscore/underscore.js?v=8.3.61530"></script><base href="https://auto.ria.com">
+    
+
+    <!-- Standard Favicon -->
+    <link rel="shortcut icon" href="https://css.riastatic.com/images/favicon.ico">
+    <!-- For iPhone 4 Retina display: -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://css.riastatic.com/images/apple-touch-icon-114x114-precomposed.png">
+    <!-- For iPad: -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://css.riastatic.com/images/apple-touch-icon-72x72-precomposed.png">
+    <!-- For iPhone: -->
+    <link rel="apple-touch-icon" href="https://css.riastatic.com/images/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://css.riastatic.com/images/apple-touch-icon-76x76-precomposed.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://css.riastatic.com/images/apple-touch-icon-120x120-precomposed.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://css.riastatic.com/images/apple-touch-icon-152x152-precomposed.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://css.riastatic.com/images/apple-touch-icon-180x180-precomposed.png">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="AUTO.RIA">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="AUTO.RIA">
+    <link rel="apple-touch-icon" href="https://css.riastatic.com/images/icon-hires.png">
+    <meta name="msapplication-TileImage" content="https://css.riastatic.com/images/pinned.png">
+    <meta name="msapplication-TileColor" content="#db5c4c">
+    <meta name="theme-color" content="#db5c4c">
+
+    
+    
+
+    
+
+    
+    
+    
+
+    
+        
+    
+
+    
+
+    
+        <meta name="apple-itunes-app" content="app-id=1083363297">
+    
+
+    
+
+  
+  
+  
+        <title>AUTO.RIA – Вхід</title> <meta name="title" content="AUTO.RIA – Вхід"> <meta name="description" content="Вхід на сайт на сайт AUTO.RIA.com"> <meta name="keywords" content="авто, auto, продажа авто, автомобили, автосалоны, авторынок, базар авто, каталог автомобилей"> <meta property="og:title" content="AUTO.RIA – Вхід"> <meta property="og:description" content="Вхід на сайт на сайт AUTO.RIA.com"> <meta property="og:image" content="https://css.riastatic.com/images/autoria512.png">   <meta property="og:type" content="website">   
+    
+
+    
+
+    
+
+    
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+
+
+    
+        
+    
+
+    
+        <link rel="canonical" href="https://auto.ria.com/uk/login.html">
+    
+
+    
+    <link rel="alternate" hreflang="ru-UA" href="https://auto.ria.com/login.html">
+    <link rel="alternate" hreflang="uk-UA" href="https://auto.ria.com/uk/login.html">
+    <link rel="alternate" hreflang="ru" href="https://auto.ria.com/login.html">
+    <link rel="alternate" hreflang="uk" href="https://auto.ria.com/uk/login.html">
+    <link rel="alternate" hreflang="x-default" href="https://auto.ria.com/login.html">
+    
+
+    
+
+    <meta property="og:site_name" content="AUTO.RIA">
+    <meta name="telegram:channel" content="@auto_ria_news">
+    <meta property="catalog_name" content="login">
+
+    <meta property="vk:app_id" content="4051631">
+    <!--meta property="fb:admins" content="223549387674070" /-->
+
+    <meta property="vk:url" content="https://auto.ria.com/uk/login.html?utm_source=vk.com&amp;utm_medium=addthis&amp;utm_campaign=share">
+    <meta property="og:url" content="https://auto.ria.com/uk/login.html?utm_source=facebook.com&amp;utm_medium=addthis&amp;utm_campaign=share">
+
+
+    
+        <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+    
+    <meta property="fb:pages" content="354235117123"><!--facebook instant-articles-->
+    <meta name="revisit-after" content="1 days">
+
+    <meta name="yandex-verification" content="49fa52f4fef59dd6">
+    <meta name="verify-v1" content="E9HAEevUr8VPRLqroNPZClPEVXN5W034JsP9HUzB00k=">
+
+    <link href="https://plus.google.com/110464453590594722256" rel="author">
+
+    
+        <link href="https://css.riastatic.com/stylesheets/screen.css?v=1.89" type="text/css" rel="stylesheet">
+        <link href="https://css.riastatic.com/stylesheets/init.css?v=1.89" type="text/css" rel="stylesheet">
+    
+
+    
+
+    
+    <script async="" type="text/javascript" src="https://img7.auto.ria.com/js/builds/init.js"></script>
+    
+
+    <!--[if lt IE 9]>
+    <link href="https://css.riastatic.com/stylesheets/ie.css" type="text/css" rel="stylesheet" />
+    <script async type="text/javascript" src="https://css.riastatic.com/javascripts/html5.js"></script>
+    <![endif]-->
+
+    <!--Google-analytics new finalPage -->
+
+    
+        
+    
+
+
+
+    
+        <script>
+            function getCookie(name) {
+                var cookies = "; " + document.cookie;
+                var parts = cookies.split("; " + name + "=");
+                if (parts.length === 2) {
+                    return parts.pop().split(";").shift()
+                } else return false;
+            }
+            var pspIdCookie = getCookie('PSP_ID');
+            if (pspIdCookie && pspIdCookie.substring(64)) {
+                dataLayer = [{
+                    "logged": "yes",
+                    "userid": pspIdCookie.substring(64)
+                }];
+            } else {
+                dataLayer= [{
+                    "logged": "no"
+                }];
+            }
+        </script>
+    
+
+    
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P46SHG8');</script>
+        <!-- End Google Tag Manager -->
+    
+
+    <img src="/accesslog"><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/792169486/?random=1600524431005&amp;cv=9&amp;fst=1600524431005&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg990&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fauto.ria.com%2Fuk%2Flogin.html%3Ffrom_url%3D%2Fmymenu%2F&amp;ref=https%3A%2F%2Fauto.ria.com%2Fuk%2F&amp;tiba=AUTO.RIA%20%E2%80%93%20%D0%92%D1%85%D1%96%D0%B4&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/740038390/?random=1600524431007&amp;cv=9&amp;fst=1600524431007&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg990&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fauto.ria.com%2Fuk%2Flogin.html%3Ffrom_url%3D%2Fmymenu%2F&amp;ref=https%3A%2F%2Fauto.ria.com%2Fuk%2F&amp;tiba=AUTO.RIA%20%E2%80%93%20%D0%92%D1%85%D1%96%D0%B4&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/823613200/?random=1600524431008&amp;cv=9&amp;fst=1600524431008&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635471&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg990&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fauto.ria.com%2Fuk%2Flogin.html%3Ffrom_url%3D%2Fmymenu%2F&amp;ref=https%3A%2F%2Fauto.ria.com%2Fuk%2F&amp;tiba=AUTO.RIA%20%E2%80%93%20%D0%92%D1%85%D1%96%D0%B4&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script async="" src="https://script.hotjar.com/modules.36846fef680271831d9c.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script><script src="/analytics/public/js/loadData2.js?v1.05" type="text/javascript"></script><script type="text/javascript" src="https://source.mmi.bemobile.ua/cm/cm.js" async=""></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/823613200/?random=1600524431629&amp;cv=9&amp;fst=1600524431629&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=376635471&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=3&amp;u_tz=180&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fauto.ria.com%2Fuk%2Flogin.html%3Ffrom_url%3D%2Fmymenu%2F&amp;ref=https%3A%2F%2Fauto.ria.com%2Fuk%2F&amp;tiba=AUTO.RIA%20%E2%80%93%20%D0%92%D1%85%D1%96%D0%B4&amp;hn=www.googleadservices.com&amp;rfmt=3&amp;fmt=4"></script></head><body><noindex>
+        
+       <script>
+         var img = document.createElement("img");
+         img.src = '/accesslog';
+         document.getElementsByTagName('head')[0].appendChild(img);
+       </script>
+        
+
+        <script>
+            function _slonik(params, url) {
+              if (!url) {
+                  url = 'slonikAccessStat';
+              }
+              var img = document.createElement("img"),
+                  paramsArr = [],
+                  sep = '';
+              for (var param in params) {
+                if (params.hasOwnProperty(param)) {
+                  paramsArr.push(sep + param + '=');
+                  paramsArr.push(params[param]);
+                  sep = '&';
+                }
+              }
+              img.src = '/' + url + '?' + paramsArr.join('');
+              document.getElementsByTagName('head')[0].appendChild(img);
+            }
+          window.ria = {
+            langId: '4'|0 || 2
+          };
+
+          var _gaq = _gaq || [];
+        
+        if (location.search.indexOf('disable_gaq=1')==-1) {
+            _gaq.push(['_setAccount', 'UA-119062-1']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
+
+            _gaq.push(['b._setAccount', 'UA-37267794-10']);
+            _gaq.push(['b._trackPageview']);
+        }
+        
+        
+            (function () {
+              var ga = document.createElement('script');
+              ga.type = 'text/javascript';
+              ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://' : 'https://') + 'stats.g.doubleclick.net/dc.js';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(ga, s);
+            })();
+        
+
+        
+        </script>
+
+        
+
+        <!--/Google-analytics-->
+
+
+        
+    </noindex>
+
+    
+    
+    
+
+    
+
+
+
+  
+
+    
+
+    
+
+    
+
+    
+        <script src="https://chat.ria.com/js/minichat.js" defer=""></script>
+        <script>window.chatUrl = "https://chat.ria.com";</script>
+    
+    
+
+
+
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P46SHG8"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+
+
+    
+
+
+
+
+    
+
+
+<!--    .BEGIN - Header    -->
+
+
+    
+
+
+<svg aria-hidden="true" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0; overflow: hidden;" focusable="false">
+    <symbol id="svg-logo" viewBox="0 0 160 48">
+        <g><path fill-rule="evenodd" clip-rule="evenodd" fill="#DB5C4C" d="M0,0h92v48H11.9C5.4,48,0,42.6,0,36V0z"></path>
+            <g><path fill="#FFFFFF" d="M24,30.9L24,30.9c-0.3,0.2-0.6,0.5-0.9,0.7c-0.3,0.2-0.7,0.5-1.1,0.7c-0.4,0.2-0.8,0.4-1.3,0.5 c-0.5,0.1-1,0.2-1.6,0.2c-0.8,0-1.5-0.1-2.2-0.4c-0.7-0.2-1.2-0.6-1.7-1c-0.5-0.5-0.9-1-1.1-1.6c-0.3-0.6-0.4-1.4-0.4-2.1 c0-0.9,0.2-1.6,0.5-2.3c0.3-0.7,0.8-1.3,1.3-1.8c0.6-0.5,1.2-0.8,2-1.1c0.8-0.3,1.7-0.4,2.6-0.4c0.7,0,1.3,0,1.9,0.1 c0.6,0.1,1.1,0.2,1.6,0.3v-0.7c0-0.4-0.1-0.7-0.2-1.1c-0.1-0.3-0.3-0.7-0.6-0.9c-0.3-0.3-0.7-0.5-1.1-0.7c-0.5-0.2-1-0.2-1.7-0.2 c-0.8,0-1.6,0.1-2.4,0.3c-0.8,0.2-1.7,0.5-2.6,0.8v-3.1c0.8-0.4,1.7-0.6,2.6-0.8c0.9-0.2,1.9-0.3,2.9-0.3c1.2,0,2.2,0.1,3.1,0.4 c0.9,0.3,1.6,0.7,2.2,1.2c0.6,0.5,1,1.1,1.3,1.8c0.3,0.7,0.4,1.4,0.4,2.3v6.1c0,1.1,0,2,0,2.8c0,0.8,0,1.5,0.1,2.1h-3.6L24,30.9 L24,30.9z M23.7,25.8c-0.4-0.1-0.8-0.2-1.3-0.2c-0.5-0.1-1-0.1-1.5-0.1c-1,0-1.7,0.2-2.3,0.6c-0.6,0.4-0.8,1-0.8,1.8 c0,0.4,0.1,0.7,0.2,1c0.1,0.3,0.3,0.5,0.5,0.7c0.2,0.2,0.5,0.3,0.8,0.4c0.3,0.1,0.6,0.1,0.9,0.1c0.4,0,0.8-0.1,1.1-0.2 c0.4-0.1,0.7-0.2,1-0.4c0.3-0.2,0.6-0.3,0.8-0.5c0.2-0.2,0.4-0.4,0.6-0.6V25.8z"></path><path fill="#FFFFFF" d="M39.2,33.1c-1.6,0-3-0.3-4-0.8c-1.1-0.5-1.9-1.3-2.4-2.2c-0.3-0.5-0.5-1-0.6-1.7c-0.1-0.6-0.2-1.3-0.2-2 v-9.9h4v9.5c0,0.5,0,1,0.1,1.4c0.1,0.4,0.2,0.7,0.4,1c0.3,0.5,0.6,0.9,1.1,1.1c0.5,0.2,1.1,0.4,1.8,0.4c0.7,0,1.3-0.1,1.8-0.4 c0.5-0.3,0.9-0.7,1.1-1.2c0.3-0.5,0.4-1.3,0.4-2.2v-9.6h4v9.9c0,1.3-0.2,2.4-0.7,3.3c-0.3,0.5-0.6,1-1,1.4 c-0.4,0.4-0.9,0.8-1.4,1.1c-0.6,0.3-1.2,0.5-1.9,0.7C40.9,33,40.1,33.1,39.2,33.1z"></path><path fill="#FFFFFF" d="M60.6,32.6c-0.4,0.1-1,0.2-1.6,0.3c-0.6,0.1-1.2,0.1-1.7,0.1c-1.4,0-2.5-0.2-3.3-0.7 c-0.9-0.4-1.5-1.1-1.8-1.9c-0.3-0.6-0.4-1.4-0.4-2.4v-8.4h-3v-3.3h3v-4.5h4v4.5h4.7v3.3h-4.7v7.9c0,0.6,0.1,1.1,0.3,1.4 c0.3,0.5,1,0.8,2,0.8c0.5,0,0.9,0,1.4-0.1c0.5-0.1,0.9-0.2,1.3-0.3V32.6z"></path><path fill="#FFFFFF" d="M75.1,24.6c0-0.9-0.1-1.6-0.3-2.3c-0.2-0.7-0.5-1.2-0.8-1.7c-0.4-0.5-0.8-0.8-1.3-1 c-0.5-0.2-1-0.3-1.6-0.3c-0.6,0-1.1,0.1-1.6,0.3c-0.5,0.2-0.9,0.6-1.3,1c-0.4,0.4-0.6,1-0.8,1.7C67.1,23,67,23.7,67,24.6 c0,0.9,0.1,1.6,0.3,2.3c0.2,0.7,0.5,1.2,0.8,1.6c0.4,0.4,0.8,0.8,1.3,1c0.5,0.2,1,0.3,1.6,0.3c0.6,0,1.1-0.1,1.6-0.3 c0.5-0.2,0.9-0.6,1.3-1c0.4-0.4,0.6-1,0.8-1.6C75,26.2,75.1,25.4,75.1,24.6L75.1,24.6z M79.2,24.6c0,1.3-0.2,2.4-0.6,3.5 c-0.4,1-0.9,1.9-1.6,2.7c-0.7,0.7-1.6,1.3-2.6,1.7c-1,0.4-2.1,0.6-3.4,0.6c-1.3,0-2.4-0.2-3.4-0.6c-1-0.4-1.9-1-2.6-1.7 c-0.7-0.7-1.2-1.6-1.6-2.7c-0.4-1-0.6-2.2-0.6-3.5c0-1.3,0.2-2.4,0.6-3.5c0.4-1,0.9-1.9,1.6-2.7c0.7-0.7,1.6-1.3,2.6-1.7 c1-0.4,2.1-0.6,3.4-0.6c1.3,0,2.4,0.2,3.4,0.6c1,0.4,1.9,1,2.6,1.7c0.7,0.7,1.2,1.6,1.6,2.7C79,22.1,79.2,23.3,79.2,24.6z"></path></g>
+            <rect x="94" fill-rule="evenodd" clip-rule="evenodd" fill="#003B56" width="66" height="48"></rect>
+            <g><path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M109.9,28c0.2,0.9,0.5,1.9,0.7,2.8c0,0,1.2-0.3,1.4-0.3 c0.4-0.1,0.7-0.2,1-0.4c0.7-0.5,0.3-1.4,0.3-2.1c-0.1-0.8-0.4-1.7-0.6-2.4c-0.1-0.4-0.5-1.2-1-1.2c-0.6,0-1.2,0.2-1.7,0.4 C108.9,25.1,109.8,27.3,109.9,28L109.9,28z M110.8,31.4c0.2,0.9,0.5,1.7,0.7,2.6c0.2,0.8,0.4,1.6,0.7,2.4c0.1,0.3,0.3,0.8,0.6,1 c0.3,0.2,0.8,0,1.2,0c0.4,0,0.4,0.4,0.1,0.5c-0.2,0.1-0.4,0.1-0.6,0.2c-2.3,0.6-4.6,1.2-7,1.8c-0.2,0-1.4,0.5-1.5,0.2 c-0.2-0.4,0.4-0.4,0.6-0.6c0.4-0.2,0.6-0.5,0.6-0.9c0-0.8-0.3-1.7-0.5-2.5c-0.2-0.7-0.3-1.5-0.5-2.2c-0.5-1.8-0.9-3.6-1.5-5.4 c-0.2-0.7-0.4-1.9-1.3-1.8c-0.3,0-0.8,0.3-0.9-0.1c-0.1-0.2,0.1-0.4,0.3-0.5c2.1-0.5,4.2-1.1,6.2-1.6c1.6-0.4,3.3-0.9,4.9-1.3 c0.8-0.2,1.6-0.3,2.5-0.4c0.9,0,1.7-0.2,2.4,0.4c1.2,0.9,1.7,3.2,0.8,4.4c-0.5,0.7-1.3,1.1-2,1.5c-0.7,0.4-1.5,0.6-2.3,0.9 c-0.5,0.2-1.1,0.3-1.7,0.5c0.8,0.3,1.6,0.5,2.4,0.4c0.8-0.1,1.6-0.5,2.3-0.8c0.2-0.1,0.8-0.4,1-0.3c0.3,0.1,0.4,0.7,0.5,1 c0.3,0.7,0.9,1.4,1.4,2c0.5,0.6,1.2,1.2,1.8,1.6c0.3,0.2,0.7,0.4,1.1,0.4c0.2,0,0.8-0.1,0.6,0.3c-0.1,0.2-0.4,0.2-0.6,0.2 c-0.4,0.1-0.9,0.2-1.3,0.3c-1.3,0.3-2.6,0.7-3.8,1c-0.4,0.1-0.8,0.2-1.2,0.3c-0.2,0-0.5,0.2-0.6,0.1c-0.2-0.1-0.3-0.4-0.4-0.6 c-0.2-0.3-0.5-0.7-0.7-1c-0.8-1.1-1.5-2.2-2.3-3.2c-0.3-0.4-0.5-0.7-0.8-1.1c-0.2-0.3-0.3-0.2-0.7-0.1 C111.3,31.3,111,31.3,110.8,31.4L110.8,31.4z M126,28.8c0.2,0.8,0.4,1.6,0.6,2.5c0.1,0.4,0.2,0.8,0.2,1.2c0.1,0.4,0.2,0.9,0,1.2 c-0.2,0.4-0.7,0.4-1,0.6c-0.2,0.1-0.5,0.6-0.1,0.5c0.6-0.1,1.3-0.3,1.9-0.5c2.3-0.6,4.6-1.2,6.9-1.8c0.2,0,0.4-0.1,0.6-0.2 c0.4-0.3-0.3-0.4-0.5-0.4c-0.3,0-1,0.2-1.1-0.1c-0.3-0.3-0.4-0.6-0.6-1c-0.3-0.7-0.5-1.6-0.7-2.4c-0.2-0.9-0.4-1.7-0.7-2.6 c-0.4-1.7-0.8-3.3-1.2-5c-0.1-0.4-0.2-0.9,0-1.2c0.2-0.4,0.6-0.5,0.9-0.6c0.3-0.1,0.7-0.5,0.2-0.6c-0.2-0.1-0.4,0-0.6,0.1 c-2.3,0.6-4.6,1.2-6.9,1.8c-0.6,0.2-1.4,0.2-1.9,0.5c-0.4,0.2,0.1,0.5,0.3,0.5c0.4,0,0.8-0.2,1.2,0c0.3,0.2,0.5,0.7,0.6,1.1 c0.1,0.4,0.2,0.7,0.3,1.1c0.2,0.8,0.5,1.6,0.7,2.4C125.5,27,125.7,27.9,126,28.8L126,28.8L126,28.8z M142.9,24.2 c-1-1.4-2-2.7-2.9-4.1c0.1,0.1,0,0.6,0,0.7c0,0.6-0.1,1.2-0.1,1.7c-0.1,0.9-0.1,1.7-0.2,2.6C140.7,24.8,141.8,24.5,142.9,24.2 L142.9,24.2z M139.6,25.7c0,0.8-0.1,1.9,0.4,2.6c0.2,0.3,0.5,0.5,0.7,0.7c0.3,0.3,0.6,0.6,1,0.7c0.4,0.1,0.8,0.1,1.1,0.2 c0.4,0.2-0.1,0.4-0.3,0.5c-0.8,0.2-1.7,0.4-2.5,0.7c-1.2,0.3-2.3,0.6-3.5,0.9c-0.2,0.1-0.5,0.1-0.7,0.1c-0.5,0,0-0.4,0.1-0.5 c1.4-0.8,1.9-2.8,2.3-4.3c0.5-1.7,0.5-3.4,0.7-5.2c0.1-0.9,0.2-1.7,0.2-2.6c0-0.9-1.2-0.7-1.8-0.9c-0.4-0.1-0.4-0.3,0-0.5 c0.4-0.2,0.8-0.2,1.2-0.4c0.8-0.3,1.5-0.8,2.1-1.3c0.7-0.5,1.2-1.1,1.8-1.7c0.2-0.2,0.4-0.5,0.6-0.2c0.3,0.3,0.5,0.6,0.7,0.9 c2.1,2.9,4.2,5.8,6.4,8.7c0.5,0.6,0.9,1.3,1.4,1.8c0.3,0.3,0.5,0.6,0.8,0.8c0.3,0.3,0.6,0.3,1,0.2c0.2,0,0.3,0,0.5,0.1 c0.1,0,0.3,0.1,0.2,0.2c-0.1,0.1-0.3,0.2-0.5,0.2c-0.9,0.2-1.8,0.5-2.7,0.7c-2.1,0.6-4.2,1.1-6.3,1.7c-0.1,0-0.3,0.1-0.4,0.1 c-0.1,0-0.2-0.2-0.2-0.3c0-0.2,0.3-0.2,0.4-0.3c0.4-0.2,0.8-0.4,0.9-0.8c0.2-0.4,0-0.8-0.2-1.2c-0.2-0.5-0.5-1-0.9-1.4 c-0.2-0.2-0.3-0.4-0.5-0.6c-0.1-0.1-0.2-0.2-0.3-0.3c0-0.1-0.2-0.3-0.3-0.3c-0.1,0-0.4,0.1-0.5,0.1c-0.4,0.1-0.8,0.2-1.3,0.3 C140.8,25.4,140.2,25.5,139.6,25.7L139.6,25.7z"></path></g>
+            <g><polygon fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" points="120.3,14.8 113.8,13.9 120.9,12.1 122.2,7.2 126.5,10.9 139.4,8 129.3,13.6 132.9,16.7 125.4,15.6 118.6,19.8"></polygon></g>
+        </g>
+    </symbol>
+    <symbol id="svg-header_favorite" viewBox="0 0 19 19" width="100%" height="100%"><path fill="#7A7A7A" d="M9.5,2.1l2.2,4.5l0.2,0.5l0.5,0.1l4.9,0.7l-3.6,3.5l-0.4,0.4l0.1,0.5l0.8,4.9L10,14.8l-0.5-0.2L9,14.8l-4.4,2.3l0.8-4.9l0.1-0.5l-0.4-0.4L1.6,7.8l4.9-0.7l0.5-0.1l0.2-0.5L9.5,2.1 M9.5,0.5c-0.2,0-0.3,0.1-0.4,0.2L6.4,6.1L0.4,7C0.1,7,0,7.3,0,7.5c0,0.1,0.1,0.2,0.1,0.3L4.5,12l-1,6c0,0.3,0.1,0.5,0.4,0.5c0,0,0,0,0.1,0c0.1,0,0.1,0,0.2,0l5.4-2.8l5.4,2.8c0.1,0,0.1,0.1,0.2,0c0.2,0,0.5-0.2,0.5-0.4c0,0,0-0.1,0-0.1l-1-6l4.3-4.2c0.2-0.2,0.2-0.5,0-0.7C18.8,7.1,18.7,7,18.6,7l-6-0.9L9.9,0.7C9.8,0.5,9.7,0.5,9.5,0.5z"></path></symbol>
+    <symbol id="svg-header_notification" width="100%" height="100%" viewBox="0 0 19 19"><style type="text/css">.st0{fill:#7a7a7a}</style><path class="st0" d="M15,10c-2-2-2-3-2-6c0-0.7-0.4-1.4-1-1.7C11.9,1,10.8,0,9.5,0S7.1,1,7,2.3C6.4,2.6,6,3.3,6,4c0,3,0,4-2,6c-1,1-2,2-2,3c0,2,2,3,6,3h3c4,0,6-1,6-3C17,12,16,11,15,10z M9.5,1c0.7,0,1.2,0.4,1.4,1H8.1C8.3,1.4,8.8,1,9.5,1z M11,15H8c-3.3,0-5-0.7-5-2c0-0.6,0.9-1.5,1.7-2.3C7,8.4,7,7,7,4c0-0.6,0.4-1,1-1h3c0.6,0,1,0.5,1,1c0,3,0,4.4,2.3,6.7c0.8,0.8,1.7,1.7,1.7,2.3C16,14.3,14.3,15,11,15z"></path><path class="st0" d="M9.5,18c-0.7,0-1.2-0.4-1.4-1h-1c0.2,1.1,1.2,2,2.4,2s2.2-0.9,2.4-2h-1C10.7,17.6,10.2,18,9.5,18z"></path></symbol>
+    <symbol viewBox="0 0 19 19" id="svg_header_burger" xmlns="http://www.w3.org/2000/svg"><path fill="#7A7A7A" d="M0 4h19v1H0zM0 9h19v1H0zM0 14h19v1H0z"></path></symbol>
+    <symbol viewBox="0 0 19 19" id="svg_header_add" xmlns="http://www.w3.org/2000/svg"><circle fill="#79BE00" cx="9.5" cy="9.5" r="9.5"></circle><path fill="#FFF" d="M15 9h-5V4H9v5H4v1h5v5h1v-5h5z"></path></symbol>
+    <symbol id="svg_header_add_deck" viewBox="0 0 18 18"><path fill="#FFFFFF" d="M16,7h-5V2c0-1.1-0.9-2-2-2S7,0.9,7,2v5H2C0.9,7,0,7.9,0,9s0.9,2,2,2h5v5c0,1.1,0.9,2,2,2s2-0.9,2-2v-5h5 c1.1,0,2-0.9,2-2S17.1,7,16,7z"></path></symbol>
+    <symbol id="svg_header_user" width="100%" height="100%" viewBox="0 0 31 31"><path fill="#CCCCCC" d="M15.5,0C6.9,0,0,6.9,0,15.5S6.9,31,15.5,31S31,24.1,31,15.5S24.1,0,15.5,0z M15.5,1C23.5,1,30,7.5,30,15.5c0,2.9-0.9,5.6-2.3,7.9c-0.1-0.1-0.2-0.2-0.3-0.2l-6.8-3.4c-0.2-0.1-0.3-0.1-0.5-0.1c-0.3,0-0.6,0.1-0.8,0.4c-1,1.1-2.4,1.9-3.7,1.9c-1.2,0-2.7-0.8-3.7-1.9c-0.2-0.2-0.5-0.4-0.8-0.4c-0.2,0-0.3,0-0.5,0.1l-6.8,3.4c-0.1,0.1-0.2,0.1-0.3,0.2c-1.5-2.3-2.3-5-2.3-7.9C1,7.5,7.5,1,15.5,1z M15.5,30c-4.7,0-8.8-2.2-11.5-5.7v-0.1c0-0.1,0-0.1,0.1-0.1l6.8-3.4c0,0,0,0,0.1,0c0,0,0.1,0,0.1,0c1.2,1.3,3,2.2,4.4,2.2c1.5,0,3.2-0.9,4.4-2.2c0,0,0.1,0,0.1,0c0,0,0,0,0.1,0l6.8,3.4c0,0,0.1,0.1,0.1,0.1v0.1C24.3,27.8,20.2,30,15.5,30z"></path><path fill="#CCCCCC" d="M15.5,19.6c1.7,0,3.1-1.2,4.1-2.6c0.9-1.4,1.6-3.4,1.6-5.3c0-2-0.7-3.5-1.8-4.4C18.2,6.3,16.8,6,15.5,6s-2.7,0.3-3.9,1.3c-1.2,1-1.8,2.4-1.8,4.4c0,1.9,0.7,3.9,1.6,5.3C12.4,18.4,13.8,19.6,15.5,19.6z M12.3,8c1-0.8,2.3-1,3.2-1s2.2,0.2,3.2,1c1,0.8,1.5,2,1.5,3.6c0,1.6-0.6,3.4-1.4,4.8c-0.4,0.7-1.6,2.2-3.2,2.2s-2.8-1.5-3.2-2.2c-0.9-1.3-1.4-3.2-1.4-4.8C10.8,10.1,11.3,8.8,12.3,8z"></path></symbol>
+    <symbol viewBox="0 0 24 24" id="svg_account" xmlns="http://www.w3.org/2000/svg"><g fill="#269"><path d="M12 2c2 0 4 1 4 4s-2 6-4 6-4-3-4-6 2-4 4-4m0-1C9.6 1 7 2.3 7 6c0 3.6 2.4 7 5 7s5-3.4 5-7c0-3.7-2.6-5-5-5zM16 14l6 3v3c0 1.1-.8 2-2 2H4c-1.2 0-2-.9-2-2v-3l6-3c1 1.1 2.6 2 4 2 1.5 0 3-.9 4-2m-8-1c-.2 0-.3 0-.4.1l-6 3c-.4.2-.6.5-.6.9v3c0 1.7 1.3 3 3 3h16c1.7 0 3-1.3 3-3v-3c0-.4-.2-.7-.6-.9l-6-3c-.1-.1-.2-.1-.4-.1-.3 0-.6.1-.7.3-.9 1-2.3 1.7-3.3 1.7s-2.4-.7-3.3-1.7c-.1-.2-.4-.3-.7-.3z"></path></g></symbol>
+    <symbol id="svg_logout" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><style>.bmst0{fill:#23679a}</style><path class="bmst0" d="M15 3.7v1.1c2.9 1.3 5 4.3 5 7.7 0 4.7-3.8 8.5-8.5 8.5S3 17.2 3 12.5c0-3.4 2.1-6.4 5-7.7V3.7c-3.5 1.4-6 4.8-6 8.8 0 5.2 4.3 9.5 9.5 9.5s9.5-4.3 9.5-9.5c0-4-2.5-7.4-6-8.8z"></path><path class="bmst0" d="M11.5 1c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5s.5-.2.5-.5v-10c0-.3-.2-.5-.5-.5z"></path></symbol>
+    <symbol id="svg-header_chat" viewBox="0 0 19 19"><path fill="#777" d="M17,12v-1c0.6,0,1-0.4,1-1V3c0-0.6-0.4-1-1-1H5C4.4,2,4,2.4,4,3v1H3V3c0-1.1,0.9-2,2-2h12c1.1,0,2,0.9,2,2v7C19,11.1,18.1,12,17,12z"></path><path fill="#777" d="M10.5,18.8c-0.1,0-0.2,0-0.2-0.1L4.9,16H2c-1.1,0-2-0.9-2-2V7c0-1.1,0.9-2,2-2h12c1.1,0,2,0.9,2,2v7c0,1.1-0.9,2-2,2h-3v2.3c0,0.2-0.1,0.3-0.2,0.4C10.7,18.7,10.6,18.8,10.5,18.8z M2,6C1.4,6,1,6.4,1,7v7c0,0.6,0.4,1,1,1h3c0.1,0,0.2,0,0.2,0.1l4.8,2.4v-1.9c0-0.3,0.2-0.5,0.5-0.5H14c0.6,0,1-0.4,1-1V7c0-0.6-0.4-1-1-1H2z"></path><polygon fill="#777" points="5,11 2,10.6 5.3,9.8 5.9,7.5 7.9,9.2 14,7.9 9.3,10.5 10.9,11.9 7.4,11.4 4.2,13.4 "></polygon></symbol>
+</svg>
+
+
+<script type="text/basis-template" id="notificationBar">
+    <div>
+        <div class="boxed notification-container">
+            <span class="icon-notification" onclick="_gaq.push(['_trackEvent','Show_Notification','clickon_button','header'])"></span>
+            <span class="count-favorite {showCountOfNotifications}">{countOfNotifications}</span>
+        </div>
+        <div class="popup __uarr notification-popup hide">
+            <div class="item-row {showCountOfNotifications}" id="js-head-notification-popup">
+                <span class="size18">
+                    У Вас {countOfNotifications}&nbsp;
+                    <span class="{oneNew}">нове</span>
+                    <span class="{manyNew}">нових</span>&nbsp;
+                    <span class="{oneNew}">сповіщення</span>
+                    <span class="{manyNew}">сповіщень</span>
+                    :
+                </span>
+                <span class="area size13 {showMakeAllViewed}">
+                    <a class="makeAllViewed" href="javascript:void(0);" onclick="_gaq.push(['_trackEvent','DoRead_Notification','clickon_link','header'])">Зробити все прочитаним</a>
+                </span>
+            </div>
+            <div id="notificationBarItemsContainer">
+
+            </div>
+            <a href="https://auto.ria.com/uk/mynotifications/" class="item-row boxed text-c bg-item" onclick="_gaq.push(['_trackEvent','ShowMore_Notification','clickon_link','header'])">
+                Переглянути всі <span class="{showCountOfNotifications}">{countOfNotifications}</span><span class="hid{showCountOfNotifications}">сповіщення</span>&nbsp;<span class="{oneNew}">нове</span>
+                <span class="{manyNew}">нових</span>&nbsp;
+                <span class="{oneNew}">сповіщення</span>
+                <span class="{manyNew}">сповіщень</span>→
+            </a>
+        </div>
+    </div>
+</script>
+
+
+<script type="text/basis-template" id="notificationBarItem">
+    <div class="item-row unlink text noread" data-notification-id="{notificationId}" data-url="{notificationLink}" target="_blank" onclick="_gaq.push(['_trackEvent','Goto_Notification','clickon_link','header'])">
+        <a class="close notification-popup-close removeNotification {removeNotification}" href="javascript:void(0);" title="видалити в архів" onclick="_gaq.push(['_trackEvent','Delete_Notification','clickon_icon','header'])">×</a>
+        <i class="{iconByStatus}">{symbolByStatus}</i>
+        <span class="fl-r {dateClass} n-date">{date}<br/> {time}</span>
+        <span class="n-message">
+            <span class="d-table">
+                <span class="t-cell">
+                    <span{title}></span>
+                </span>
+            </span>
+        </span>
+    </div>
+</script>
+
+<script type="text/basis-template" id="notificationBarPopup">
+    <div class="popup __uarr notification-popup hide">
+        <div class="item-row {showCountOfNotifications}" id="js-head-notification-popup">
+                <span class="size18">
+                    У Вас {countOfNotifications}&nbsp;
+                    <span class="{oneNew}">нове</span>
+                    <span class="{manyNew}">нових</span>&nbsp;
+                    <span class="{oneNew}">сповіщення</span>
+                    <span class="{manyNew}">сповіщень</span>
+                    :
+                </span>
+            <span class="area size13 {showMakeAllViewed}">
+                    <a class="makeAllViewed" href="javascript:void(0);" onclick="_gaq.push(['_trackEvent','DoRead_Notification','clickon_link','header'])">Зробити все прочитаним</a>
+                </span>
+        </div>
+        <div id="notificationBarItemsContainer"></div>
+        <a href="https://auto.ria.com/uk/mynotifications/" class="item-row boxed text-c bg-item" onclick="_gaq.push(['_trackEvent','ShowMore_Notification','clickon_link','header'])">
+            Переглянути всі <span class="{showCountOfNotifications}">{countOfNotifications}</span><span class="hid{showCountOfNotifications}">сповіщення</span>&nbsp;<span class="{oneNew}">нове</span>
+            <span class="{manyNew}">нових</span>&nbsp;
+            <span class="{oneNew}">сповіщення</span>
+            <span class="{manyNew}">сповіщень</span>→
+        </a>
+    </div>
+</script>
+
+<div id="headerApp">
+    <header class="app-header mhide">
+        <div class="app-head">
+            <div class="container">
+                <div class="app-head-bar">
+                    <a href="https://chat.ria.com/3/0/0/?lang_id=4" onclick="_gaq.push(['_trackEvent', 'Heder_Desktop', 'Icon_Chat_on_Heder_Desktop', 'Chat_auto_ria'])" id="chatRia" class="item start_chat hide js-chatRia" title="Чат" target="_blank" aria-label="Чат">
+                        <svg width="19" height="19" class="svg svg-header" aria-label="Чат">
+                            <use xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-header_chat"></use>
+                        </svg>
+                        <span class="count-favorite"></span>
+                    </a>
+                    <a class="item headerBookmarksLink" href="https://auto.ria.com/uk/notepad.html" title="Блокнот" id="headerBookmarksLink" aria-label="Блокнот">
+                        <svg data-tag="svg" class="svg svg-header" aria-label="Блокнот"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-header_favorite"></use></svg>
+                        <span class="count-favorite js-withBookmarksCount hide" style="display: none;"></span>
+                    </a>
+                    <div class="item notification-bar hide" id="notificationBarContainer">
+                        <div class="boxed notification-container">
+                            <svg data-tag="svg" class="svg svg-header svg-notification" aria-label="Сповіщень" onclick="_gaq.push(['_trackEvent','Show_Notification','clickon_button','header'])"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-header_notification"></use></svg>
+                            <span class="count-favorite notification-count-favorite hide"></span>
+                        </div>
+                        <div id="notificationBarContainerPopup"></div>
+                    </div>
+                    <a href="https://auto.ria.com/uk/login.html" title="Увійти в кабінет" aria-label="Увійти в кабінет" class="item withLoginLink">
+                        <span class="tl">Увійти в кабінет</span>
+                        <svg width="31" height="31" class="svg svg-avatar" aria-label="Увійти в кабінет"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg_header_user"></use></svg>
+                    </a>
+                    <div class="item user-menu" id="headerLinkToMyMenu" style="display: none;"><a href="https://auto.ria.com/uk/mymenu/" class="link-mymenu"><span class="tl">Особистий кабінет</span> <img class="user-avatar" width="30" height="30" alt="user avatar"></a></div>
+                    <span class="item multilang">
+                        
+                            <a id="ru" class="selectLang" data-lang-code="ru" style="margin-right: 4px" href="https://auto.ria.com/login.html?from_url=/mymenu/">Рус</a> Укр
+                        
+                    </span>
+                </div>
+                <nav class="nav-head"><a class="item" target="_blank" href="https://www.ria.com/uk/">RIA.com</a><a class="item active" href="https://auto.ria.com/uk/">Автомобілі</a><a class="item" target="_blank" href="https://dom.ria.com/uk/?utm_source=auto_ria&amp;utm_medium=text_link&amp;utm_content=nedvigimost&amp;utm_campaign=header">Нерухомість</a><a class="item" target="_blank" href="https://market.ria.com/?utm_source=auto.ria.com&amp;utm_medium=text_link&amp;utm_content=magazin_avtotovarov&amp;utm_campaign=header">Автотовари</a><a class="item" target="_blank" href="https://zapchasti.ria.com/uk/">Автозапчастини</a></nav>
+            </div>
+        </div>
+
+        
+            <div class="container bn-place panel-banner" id="banner_940x180"></div>
+        
+
+        <div class="container-header">
+            <a href="https://auto.ria.com/uk/" aria-label="AUTO.RIA - лідер автомобільної інтернет торгівлі" class="logo">
+                <svg data-tag="svg" class="svg svg-logo" aria-label="AUTO.RIA - лідер автомобільної інтернет торгівлі"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-logo"></use></svg>
+            </a>
+                        <div class="areabar">
+                <a href="https://auto.ria.com/uk/add_auto.html" title="Продати авто" aria-label="Продати авто" id="addAutoButton" class="button-add"><svg data-tag="svg" class="svg svg-add-deck" aria-label="Продати авто"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg_header_add_deck"></use></svg> Продати авто</a>
+            </div>
+            <div class="wrapper">
+                <ul class="unstyle nav-list">
+                    <li class="nav-list_item"><a href="https://auto.ria.com/uk/car/used/" class="elem-tab" data-type="bu">Вживані авто</a></li><li class="nav-list_item"><a href="https://auto.ria.com/uk/newauto/" class="elem-tab" data-type="new">Нові авто</a></li><li class="nav-list_item"><a href="https://auto.ria.com/uk/news/" class="elem-tab" data-type="news">Новини</a></li><li class="nav-list_item  has-dropdown ">
+                    <a href="https://auto.ria.com/uk/all_for_auto/" class="elem-tab" id="AllForAuto" data-type="all_for_auto" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_all_for_auto', 'all_for_auto_popup'])">Все для авто</a>
+
+                    <div class="nav-list_dropdown">
+                        <div class="dropdown-title">Ремонт авто</div>
+                        <ul class="unstyle dropdown-list">
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/autoservice/sto/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_autoservice', 'Want_to_sell_popup'])">Каталог СТО <span class="grey">(100+)</span></a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/avtorazborka/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_avtorazborka', 'Want_to_sell_popup'])">Каталог авторозбірок <span class="grey">(400+)</span></a></li>
+                            <li class="dropdown-list_item"><a href="https://zapchasti.ria.com/uk/" target="_blank" title="" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_zapchasti', 'Want_to_sell_popup'])">Автозапчастини на RIA.com <span class="grey">(1 000 000+)</span></a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/avtorazborka/#stolzakazov" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_autoservice_table', 'Want_to_bay_popup'])">Стіл замовлення запчастин</a></li>
+
+                        </ul>
+                        <div class="dropdown-title">Послуги для авто</div>
+                        <ul class="unstyle dropdown-list">
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/16/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_16perevirok', 'Want_to_sell_popup'])">16 видів перевірок на AUTO.RIA</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/autoservice/avtomoyka/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_avtomoyka', 'Want_to_sell_popup'])">Каталог автомийок</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/avtovikup/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_avtovikup', 'Want_to_sell_popup'])">Автовикуп</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/autocheck/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_autocheck', 'Want_to_bay_popup'])">Перевірені авто на AUTO.RIA</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/price/average/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_average_price', 'Want_to_bay_popup'])">Підрахунок середньої ціни авто</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/rastamozhka-avto/calculator/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_rastamozhka', 'undefined_popup'])">Митний калькулятор</a></li>
+                        </ul>
+                        <div class="dropdown-title"> Пошук автомобіля та автотоварів</div>
+                        <ul class="unstyle dropdown-list">
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/dealers/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_dealers', 'Want_to_buy_popup'])">Авто з пробігом від Автодилерів</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/autointer/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_autointer', 'Want_to_buy_popup'])">Авто з-за кордону</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/reviews/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_reviews', 'undefined_popup'])">Відгуки про авто <span class="grey">(110 000+)</span></a></li>
+                            <li class="dropdown-list_item"><a href="https://market.ria.com/?utm_source=auto.ria.com&amp;utm_medium=text_link&amp;utm_content=main_page&amp;utm_campaign=main_page_avto" target="_blank" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_market_ria', 'undefined_popup'])">Товари для авто <span class="grey">(94 000+)</span></a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/analytic-center/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_analytic_center', 'undefined_popup'])">Аналітичний центр</a></li>
+                            <li class="dropdown-list_item"><a href="https://auto.ria.com/uk/toplivo/" onclick="_gaq.push(['_trackEvent', 'all_for_auto', 'Click_on_toplivo', 'undefined_popup'])">Ціни на пальне</a></li>
+                        </ul>
+                    </div>
+
+                </li>
+                </ul>
+            </div>
+            
+            <div class="review-front size18">
+                
+                <a onclick="_gaq.push(['_trackEvent', 'Header','jak_pereviryty_chystotu',  'Brand_message'])" href="https://auto.ria.com/uk/16/" target="_blank">
+                    Як перевірити юридичну чистоту авто?
+                </a>
+                
+            </div>
+
+        </div>
+
+    </header>
+    <header class="app-header-mobile dhide" id="">
+        <a href="https://auto.ria.com/uk/" aria-label="AUTO.RIA - лідер автомобільної інтернет торгівлі" onclick="_gaq.push(['_trackEvent', 'logo_mobile_header', 'Click_on_header', 'Header']);" class="logo">
+            <svg data-tag="svg" class="svg svg-logo" aria-label="AUTO.RIA - лідер автомобільної інтернет торгівлі"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-logo"></use></svg>
+        </a>
+        <div class="app-head">
+            <div class="app-head-bar">
+                <a href="https://chat.ria.com/3/0/0/?lang_id=4" onclick="_gaq.push(['_trackEvent', 'Heder_mobile', 'Icon_Chat_on_Heder_mobile', 'Chat_auto_ria'])" id="chatRiaMobile" class="item start_chat js-chatRia hide" title="Чат" aria-label="Чат" target="_blank">
+                    <svg width="19" height="19" class="svg svg-header" aria-label="Чат">
+                        <use xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-header_chat"></use>
+                    </svg>
+                    <span class="count-favorite"></span>
+                </a>
+                <a class="item headerBookmarksLink" onclick="_gaq.push(['_trackEvent', 'notepad_mobile_header', 'Click_on_header', 'Header']);" id="headerBookmarksLink2" href="https://auto.ria.com/uk/notepad.html" title="Блокнот" aria-label="Блокнот">
+                    <svg data-tag="svg" class="svg svg-header" aria-label="Блокнот"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-header_favorite"></use></svg>
+                    <span class="js-withBookmarksCount count-favorite hide" style="display: none;"></span>
+                </a>
+                <a href="https://auto.ria.com/uk/mynotifications/" onclick="_gaq.push(['_trackEvent', 'notification_mobile_header', 'Click_on_header', 'Header']);" id="headerNotificationsLink2" class="item" title="Сповіщень" aria-label="Сповіщень">
+                    <svg data-tag="svg" class="svg svg-header svg-notification" aria-label="Сповіщень"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg-header_notification"></use></svg>
+                    <span class="count-favorite  hide notification-count-favorite"></span>
+                </a>
+                <a onclick="_gaq.push(['_trackEvent', 'add_mobile_header_2', 'Click_on_header', 'Header']);" href="https://auto.ria.com/uk/add_auto.html" id="addAutoButton" class="item exp_2" title="Продати авто" aria-label="Продати авто"><svg data-tag="svg" class="svg svg-header" aria-label="Продати авто"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg_header_add"></use></svg></a>
+                <a href="https://auto.ria.com/uk/mymenu/" title="html.buAuto.personalArea" onclick="_gaq.push(['_trackEvent', 'mymenu_mobile_header', 'Click_on_header', 'Header']);" id="headerMenuLink2" data-toggle="#userSubMenu" class="item" aria-label="Особистий кабінет">
+                    <svg data-tag="svg" class="svg svg-header" aria-label="Особистий кабінет"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg_header_burger"></use></svg>
+                </a>
+            </div>
+        </div>
+        <div class="collapse" id="userSubMenu">
+            <ul class="unstyle menu">
+                <li class="item-menu">
+                    <span class="m_multilang">
+                        
+                        <a class="selectLang" data-lang-code="ru" href="https://auto.ria.com/login.html?from_url=/mymenu/">рус</a>
+                        <a class="on" href="javascript:void(0)">укр</a>
+                        
+                     </span>
+                    <a class="_menu withLoginLink" aria-label="Увійти в кабінет" href="https://auto.ria.com/uk/login.html?from_url=/uk/login.html?from_url=/mymenu/"><svg data-tag="svg" class="svg svg-menu" aria-label="Увійти в кабінет"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg_account"></use></svg>Увійти в кабінет</a>
+                    <a class="_menu withLoginLink hide" aria-label="Особистий кабінет" href="https://auto.ria.com/uk/mymenu/"><svg data-tag="svg" class="svg svg-menu" aria-label="Особистий кабінет"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg_account"></use></svg>Особистий кабінет</a>
+                </li>
+                <li class="item-menu">
+                    <a href="https://auto.ria.com/uk/car/used/">Вживані авто</a>
+                </li>
+                <li class="item-menu">
+                    <a href="https://auto.ria.com/uk/newauto/">Нові авто</a>
+                </li>
+                <li class="item-menu">
+                    <a href="https://auto.ria.com/uk/news/">Новини</a>
+                </li>
+                <li class="item-menu">
+                    <a href="https://auto.ria.com/uk/reviews/">Відгуки про авто</a>
+                </li>
+                <li class="item-menu">
+                    <a href="https://auto.ria.com/uk/all_for_auto/">Все для авто</a>
+                </li>
+                <li class="item-menu">
+                    <a href="https://auto.ria.com/uk/mobile_app/">Завантажити додаток</a>
+                </li>
+                <li class="item-menu withLoginLink hide">
+                    <a class="_login" href="https://auto.ria.com/uk/?exit=yes" aria-label="Вихід"><svg data-tag="svg" class="svg svg-menu" aria-label="Вихід"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://auto.ria.com/uk/login.html?from_url=/mymenu/#svg_logout"></use></svg>Вихід</a>
+                </li>
+            </ul>
+        </div>
+
+
+
+
+    </header>
+        
+
+        
+        <div class="modal-popup hide" id="oldBrowserPopup"></div>
+        
+
+    <script type="text/basis-template" id="headerAppUserInfoContent">
+        <div class="item user-menu" id="headerLinkToMyMenu" style="display: {withMyMenuLink}">
+            <a href="https://auto.ria.com/uk/mymenu/" class="link-mymenu">
+                <span class="tl">Особистий кабінет</span> <img class="user-avatar" width="30" height="30" src="{userAvatar}" alt="user avatar"/>
+            </a>
+        </div>
+    </script>
+
+</div>
+
+<!--    .END - Header    -->
+
+
+<script>
+    window.ria = window.ria || {};
+    window.ria.exchangeRates = [{"name":"USD","bid":"28.08","ask":"28.15","changeBid":0.0485,"changeAsk":0.0521,"date":"2020-09-17T10:20:00.000Z","unix_time":1600338000},{"name":"EUR","bid":"33.06","ask":"33.16","changeBid":-0.0744,"changeAsk":-0.0773,"date":"2020-09-17T10:20:00.000Z","unix_time":1600338000}] ;
+</script>
+
+
+<div class="app-content">
+
+
+    <!--BEGIN CONTENT-->
+    <div class="wrapper-login">
+        <noindex id="noindexBan">
+            <div>
+            
+<a href="https://auto.ria.com/16/" class="mhide" target="_blank" onclick="_gaq.push(['_trackEvent', 'adv', 'Click_on_baner0', 'login_uk']);">
+    <img src="https://cdn.riastatic.com/docs/pictures/common/0/89/8994/8994.png" alt="" title="" width="940" height="750" border="0">
+</a>
+
+            </div>
+        </noindex>
+
+          <div class="position-login-block"> <div class="login-block curved curved-vt-2"> <div class="heading" id="heading_login_frame">Вхід на сайт <strong class="red">AUTO.RIA</strong></div> <div class="login-form"> <div class="preloader hide" id="preloader"></div> <iframe id="login_frame" src="https://auto.ria.com/uk/iframe-ria-login/login/2/4" width="350" height="459" frameborder="no" scrolling="no" data-gtm-vis-recent-on-screen-6250802_511="159" data-gtm-vis-first-on-screen-6250802_511="159" data-gtm-vis-total-visible-time-6250802_511="100" data-gtm-vis-has-fired-6250802_511="1"> Ваш браузер не підтримує плаваючі фрейми! </iframe> </div> <div class="delimeter"> <p class="rows bold"> <span>Виникли питання?</span><br> <a href="http://help.ria.com/uk/index.php?/Knowledgebase/List/Index/2/autoriaua" target="_blank" onclick="_gaq.push(['_trackEvent', 'Login_Form', 'Click_on_Szop', 'All_Pages']);"> Служба турботи про користувачів:</a> </p> <p class="phone "> <i class="icon-phone"></i> <span class="phone-numbers"> <span>(067) 431-82-29,</span> <span>0-800-21-00-12,</span> <span>(0432) 555-213</span> </span> </p> </div> </div> </div> 
+
+    </div>
+
+</div>
+
+
+<!--    .BEGIN Footer    -->
+
+
+
+
+
+
+
+
+<div class="number-cars app-content  hide">
+
+    
+        <a class="unlink" onclick="_gaq.push(['_trackEvent', 'Footer', 'Laskavo_prosymo', 'Brand_message'])" href="https://auto.ria.com/uk/kraina/" target="_blank">
+            <span class="item"><img loading="lazy" src="https://css.riastatic.com/images/svg/kraina2.svg" width="300" height="107" alt="Країна AUTO.RIA" title="Країна AUTO.RIA"></span>
+        </a>
+    
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+    
+         <footer class="wrapper-footer" id="wrapperFooter">  <style>.wrapper-footer{border-top:20px solid #fff;font-size:16px;line-height:1.2}.wrapper-footer *{-webkit-box-sizing:border-box;box-sizing:border-box}.wrapper-footer .unstyle{margin-bottom:0}.wrapper-footer .footer-line-wrap{border-top:1px solid #e0e3e4}.wrapper-footer .f-line{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:10px}.wrapper-footer .f-line .logo{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;width:auto}.wrapper-footer .f-line .copy{font-size:13px;color:#9b9b9b;margin-left:10px;display:inline-block}.wrapper-footer .f-line .helping{font-size:13px}@media (min-width:769px){.wrapper-footer .wiki{font-size:13px;font-weight:700;width:310px}.wrapper-footer .f-line{width:960px;margin:0 auto}.wrapper-footer .f-line .helping{display:none!important}.wrapper-footer{border-top:none;background-color:#fff}.wrapper-footer .social-section{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;width:960px;margin:0 auto;padding-left:10px;padding-right:10px}.wrapper-footer .social-section-wrapper{background:#f3fafd}.wrapper-footer .app-btn{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-basis:295px;-ms-flex-preferred-size:295px;flex-basis:295px;margin-top:-20px}.wrapper-footer .f-subtitle{font-size:16px;color:#414042}.wrapper-footer .f-title{margin-bottom:15px;line-height:1.3;font-size:24px;font-weight:700;color:#414042}.wrapper-footer .app-wrap{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-top:25px}.wrapper-footer .app-wrap .f-btn-ua{display:none}.wrapper-footer .app-wrap.ua .f-btn-ua{display:block}.wrapper-footer .app-wrap.ua .f-btn-ru{display:none}.wrapper-footer .f-btn{background:#000;border-radius:5px;padding:7px 8px;cursor:pointer;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-transition:all .2s;-o-transition:all .2s;transition:all .2s;border-bottom:none;width:135px}.wrapper-footer .f-btn>svg{margin-right:7px}.wrapper-footer .f-btn:hover{text-decoration:none;background:#262626}.wrapper-footer .f-btn .wrap{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}.wrapper-footer .f-btn .wrap svg:last-of-type{margin-top:3px}.wrapper-footer .f-btn:first-of-type{margin-right:20px}.wrapper-footer .f-img{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding-top:30px;-webkit-flex-basis:295px;-ms-flex-preferred-size:295px;flex-basis:295px}.wrapper-footer .f-img>.unlink{border-bottom:none}.wrapper-footer .f-img>.unlink:hover{text-decoration:none}.wrapper-footer .social-wrap{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-basis:310px;-ms-flex-preferred-size:310px;flex-basis:310px;margin-top:53px}.wrapper-footer .social-text{font-size:16px;color:#414042}.wrapper-footer .social{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;margin-top:25px}.wrapper-footer .social .item{display:block;width:43px;height:40px;border:1px solid #e0e3e4;border-radius:5px;-webkit-transition:all .2s;-o-transition:all .2s;transition:all .2s}.wrapper-footer .social .item:hover{border-color:#256799;text-decoration:none}.wrapper-footer .social .item+.item{margin-left:10px}.wrapper-footer .social .fb{background:url("data:image/svg+xml;utf8,<svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M10 24H15V12H18L18.5 8H15V6C15 4.9 15.9 4 17 4H19V0H15C12.2 0 10 2.2 10 5V8H7.5V12H10V24Z' fill='rgb(58,88,158)'/></svg>") no-repeat 8px center}.wrapper-footer .social .instagram{background:url("data:image/svg+xml;charset=utf8,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='24' height='24' rx='6' fill='url(%23paint0_linear)'/%3E%3Crect width='24' height='24' rx='6' fill='url(%23paint1_radial)'/%3E%3Ccircle cx='12' cy='12' r='5' stroke='white' stroke-width='2'/%3E%3Ccircle cx='18.5' cy='5.5' r='1.5' fill='white'/%3E%3Cdefs%3E%3ClinearGradient id='paint0_linear' x1='12' y1='0' x2='12' y2='24' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23C4C4C4'/%3E%3Cstop offset='1' stop-color='%23C4C4C4' stop-opacity='0'/%3E%3C/linearGradient%3E%3CradialGradient id='paint1_radial' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(3.58333 24.0833) scale(30.666)'%3E%3Cstop stop-color='%23FFB140'/%3E%3Cstop offset='0.2559' stop-color='%23FF5445'/%3E%3Cstop offset='0.599' stop-color='%23FC2B82'/%3E%3Cstop offset='1' stop-color='%238E40B7'/%3E%3C/radialGradient%3E%3C/defs%3E%3C/svg%3E") no-repeat center}.wrapper-footer .social .youtube{background:url("data:image/svg+xml;utf8,<svg width='24' height='18' viewBox='0 0 24 18' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M23.0645 16.4548C22.1982 17.5523 20.5987 18 17.5441 18H6.45569C3.33112 18 1.70454 17.5234 0.841471 16.355C0 15.2158 0 13.5372 0 11.214V6.78595C0 2.28517 0.9984 0 6.45569 0H17.5442C20.1931 0 21.661 0.395037 22.6106 1.36357C23.5845 2.35678 24 3.97844 24 6.78595V11.214C24 13.664 23.9349 15.3525 23.0645 16.4548ZM15.4081 8.38863L10.3729 5.58417C10.2603 5.52146 10.1372 5.49036 10.0143 5.49036C9.87507 5.49036 9.73618 5.53029 9.61316 5.60966C9.38152 5.75925 9.24008 6.02681 9.24008 6.31542V11.9064C9.24008 12.1945 9.38113 12.4618 9.61231 12.6115C9.84356 12.7611 10.1312 12.7713 10.3711 12.6385L15.4063 9.85212C15.6625 9.71038 15.8234 9.42854 15.8237 9.12104C15.8241 8.81329 15.6639 8.53104 15.4081 8.38863Z' fill='rgb(255,51,51)'/></svg>") no-repeat center}.wrapper-footer .social .twitter{background:url("data:image/svg+xml;utf8,<svg width='23' height='19' viewBox='0 0 23 19' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M22.5 2.248C21.6903 2.62948 20.8215 2.88819 19.9086 3.00369C20.8407 2.41024 21.5542 1.46896 21.8923 0.350785C21.018 0.900354 20.0529 1.29941 19.0246 1.51574C18.2011 0.58175 17.0299 0 15.7307 0C13.2383 0 11.2174 2.14863 11.2174 4.79713C11.2174 5.17276 11.2573 5.53964 11.3343 5.89046C7.58401 5.69019 4.25852 3.77983 2.03281 0.876963C1.64375 1.58442 1.42242 2.40875 1.42242 3.2887C1.42242 4.95353 2.21978 6.42249 3.42956 7.28191C2.68994 7.25561 1.99431 7.03929 1.38532 6.67971V6.73964C1.38532 9.06366 2.94154 11.0033 5.00501 11.4447C4.62695 11.5529 4.22829 11.6128 3.81586 11.6128C3.52443 11.6128 3.2426 11.5821 2.96627 11.5236C3.54089 13.4311 5.20711 14.8182 7.18125 14.8562C5.6374 16.1425 3.69076 16.9069 1.57642 16.9069C1.21213 16.9069 0.853295 16.8835 0.5 16.8411C2.49751 18.2049 4.86895 19 7.41772 19C15.7198 19 20.2578 11.6888 20.2578 5.34819L20.2427 4.727C21.1294 4.05459 21.8965 3.20977 22.5 2.248Z' fill='rgb(33,155,231)'/></svg>") no-repeat center}.wrapper-footer .social .telegram{background:url("data:image/svg+xml;utf8,<svg width='20' height='18' viewBox='0 0 20 18' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0.353381 8.63014L4.96044 10.4079L6.74725 16.3337C6.8606 16.7127 7.31397 16.8505 7.60733 16.6024L10.1742 14.4388C10.4409 14.2114 10.8276 14.1976 11.1076 14.4113L15.7413 17.8909C16.0614 18.1321 16.5147 17.953 16.5948 17.5533L19.9884 0.67854C20.075 0.24444 19.6617 -0.120755 19.2616 0.037726L0.346714 7.58279C-0.119992 7.76884 -0.113325 8.45099 0.353381 8.63014ZM6.46056 9.46389L15.468 3.73102C15.628 3.62766 15.7947 3.85505 15.6547 3.98597L8.22071 11.1314C7.96069 11.3794 7.79401 11.7171 7.74067 12.0823L7.48732 14.0185C7.45398 14.2803 7.10062 14.301 7.03395 14.0529L6.06053 10.5181C5.95385 10.1185 6.11387 9.68439 6.46056 9.46389Z' fill='rgb(0,136,204)'/></svg>") no-repeat center}.wrapper-footer .footer-nav{width:960px;margin:0 auto;padding-left:10px;padding-right:10px}.wrapper-footer .footer-list{padding:20px 0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start}.wrapper-footer .footer-list .list{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap}.wrapper-footer .footer-list .list:first-of-type .item:nth-of-type(4)>.link:after{display:none}.wrapper-footer .footer-list .list:nth-of-type(2) .item:nth-of-type(4)>.link:after{display:none}.wrapper-footer .footer-list .list:nth-of-type(5) .item:nth-of-type(3)>.link:after{display:none}.wrapper-footer .footer-list .list+.list{margin-top:15px}.wrapper-footer .footer-list .list .item{margin-right:20px;line-height:16px}.wrapper-footer .footer-list .list .item:first-of-type{width:100%;margin-bottom:2px}.wrapper-footer .footer-list .list .item:first-of-type .link{font-size:13px;font-weight:700}.wrapper-footer .footer-list .list .item:first-of-type .link:after{display:none}.wrapper-footer .footer-list .list .item:last-of-type{margin-right:0}.wrapper-footer .footer-list .list .item:last-of-type .link:after{display:none}.wrapper-footer .footer-list .list .link{color:#256799;font-size:11px;line-height:16px;-webkit-transition:all .2s;-o-transition:all .2s;transition:all .2s;position:relative}.wrapper-footer .footer-list .list .link:after{content:'';display:block;position:absolute;right:-10px;top:5.5px;width:3px;height:3px;border-radius:50%;background:#9b9b9b;-webkit-transition:all .2s;-o-transition:all .2s;transition:all .2s}.wrapper-footer .list-ul{-webkit-flex-basis:295px;-ms-flex-preferred-size:295px;flex-basis:295px}.wrapper-footer .vertical-list{margin-top:12px}.wrapper-footer .vertical-list .item+.item{margin-top:8px}.wrapper-footer .vertical-list .link{font-weight:700;font-size:13px;color:#256799;-webkit-transition:all .2s;-o-transition:all .2s;transition:all .2s;line-height:16px;margin-bottom:15px}.wrapper-footer .help-wrap{-webkit-flex-basis:310px;-ms-flex-preferred-size:310px;flex-basis:310px}.wrapper-footer .help-wrap .personal-avatar{width:72px;display:block;height:72px;overflow:hidden;border-radius:50%;margin-bottom:10px}.wrapper-footer .help-wrap .personal-avatar img{width:100%}.wrapper-footer .help-wrap .manager-name{font-size:18px;font-weight:700;margin-bottom:5px}.wrapper-footer .help-wrap .manager-text{font-size:13px}.wrapper-footer .help-wrap .manager-numbers{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin-top:15px;-webkit-box-align:start;-webkit-align-items:flex-start;-ms-flex-align:start;align-items:flex-start}.wrapper-footer .help-wrap .m-tel{font-size:18px;font-weight:700}.wrapper-footer .help-wrap .m-tel+.m-tel{margin-top:10px}.wrapper-footer .help-wrap .wrap{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}.wrapper-footer .help-wrap .wrap .group-img{margin-right:10px;-webkit-flex-basis:85px;-ms-flex-preferred-size:85px;flex-basis:85px;height:85px;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0}.wrapper-footer .help-wrap .wrap .group-img img{width:100%}.wrapper-footer .help-wrap .vertical-list{margin-top:15px}.wrapper-footer .help-wrap .help-link{font-weight:700;font-size:13px;color:#256799;-webkit-transition:all .2s;-o-transition:all .2s;transition:all .2s;max-width:150px;border-bottom:none}.wrapper-footer .help-wrap .help-link:hover{text-decoration:underline}.wrapper-footer .connect{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-top:25px;-webkit-flex-basis:310px;-ms-flex-preferred-size:310px;flex-basis:310px;margin-bottom:20px}.wrapper-footer .connect .item{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:end;-webkit-align-items:flex-end;-ms-flex-align:end;align-items:flex-end;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding:5px;width:70px;height:60px;border-radius:5px;border:1px solid #e0e3e4;font-size:10px;color:#9b9b9b;-webkit-transition:all .2s;-o-transition:all .2s;transition:all .2s;background-position:center 10px;background-repeat:no-repeat;margin-right:10px}.wrapper-footer .connect .item:hover{border-color:#256799}.wrapper-footer .connect .item:last-of-type{margin-right:0}.wrapper-footer .connect .viber{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 1.5C6.55 1.5 1.5 2.38 1.5 10.5C1.5 15.7 3.58 17.93 6.5 18.86V21.47C6.47779 21.6896 6.52883 21.9103 6.64518 22.0978C6.76153 22.2854 6.93664 22.4292 7.14323 22.5068C7.34982 22.5844 7.57629 22.5915 7.78733 22.5269C7.99837 22.4624 8.18214 22.3299 8.31 22.15L10.65 19.48H12C17.45 19.48 22.5 18.61 22.5 10.48C22.5 2.35 17.45 1.5 12 1.5Z' fill='%237C59EC'/%3E%3Cpath d='M8.50013 13.5C9.80013 14.8 12.6701 16.5 14.0001 16.5C14.5836 16.506 15.1511 16.3102 15.6067 15.9457C16.0623 15.5813 16.3779 15.0705 16.5001 14.5V13.5C16.5001 13.5 15.2701 12.9 14.5001 12.5C13.7301 12.1 12.5001 13.5 12.5001 13.5C11.5643 13.1951 10.7096 12.6823 10.0001 12C9.31784 11.2906 8.80502 10.4359 8.50013 9.5C8.50013 9.5 9.90014 8.27 9.50013 7.5C9.10013 6.73 8.50013 5.5 8.50013 5.5H7.50013C6.92962 5.62219 6.41888 5.93782 6.0544 6.39341C5.68992 6.84901 5.49411 7.41658 5.50013 8C5.50013 9.33 7.20013 12.2 8.50013 13.5Z' fill='white'/%3E%3Cpath d='M12 8.5C12.3978 8.5 12.7794 8.65804 13.0607 8.93934C13.342 9.22064 13.5 9.60218 13.5 10' stroke='white' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M12 4.5C13.4587 4.5 14.8576 5.07946 15.8891 6.11091C16.9205 7.14236 17.5 8.54131 17.5 10' stroke='white' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M12 6.5C12.9283 6.5 13.8185 6.86875 14.4749 7.52513C15.1313 8.1815 15.5 9.07174 15.5 10' stroke='white' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")}.wrapper-footer .connect .chat{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M20 14H19V13H20C20.6 13 21 12.6 21 12V4C21 3.4 20.6 3 20 3H8C7.4 3 7 3.4 7 4V6H6V4C6 2.9 6.9 2 8 2H20C21.1 2 22 2.9 22 4V12C22 13.1 21.1 14 20 14Z' fill='%23219BE7'/%3E%3Cpath d='M2 17V9C2 7.89543 2.89543 7 4 7H16C17.1046 7 18 7.89543 18 9V17C18 18.1046 17.1046 19 16 19H13V22.2757C13 22.543 12.6769 22.6769 12.4879 22.4879L9 19H4C2.89543 19 2 18.1046 2 17Z' fill='%23219BE7'/%3E%3C/svg%3E")}.wrapper-footer .connect .email{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M21.1 6.7998L14.1 2.3998C12.8 1.5998 11.1 1.5998 9.8 2.3998L2.8 6.7998C1.7 7.5998 1 8.7998 1 10.1998V17.9998C1 19.6998 2.3 20.9998 4 20.9998H20C21.7 20.9998 23 19.6998 23 17.9998V10.1998C23 8.7998 22.3 7.5998 21.1 6.7998ZM21.7 19.0998L17.2 15.2998L22 11.1998V17.9998C22 18.3998 21.9 18.6998 21.7 19.0998ZM2.4 19.0998C2.1 18.7998 2 18.3998 2 17.9998V11.1998L6.8 15.2998L2.4 19.0998ZM4 19.9998C3.7 19.9998 3.4 19.8998 3.1 19.7998L10.4 13.5998C11.3 12.7998 12.7 12.7998 13.7 13.5998L21.1 19.7998C20.8 19.9998 20.4 20.0998 20.1 20.0998H4V19.9998Z' fill='%23256799'/%3E%3C/svg%3E")}.wrapper-footer .connect .call{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Icon 24 R / i24_phone'%3E%3Cpath id='Vector' d='M16.8116 22C13.3623 22 9.81159 18.5 7.27536 15.9C6.86957 15.5 6.56522 15.2 6.26087 14.9C3.62319 12.4 2 9.4 2 7C2 1.4 5.95652 1 6.15942 1C6.26087 1 6.36232 1 6.36232 1C8.89855 2 10.3188 3.2 10.5217 4.8C10.8261 6.8 9.10145 8.6 7.98551 9.5C7.88406 9.5 7.88406 9.6 7.88406 9.7C7.88406 9.8 7.88406 9.8 7.98551 9.9L14.0725 15.9C14.0725 15.9 14.1739 16 14.2754 16C14.3768 16 14.3768 16 14.4783 15.9C15.2899 15.1 17.0145 13.6 18.8406 13.6C20.6667 13.6 21.9855 15 23 17.6C23 17.7 23 17.7 23 17.8C22.8985 18 22.3913 21.9 16.8116 22Z' fill='%2379BE00'/%3E%3Cpath id='Vector 2' d='M19.5 3L21 4.5L18 7.5L19.5 9L15 9L15 4.5L16.5 6L19.5 3Z' fill='%2379BE00'/%3E%3C/g%3E%3C/svg%3E")}}@media (max-width:768px){.wrapper-footer .wiki{display:none!important}.wrapper-footer .footer-nav,.wrapper-footer .social-section-wrapper{display:none!important}}</style> <div class="social-section-wrapper mhide"> <div class="social-section container"> <div class="app-btn"> <span class="f-title">AUTO.RIA <br>у вашому смартфоні</span> <span class="f-subtitle">Все для купівлі та продажу авто в&nbsp;додатку AUTO.RIA</span> <div class="app-wrap ua"> <a class="f-btn" rel="nofollow" href="https://ad.apps.fm/462B4JJUCLuomVpqVrjQrPE7og6fuV2oOMeOQdRqrE2QRCSx0xu66NOS-Oqib1VdlYKRzMT2U-h2iC278Iblyw" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_get_ios_app', 'newfooter']);" title="Завантажити додаток AUTO.RIA в App Store" aria-label="Завантажити додаток AUTO.RIA в App Store"> <svg width="19" height="23" viewBox="0 0 19 23" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.769 12.3007C15.7797 11.466 16.0014 10.6477 16.4135 9.9217C16.8255 9.19575 17.4145 8.58581 18.1256 8.14864C17.6738 7.50348 17.0779 6.97253 16.385 6.59798C15.6922 6.22343 14.9216 6.01559 14.1344 5.99096C12.4552 5.8147 10.8272 6.99579 9.97149 6.99579C9.09922 6.99579 7.78172 6.00846 6.36299 6.03765C5.44532 6.06729 4.55097 6.33415 3.76709 6.81221C2.98322 7.29026 2.33654 7.96322 1.89007 8.76551C-0.0439277 12.1139 1.39866 17.035 3.25127 19.7416C4.17817 21.0669 5.26145 22.5474 6.6789 22.4949C8.06596 22.4374 8.584 21.6104 10.2583 21.6104C11.9171 21.6104 12.4031 22.4949 13.8493 22.4615C15.3377 22.4374 16.2754 21.1303 17.1698 19.7924C17.8358 18.848 18.3483 17.8043 18.6882 16.6999C17.8235 16.3341 17.0856 15.722 16.5665 14.9397C16.0474 14.1574 15.77 13.2396 15.769 12.3007Z" fill="white"></path> <path d="M13.0376 4.21096C13.8491 3.23675 14.2489 1.98457 14.1521 0.720337C12.9123 0.850557 11.767 1.44312 10.9445 2.37995C10.5424 2.83761 10.2344 3.37005 10.0381 3.94682C9.84188 4.52359 9.76124 5.13338 9.8008 5.74134C10.4209 5.74772 11.0344 5.61331 11.5951 5.34822C12.1558 5.08313 12.649 4.69428 13.0376 4.21096Z" fill="white"></path> </svg> <span class="wrap"> <svg class="f-btn-ru" width="52" height="9" viewBox="0 0 52 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.73827 3.25339H2.53613C2.67347 3.27049 2.81287 3.25896 2.94554 3.21952C3.07821 3.18007 3.20126 3.11357 3.30696 3.02421C3.41265 2.93485 3.49869 2.82456 3.55964 2.7003C3.6206 2.57604 3.65515 2.4405 3.66113 2.30222C3.66113 1.75193 3.24706 1.39646 2.54491 1.39646C2.4042 1.3768 2.26097 1.38553 2.12369 1.42214C1.98641 1.45875 1.85785 1.52249 1.74561 1.60961C1.63337 1.69672 1.53973 1.80544 1.4702 1.92935C1.40067 2.05326 1.35668 2.18984 1.34081 2.33103H0.464813C0.479891 2.07473 0.547568 1.82428 0.663631 1.59527C0.779695 1.36626 0.94166 1.16359 1.13944 0.999886C1.33722 0.836182 1.56659 0.714945 1.81326 0.643724C2.05993 0.572503 2.31861 0.552824 2.57321 0.58591C3.74801 0.58591 4.57521 1.24362 4.57521 2.1904C4.57797 2.50758 4.47185 2.81611 4.27457 3.06448C4.07729 3.31286 3.80079 3.48605 3.49121 3.55515V3.62546C3.85821 3.64174 4.20384 3.80266 4.45253 4.07303C4.70122 4.34341 4.83275 4.70125 4.81836 5.06833C4.7912 5.33222 4.71164 5.58804 4.58433 5.82078C4.45703 6.05352 4.28454 6.25851 4.07698 6.42373C3.86943 6.58895 3.63098 6.71107 3.37561 6.78294C3.12025 6.85481 2.8531 6.87497 2.58984 6.84226C2.32603 6.87823 2.05768 6.86071 1.80078 6.79075C1.54388 6.72079 1.30371 6.59982 1.09456 6.43506C0.885412 6.27029 0.711577 6.0651 0.583424 5.83172C0.455271 5.59834 0.375421 5.34154 0.348633 5.07664H1.23829C1.292 5.64744 1.81641 6.01564 2.58984 6.01564C3.36327 6.01564 3.86816 5.60207 3.86816 5.01906C3.86816 4.42775 3.39257 4.06349 2.56152 4.06349H1.73827V3.25339Z" fill="white"></path> <path d="M5.8291 5.42431C5.8291 4.61376 6.43359 4.14648 7.5039 4.08007L8.72363 4.00976V3.62109C8.72363 3.1455 8.41015 2.87695 7.80176 2.87695C7.30567 2.87695 6.96289 3.05908 6.86328 3.37744H6.00293C6.09375 2.604 6.82227 2.10791 7.84375 2.10791C8.97266 2.10791 9.60938 2.66991 9.60938 3.62109V6.69775H8.75293V6.06494H8.68262C8.5399 6.29193 8.3395 6.47698 8.10188 6.60119C7.86426 6.7254 7.59792 6.78432 7.33008 6.77194C7.14105 6.7916 6.94999 6.77144 6.76923 6.71274C6.58847 6.65404 6.42202 6.55811 6.2806 6.43114C6.13918 6.30417 6.02594 6.14898 5.94817 5.97556C5.87041 5.80215 5.82985 5.61436 5.8291 5.42431ZM8.72363 5.03954V4.66308L7.62398 4.73339C7.00386 4.77489 6.72261 4.98583 6.72261 5.3828C6.72261 5.78807 7.07417 6.02391 7.55761 6.02391C7.69926 6.03825 7.84235 6.02396 7.97836 5.98187C8.11437 5.93978 8.24052 5.87076 8.34931 5.77892C8.4581 5.68708 8.5473 5.57429 8.61161 5.44727C8.67591 5.32025 8.71401 5.18159 8.72363 5.03954Z" fill="white"></path> <path d="M11.9678 2.94287V6.69775H11.0791V2.19482H14.044V2.94282L11.9678 2.94287Z" fill="white"></path> <path d="M19.4297 4.44429C19.4297 5.87495 18.7061 6.77193 17.5693 6.77193C17.2903 6.79099 17.0116 6.72993 16.7661 6.59593C16.5206 6.46193 16.3185 6.26058 16.1836 6.01558H16.1133V8.19478H15.2246V2.19478H16.0801V2.93895H16.1465C16.2838 2.6854 16.4886 2.47473 16.7381 2.33023C16.9877 2.18573 17.2723 2.11301 17.5606 2.1201C18.7061 2.12007 19.4297 3.01313 19.4297 4.44429ZM18.5156 4.44429C18.5156 3.49312 18.0654 2.91841 17.3125 2.91841C16.5645 2.91841 16.0967 3.50532 16.0967 4.4482C16.0967 5.38668 16.5645 5.97408 17.3086 5.97408C18.0654 5.97407 18.5156 5.39936 18.5156 4.44429Z" fill="white"></path> <path d="M20.6133 8.31055V7.54541C20.7095 7.55763 20.8064 7.56318 20.9033 7.56201C21.0927 7.57604 21.2805 7.51965 21.4308 7.40367C21.5811 7.28769 21.6833 7.12029 21.7178 6.93359L21.7842 6.71435L20.1543 2.19482H21.1221L22.251 5.77148H22.3213L23.4463 2.19482H24.3887L22.71 6.88379C22.3252 7.97949 21.8995 8.33106 20.9815 8.33106C20.9073 8.33105 20.6963 8.32275 20.6133 8.31055Z" fill="white"></path> <path d="M25.0811 5.4199H25.9658C26.0527 5.8169 26.4248 6.0239 26.9453 6.0239C27.5371 6.0239 27.9004 5.76316 27.9004 5.3579C27.9004 4.92382 27.5742 4.71679 26.9453 4.71679H26.2715V4.02636H26.9336C27.4707 4.02636 27.7441 3.81982 27.7441 3.44336C27.7441 3.11279 27.4795 2.86036 26.9336 2.86036C26.4365 2.86036 26.0732 3.0713 26.0156 3.42677H25.1592C25.2232 3.01831 25.445 2.6513 25.7768 2.40466C26.1086 2.15803 26.524 2.05147 26.9336 2.10792C28.0039 2.10792 28.6162 2.59181 28.6162 3.35255C28.6212 3.5644 28.5533 3.77154 28.4239 3.93934C28.2945 4.10714 28.1114 4.22543 27.9053 4.27443V4.34474C28.1507 4.3764 28.376 4.49706 28.5384 4.68383C28.7007 4.87059 28.7889 5.11046 28.7861 5.35792C28.7861 6.21392 28.0576 6.78028 26.9453 6.78028C25.9619 6.78025 25.1631 6.32957 25.0811 5.4199Z" fill="white"></path> <path d="M30.0659 6.69775V2.19482H30.9468V5.292H31.0171L33.0923 2.19483H33.9731V6.69776H33.0923V3.584H33.0259L30.9468 6.69777L30.0659 6.69775Z" fill="white"></path> <path d="M38.8257 2.94282H37.4077V6.6977H36.5181V2.94282H35.1001V2.19482H38.8257V2.94282Z" fill="white"></path> <path d="M43.613 5.48189C43.4919 5.89341 43.23 6.24931 42.8732 6.48743C42.5164 6.72554 42.0873 6.83073 41.6608 6.78462C41.3641 6.79246 41.0693 6.73563 40.7968 6.61811C40.5243 6.50058 40.2807 6.32515 40.0827 6.10402C39.8848 5.88288 39.7374 5.62132 39.6507 5.3375C39.564 5.05367 39.5402 4.75438 39.5807 4.4604C39.5412 4.16552 39.5655 3.86559 39.652 3.58091C39.7385 3.29624 39.8851 3.03347 40.082 2.8104C40.2789 2.58733 40.5214 2.40916 40.7931 2.28795C41.0648 2.16674 41.3594 2.10533 41.6569 2.10786C42.9098 2.10786 43.6667 2.96386 43.6667 4.37786V4.68796H40.487V4.73776C40.4729 4.90304 40.4936 5.06944 40.5476 5.22627C40.6017 5.38309 40.688 5.52687 40.8009 5.64836C40.9138 5.76985 41.0509 5.86637 41.2034 5.93171C41.3559 5.99705 41.5203 6.02977 41.6862 6.02776C41.8986 6.05316 42.1138 6.01483 42.3044 5.91762C42.495 5.82042 42.6524 5.66874 42.7565 5.48186L43.613 5.48189ZM40.487 4.03072H42.7604C42.7716 3.87967 42.7511 3.72794 42.7002 3.58528C42.6494 3.44261 42.5692 3.31217 42.4649 3.20232C42.3606 3.09247 42.2345 3.00564 42.0947 2.94742C41.9549 2.88919 41.8044 2.86085 41.653 2.86422C41.4992 2.86213 41.3466 2.89088 41.2042 2.94877C41.0617 3.00665 40.9324 3.09251 40.8237 3.20125C40.715 3.31 40.6292 3.43943 40.5713 3.5819C40.5135 3.72437 40.4848 3.87698 40.487 4.03072H40.487Z" fill="white"></path> <path d="M47.3804 2.19482H49.4106C50.2915 2.19482 50.8081 2.64111 50.8081 3.33982C50.8095 3.56153 50.7347 3.77698 50.5962 3.95013C50.4577 4.12327 50.264 4.24361 50.0474 4.29099V4.3613C50.3103 4.37792 50.5569 4.4949 50.7361 4.68809C50.9153 4.88128 51.0134 5.13591 51.0103 5.39939C51.0103 6.18503 50.4194 6.69773 49.4312 6.69773H47.3804V2.19482ZM48.2612 2.87695V4.04295H49.1421C49.6792 4.04295 49.936 3.83641 49.936 3.45555C49.936 3.10448 49.7124 2.87694 49.2407 2.87694L48.2612 2.87695ZM48.2612 4.69629V6.01563H49.315C49.8404 6.01563 50.1216 5.7837 50.1216 5.35792C50.1216 4.90724 49.8033 4.6963 49.2036 4.6963L48.2612 4.69629Z" fill="white"></path> </svg> <svg class="f-btn-ua" width="59" height="9" viewBox="0 0 59 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.80176 3.96997H2.68066C3.52881 3.96997 4.03418 4.36548 4.03418 5.02905C4.03418 5.67505 3.49805 6.1189 2.70703 6.1189C1.89404 6.1189 1.33154 5.71899 1.27441 5.09497H0.325195C0.382324 6.21118 1.33154 6.95386 2.71143 6.95386C4.03857 6.95386 5.04492 6.14526 5.04492 5.07739C5.04492 4.21606 4.51758 3.61401 3.66943 3.50854V3.47339C4.37256 3.3064 4.85156 2.71753 4.85156 2.01001C4.85156 1.00806 3.97705 0.304932 2.729 0.304932C1.41064 0.304932 0.553711 1.00806 0.487793 2.14185H1.41943C1.47656 1.51343 1.95557 1.12671 2.69824 1.12671C3.42773 1.12671 3.88037 1.50464 3.88037 2.11108C3.88037 2.72192 3.37939 3.14819 2.6543 3.14819H1.80176V3.96997Z" fill="white"></path> <path d="M7.77146 6.12769C7.2617 6.12769 6.92771 5.86401 6.92771 5.45972C6.92771 5.06421 7.24852 4.81372 7.81541 4.77417L8.95359 4.70386V5.0686C8.95359 5.67065 8.43504 6.12769 7.77146 6.12769ZM7.50779 6.87915C8.11424 6.87915 8.69871 6.55396 8.96678 6.03979H8.98875V6.80005H9.89842V3.61401C9.89842 2.68677 9.18211 2.09351 8.0615 2.09351C6.91893 2.09351 6.20701 2.70874 6.15428 3.5437H7.05076C7.13426 3.13062 7.47703 2.86694 8.02635 2.86694C8.60643 2.86694 8.95359 3.17456 8.95359 3.68872V4.04468L7.68797 4.11938C6.58934 4.18091 5.96971 4.67749 5.96971 5.48608C5.96971 6.31665 6.60252 6.87915 7.50779 6.87915Z" fill="white"></path> <path d="M13.0732 2.86694C13.5346 2.86694 13.7851 3.08228 13.7851 3.4646C13.7851 3.87329 13.5171 4.07983 12.9809 4.07983H12.102V2.86694H13.0732ZM13.0424 4.74341C13.6665 4.74341 13.9741 4.97192 13.9741 5.42896C13.9741 5.8728 13.684 6.11011 13.1479 6.11011H12.102V4.74341H13.0424ZM11.166 6.80005H13.2929C14.2949 6.80005 14.9189 6.28149 14.9189 5.46851C14.9189 4.88843 14.5234 4.46655 13.9257 4.38745V4.35229C14.3696 4.2688 14.7124 3.83374 14.7124 3.35474C14.7124 2.62524 14.1674 2.177 13.2666 2.177H11.166V6.80005Z" fill="white"></path> <path d="M17.6542 6.12769C17.1445 6.12769 16.8105 5.86401 16.8105 5.45972C16.8105 5.06421 17.1313 4.81372 17.6982 4.77417L18.8364 4.70386V5.0686C18.8364 5.67065 18.3178 6.12769 17.6542 6.12769ZM17.3906 6.87915C17.997 6.87915 18.5815 6.55396 18.8496 6.03979H18.8715V6.80005H19.7812V3.61401C19.7812 2.68677 19.0649 2.09351 17.9443 2.09351C16.8017 2.09351 16.0898 2.70874 16.0371 3.5437H16.9335C17.017 3.13062 17.3598 2.86694 17.9091 2.86694C18.4892 2.86694 18.8364 3.17456 18.8364 3.68872V4.04468L17.5707 4.11938C16.4721 4.18091 15.8525 4.67749 15.8525 5.48608C15.8525 6.31665 16.4853 6.87915 17.3906 6.87915Z" fill="white"></path> <path d="M24.0854 6.80005H25.0302V2.177H24.0854V4.04028H21.9936V2.177H21.0487V6.80005H21.9936V4.78735H24.0854V6.80005Z" fill="white"></path> <path d="M29.8441 2.177H25.9989V2.92847H27.4491V6.80005H28.3939V2.92847H29.8441V2.177Z" fill="white"></path> <path d="M32.2806 6.12769C31.7709 6.12769 31.4369 5.86401 31.4369 5.45972C31.4369 5.06421 31.7577 4.81372 32.3246 4.77417L33.4628 4.70386V5.0686C33.4628 5.67065 32.9442 6.12769 32.2806 6.12769ZM32.017 6.87915C32.6234 6.87915 33.2079 6.55396 33.476 6.03979H33.4979V6.80005H34.4076V3.61401C34.4076 2.68677 33.6913 2.09351 32.5707 2.09351C31.4281 2.09351 30.7162 2.70874 30.6635 3.5437H31.5599C31.6434 3.13062 31.9862 2.86694 32.5355 2.86694C33.1156 2.86694 33.4628 3.17456 33.4628 3.68872V4.04468L32.1972 4.11938C31.0985 4.18091 30.4789 4.67749 30.4789 5.48608C30.4789 6.31665 31.1117 6.87915 32.017 6.87915Z" fill="white"></path> <path d="M40.017 4.3479L41.911 2.177H40.7904L39.1117 4.15454H39.0765V2.177H38.1405V4.15454H38.1097L36.431 2.177H35.3016L37.2088 4.36548L35.2489 6.80005H36.409L38.1097 4.6687H38.1405V6.80005H39.0765V4.6687H39.1117L40.8124 6.80005H41.9901L40.017 4.3479Z" fill="white"></path> <path d="M46.2459 2.177H42.4007V2.92847H43.8509V6.80005H44.7957V2.92847H46.2459V2.177Z" fill="white"></path> <path d="M49.0604 2.85815C49.7239 2.85815 50.1722 3.35474 50.1942 4.06226H47.8826C47.931 3.36353 48.3968 2.85815 49.0604 2.85815ZM50.1898 5.44214C50.0623 5.84644 49.6624 6.1189 49.1219 6.1189C48.3616 6.1189 47.8782 5.58716 47.8782 4.78296V4.72583H51.1434V4.40063C51.1434 2.99878 50.3436 2.09351 49.0604 2.09351C47.7552 2.09351 46.9202 3.0603 46.9202 4.5105C46.9202 5.96948 47.742 6.88794 49.0999 6.88794C50.159 6.88794 50.9588 6.28589 51.0906 5.44214H50.1898Z" fill="white"></path> <path d="M56.2317 2.86694C56.6931 2.86694 56.9436 3.08228 56.9436 3.4646C56.9436 3.87329 56.6756 4.07983 56.1394 4.07983H55.2605V2.86694H56.2317ZM56.201 4.74341C56.825 4.74341 57.1326 4.97192 57.1326 5.42896C57.1326 5.8728 56.8426 6.11011 56.3064 6.11011H55.2605V4.74341H56.201ZM54.3245 6.80005H56.4514C57.4534 6.80005 58.0774 6.28149 58.0774 5.46851C58.0774 4.88843 57.6819 4.46655 57.0843 4.38745V4.35229C57.5281 4.2688 57.8709 3.83374 57.8709 3.35474C57.8709 2.62524 57.326 2.177 56.4251 2.177H54.3245V6.80005Z" fill="white"></path> </svg> <svg width="76" height="17" viewBox="0 0 76 17" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.30225 10.1397H3.56885L2.43213 13.4961H0.427246L4.91065 1.07812H6.99365L11.477 13.4961H9.43798L8.30225 10.1397ZM4.05908 8.59085H7.81108L5.96147 3.14358H5.90971L4.05908 8.59085Z" fill="white"></path> <path d="M21.1597 8.96982C21.1597 11.7833 19.6538 13.5909 17.3814 13.5909C16.8057 13.621 16.2332 13.4884 15.7294 13.2083C15.2256 12.9281 14.8109 12.5118 14.5327 12.0069H14.4897V16.4913H12.6313V4.44247H14.4302V5.94833H14.4644C14.7553 5.44586 15.1771 5.03167 15.6847 4.74983C16.1923 4.46798 16.7669 4.32902 17.3472 4.34774C19.645 4.34775 21.1597 6.16415 21.1597 8.96982ZM19.2495 8.96982C19.2495 7.13682 18.3023 5.93173 16.857 5.93173C15.437 5.93173 14.482 7.1622 14.482 8.96982C14.482 10.794 15.437 12.0157 16.857 12.0157C18.3023 12.0157 19.2495 10.8194 19.2495 8.96982Z" fill="white"></path> <path d="M31.1245 8.96981C31.1245 11.7833 29.6187 13.5909 27.3462 13.5909C26.7706 13.621 26.1981 13.4884 25.6943 13.2083C25.1905 12.9281 24.7758 12.5118 24.4976 12.0069H24.4546V16.4913H22.5962V4.44246H24.395V5.94832H24.4292C24.7201 5.44585 25.1419 5.03167 25.6495 4.74982C26.1571 4.46798 26.7317 4.32902 27.312 4.34774C29.6099 4.34774 31.1245 6.16414 31.1245 8.96981ZM29.2144 8.96981C29.2144 7.13681 28.2671 5.93172 26.8218 5.93172C25.4019 5.93172 24.4468 7.16219 24.4468 8.96981C24.4468 10.794 25.4019 12.0157 26.8218 12.0157C28.2671 12.0157 29.2144 10.8194 29.2144 8.96981H29.2144Z" fill="white"></path> <path d="M37.7105 10.0362C37.8482 11.2676 39.0445 12.0762 40.6792 12.0762C42.2456 12.0762 43.3726 11.2676 43.3726 10.1572C43.3726 9.19336 42.6929 8.61623 41.0835 8.22071L39.4742 7.83301C37.1939 7.28223 36.1353 6.21582 36.1353 4.48535C36.1353 2.34277 38.0025 0.871094 40.6538 0.871094C43.2778 0.871094 45.0767 2.34277 45.1372 4.48535H43.2612C43.1489 3.24609 42.1245 2.49805 40.6274 2.49805C39.1304 2.49805 38.106 3.25489 38.106 4.35645C38.106 5.23438 38.7603 5.75098 40.3608 6.14645L41.729 6.48239C44.2769 7.08493 45.3355 8.10839 45.3355 9.92477C45.3355 12.248 43.4849 13.7031 40.5415 13.7031C37.7876 13.7031 35.9282 12.2822 35.8081 10.0361L37.7105 10.0362Z" fill="white"></path> <path d="M49.3462 2.2998V4.44238H51.0679V5.91406H49.3462V10.9053C49.3462 11.6807 49.6909 12.042 50.4477 12.042C50.6521 12.0384 50.8562 12.0241 51.0591 11.999V13.4619C50.7188 13.5255 50.3729 13.5543 50.0268 13.5478C48.1938 13.5478 47.479 12.8593 47.479 11.1035V5.91406H46.1626V4.44238H47.479V2.2998H49.3462Z" fill="white"></path> <path d="M52.0649 8.96972C52.0649 6.12109 53.7427 4.33105 56.3589 4.33105C58.9839 4.33105 60.6538 6.12105 60.6538 8.96972C60.6538 11.8262 58.9927 13.6084 56.3589 13.6084C53.726 13.6084 52.0649 11.8262 52.0649 8.96972ZM58.7602 8.96972C58.7602 7.01562 57.8647 5.8623 56.3589 5.8623C54.853 5.8623 53.9585 7.02441 53.9585 8.96972C53.9585 10.9316 54.853 12.0762 56.3589 12.0762C57.8647 12.0762 58.7602 10.9316 58.7602 8.96972H58.7602Z" fill="white"></path> <path d="M62.186 4.44238H63.9585V5.98338H64.0015C64.1214 5.5021 64.4034 5.07677 64.8 4.77888C65.1966 4.481 65.6836 4.32872 66.1792 4.34764C66.3934 4.34689 66.607 4.37016 66.816 4.41698V6.15526C66.5456 6.07265 66.2635 6.03471 65.981 6.04296C65.711 6.03201 65.4418 6.07961 65.192 6.1825C64.9421 6.28539 64.7175 6.44112 64.5335 6.63901C64.3496 6.8369 64.2106 7.07226 64.1262 7.32893C64.0417 7.5856 64.0139 7.8575 64.0444 8.12596V13.4961H62.186L62.186 4.44238Z" fill="white"></path> <path d="M75.3843 10.8369C75.1343 12.4805 73.5337 13.6084 71.4858 13.6084C68.852 13.6084 67.2173 11.8437 67.2173 9.01269C67.2173 6.17285 68.8608 4.33105 71.4077 4.33105C73.9126 4.33105 75.4878 6.05175 75.4878 8.79687V9.43359H69.0933V9.54589C69.0638 9.8791 69.1055 10.2148 69.2156 10.5306C69.3258 10.8464 69.5019 11.1352 69.7323 11.3778C69.9627 11.6203 70.242 11.8111 70.5517 11.9374C70.8615 12.0637 71.1945 12.1226 71.5288 12.1103C71.968 12.1515 72.4087 12.0498 72.7854 11.8203C73.1621 11.5909 73.4547 11.246 73.6196 10.8369L75.3843 10.8369ZM69.1021 8.13476H73.6284C73.6451 7.83517 73.5997 7.53536 73.495 7.25415C73.3903 6.97294 73.2286 6.7164 73.0201 6.50064C72.8116 6.28487 72.5607 6.11453 72.2833 6.00032C72.0058 5.8861 71.7077 5.83047 71.4077 5.83691C71.1051 5.83511 70.8051 5.89325 70.525 6.008C70.245 6.12274 69.9905 6.2918 69.7761 6.50544C69.5617 6.71907 69.3918 6.97304 69.2761 7.25269C69.1604 7.53234 69.1013 7.83214 69.1021 8.13477V8.13476Z" fill="white"></path> </svg> </span> </a> <a class="f-btn" rel="nofollow" target="_blank" href="https://ad.apps.fm/bGRATUsTImzyDkTaX-wz7V5KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYf5E1p4HIJsSgSZiMa1FOvpaDuL1wu-zO5AOyrumm67kU" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_get_android_app', 'newfooter']);" title="Завантажити додаток AUTO.RIA в Google Play" aria-label="Завантажити додаток AUTO.RIA в Google Play"> <svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.3999 0.5C1.0999 0.8 0.899902 1.3 0.899902 1.9V24C0.899902 24.6 1.0999 25.1 1.3999 25.4L1.4999 25.5L13.8999 13.1V13V12.9L1.3999 0.5Z" fill="#3ddaff"></path> <path d="M17.9999 17.3L13.8999 13.2001V13V12.9L17.9999 8.80005L18.0999 8.90005L22.9999 11.7001C24.3999 12.5001 24.3999 13.8 22.9999 14.6L17.9999 17.3Z" fill="#fdd400"></path> <path d="M18.0999 17.2L13.8999 13L1.3999 25.5C1.8999 26 2.5999 26 3.4999 25.6L18.0999 17.2Z" fill="#f73448"></path> <path d="M18.0999 8.79999L3.4999 0.49999C2.5999 -1.01328e-05 1.8999 0.0999902 1.3999 0.59999L13.8999 13L18.0999 8.79999Z" fill="#46f076"></path> <path opacity="0.2" d="M17.9999 17.1L3.4999 25.3C2.6999 25.8 1.9999 25.7 1.4999 25.3L1.3999 25.4L1.4999 25.5C1.9999 25.9 2.6999 26 3.4999 25.5L17.9999 17.1Z" fill="black"></path> <path opacity="0.12" d="M1.4 25.3C1.1 25 1 24.5 1 23.9V24C1 24.6 1.2 25.1 1.5 25.4V25.3H1.4Z" fill="black"></path> <path opacity="0.12" d="M23 14.3L18 17.1L18.1 17.2L23 14.4C23.7 14 24 13.5 24 13C24 13.5 23.6 13.9 23 14.3Z" fill="black"></path> <path opacity="0.25" d="M3.5 0.600002L23 11.7C23.6 12.1 24 12.5 24 13C24 12.5 23.7 12 23 11.6L3.5 0.500002C2.1 -0.299998 1 0.400002 1 2V2.1C1 0.500002 2.1 -0.199998 3.5 0.600002Z" fill="white"></path> </svg> <span class="wrap"> <svg width="56" class="f-btn-ru" height="9" viewBox="0 0 56 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.0999 8.3H0.399902V6.3H0.999901C1.4999 5.9 1.7999 5.1 1.7999 4V1H5.7999V6.3H6.4999V8.3H5.7999V7H1.1999V8.3H1.0999ZM2.4999 4C2.4999 4.9 2.2999 5.7 1.8999 6.3H4.8999V1.8H2.3999V4H2.4999Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M12.4001 6.20003C11.8001 6.80003 11.1001 7.10003 10.2001 7.10003C9.3001 7.10003 8.6001 6.80003 8.0001 6.20003C7.4001 5.60003 7.1001 4.90002 7.1001 4.00002C7.1001 3.10002 7.4001 2.40002 8.0001 1.80002C8.6001 1.20002 9.3001 0.900024 10.2001 0.900024C11.1001 0.900024 11.8001 1.20002 12.4001 1.80002C13.0001 2.40002 13.3001 3.10002 13.3001 4.00002C13.3001 4.90002 13.0001 5.60003 12.4001 6.20003ZM8.6001 5.70003C9.0001 6.10003 9.6001 6.40002 10.2001 6.40002C10.8001 6.40002 11.4001 6.20003 11.8001 5.70003C12.2001 5.30003 12.5001 4.70002 12.5001 4.00002C12.5001 3.30002 12.3001 2.70002 11.8001 2.30002C11.4001 1.90002 10.8001 1.60003 10.2001 1.60003C9.6001 1.60003 9.0001 1.80002 8.6001 2.30002C8.2001 2.70002 7.9001 3.30002 7.9001 4.00002C7.9001 4.70002 8.1001 5.30003 8.6001 5.70003Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M17.2001 7.10003C16.3001 7.10003 15.6001 6.80003 15.0001 6.20003C14.4001 5.60003 14.1001 4.90002 14.1001 4.00002C14.1001 3.10002 14.4001 2.40002 15.0001 1.80002C15.6001 1.20002 16.3001 0.900024 17.2001 0.900024C18.1001 0.900024 18.8001 1.20002 19.4001 1.90002L18.9001 2.40002C18.5001 1.90002 17.9001 1.60003 17.2001 1.60003C16.5001 1.60003 16.0001 1.80002 15.5001 2.30002C15.0001 2.70002 14.8001 3.30002 14.8001 4.00002C14.8001 4.70002 15.0001 5.30003 15.5001 5.70003C15.9001 6.10003 16.5001 6.40002 17.2001 6.40002C17.9001 6.40002 18.5001 6.10002 19.0001 5.50002L19.5001 6.00002C19.2001 6.30002 18.9001 6.60002 18.5001 6.80002C18.1001 7.00002 17.7001 7.10003 17.2001 7.10003Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M22.6997 7H21.8997V1.7H20.1997V1H24.2997V1.7H22.5997V7H22.6997Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M29.5998 1L27.2998 6.1C26.9998 6.8 26.4998 7.2 25.8998 7.2C25.6998 7.2 25.4998 7.2 25.2998 7.1L25.4998 6.4C25.5998 6.5 25.7998 6.5 25.8998 6.5C26.0998 6.5 26.1998 6.5 26.2998 6.4C26.3998 6.3 26.4998 6.2 26.5998 6L26.7998 5.5L24.7998 1.1H25.6998L27.1998 4.5L28.5998 1.1H29.5998V1Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M30.5 7V1H34.8V7H34V1.7H31.2V7H30.5Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M36.1997 7V1H36.9997V3.6H39.9997V1H40.7997V7H39.9997V4.3H36.9997V7H36.1997Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M47.0998 6.20003C46.4998 6.80003 45.7998 7.10003 44.8998 7.10003C43.9998 7.10003 43.2998 6.80003 42.6998 6.20003C42.0998 5.60003 41.7998 4.90002 41.7998 4.00002C41.7998 3.10002 42.0998 2.40002 42.6998 1.80002C43.2998 1.20002 43.9998 0.900024 44.8998 0.900024C45.7998 0.900024 46.4998 1.20002 47.0998 1.80002C47.6998 2.40002 47.9998 3.10002 47.9998 4.00002C47.8998 4.90002 47.5998 5.60003 47.0998 6.20003ZM43.1998 5.70003C43.5998 6.10003 44.1998 6.40002 44.7998 6.40002C45.3998 6.40002 45.9998 6.20003 46.3998 5.70003C46.7998 5.30003 47.0998 4.70002 47.0998 4.00002C47.0998 3.30002 46.8998 2.70002 46.3998 2.30002C45.9998 1.90002 45.3998 1.60003 44.7998 1.60003C44.1998 1.60003 43.5998 1.80002 43.1998 2.30002C42.7998 2.70002 42.4998 3.30002 42.4998 4.00002C42.4998 4.70002 42.7998 5.30003 43.1998 5.70003Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M51.1001 7V1H53.3001C53.8001 1 54.2001 1.2 54.5001 1.5C54.8001 1.8 55.0001 2.2 55.0001 2.7C55.0001 3 54.9001 3.2 54.8001 3.5C54.7001 3.7 54.5001 3.9 54.2001 4C54.5001 4.1 54.7001 4.3 54.9001 4.5C55.1001 4.7 55.2001 5 55.2001 5.4C55.2001 5.9 55.0001 6.3 54.7001 6.6C54.3001 6.9 53.9001 7.1 53.4001 7.1H51.1001V7ZM51.9001 3.6H53.3001C53.6001 3.6 53.8001 3.5 54.0001 3.3C54.2001 3.1 54.3001 2.9 54.3001 2.7C54.3001 2.5 54.2001 2.3 54.0001 2.1C53.8001 1.9 53.6001 1.8 53.3001 1.8H51.9001V3.6ZM51.9001 6.3H53.5001C53.8001 6.3 54.0001 6.2 54.2001 6C54.4001 5.8 54.5001 5.6 54.5001 5.3C54.5001 5.1 54.4001 4.8 54.2001 4.6C54.0001 4.4 53.8001 4.3 53.5001 4.3H52.0001V6.3H51.9001Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> </svg> <svg class="f-btn-ua" width="70" height="9" viewBox="0 0 70 9" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.2998 7.1999C1.8998 7.1999 1.4998 7.0999 1.0998 6.7999C0.699804 6.4999 0.499805 6.1999 0.299805 5.6999L0.999805 5.3999C1.09981 5.6999 1.19981 5.9999 1.49981 6.1999C1.69981 6.3999 1.9998 6.4999 2.2998 6.4999C2.5998 6.4999 2.8998 6.3999 3.0998 6.1999C3.2998 5.9999 3.49981 5.6999 3.49981 5.3999C3.49981 5.0999 3.3998 4.8999 3.0998 4.5999C2.8998 4.3999 2.59981 4.2999 2.19981 4.2999H1.69981V3.4999H2.19981C2.49981 3.4999 2.79981 3.3999 2.99981 3.1999C3.19981 2.9999 3.2998 2.7999 3.2998 2.4999C3.2998 2.1999 3.19981 1.9999 2.99981 1.8999C2.79981 1.6999 2.4998 1.6999 2.2998 1.6999C1.7998 1.6999 1.3998 1.9999 1.2998 2.4999L0.599804 2.1999C0.699804 1.8999 0.899806 1.5999 1.19981 1.2999C1.49981 0.999902 1.89981 0.899902 2.39981 0.899902C2.89981 0.899902 3.39981 1.0999 3.69981 1.3999C4.09981 1.6999 4.19981 2.0999 4.19981 2.5999C4.19981 3.1999 3.89981 3.5999 3.39981 3.8999C3.69981 3.9999 3.8998 4.1999 4.0998 4.4999C4.2998 4.7999 4.39981 4.9999 4.39981 5.3999C4.39981 5.8999 4.1998 6.3999 3.7998 6.6999C3.3998 6.9999 2.8998 7.1999 2.2998 7.1999Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M4.7998 6.99995L7.19981 0.699951H8.0998L10.4998 6.99995H9.5998L8.99981 5.29995H6.39981L5.69981 6.99995H4.7998ZM6.5998 4.59995H8.69981L7.69981 1.79995L6.5998 4.59995Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M11.2998 6.99995V0.699951H13.5998C14.0998 0.699951 14.4998 0.899951 14.8998 1.19995C15.2998 1.49995 15.3998 1.89995 15.3998 2.39995C15.3998 2.69995 15.2998 2.99995 15.1998 3.19995C14.9998 3.39995 14.7998 3.59995 14.5998 3.69995C14.8998 3.79995 15.1998 3.99995 15.3998 4.19995C15.5998 4.49995 15.6998 4.79995 15.6998 5.09995C15.6998 5.59995 15.4998 5.99995 15.0998 6.39995C14.6998 6.69995 14.2998 6.89995 13.7998 6.89995H11.2998V6.99995ZM12.0998 3.39995H13.5998C13.8998 3.39995 14.0998 3.29995 14.2998 3.09995C14.4998 2.89995 14.5998 2.69995 14.5998 2.39995C14.5998 2.19995 14.4998 1.89995 14.2998 1.69995C14.0998 1.49995 13.8998 1.39995 13.5998 1.39995H12.0998V3.39995ZM12.0998 6.29995H13.6998C13.9998 6.29995 14.2998 6.19995 14.4998 5.99995C14.6998 5.79995 14.7998 5.49995 14.7998 5.29995C14.7998 4.99995 14.6998 4.79995 14.4998 4.59995C14.2998 4.39995 13.9998 4.29995 13.6998 4.29995H12.0998V6.29995Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M16 6.99995L18.4 0.699951H19.3L21.7 6.99995H20.8L20.2 5.29995H17.6L16.9 6.99995H16ZM17.7 4.59995H19.8L18.8 1.79995L17.7 4.59995Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M22.3999 6.99995V0.699951H23.1999V3.39995H26.2999V0.699951H27.0999V6.99995H26.2999V4.19995H23.1999V6.99995H22.3999Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M30.6 6.99995H29.8V1.49995H28V0.699951H32.3V1.49995H30.5V6.99995H30.6Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M32.0996 6.99995L34.4996 0.699951H35.3996L37.7996 6.99995H36.8996L36.2996 5.29995H33.6996L32.9996 6.99995H32.0996ZM33.8996 4.59995H35.9996L34.9996 1.79995L33.8996 4.59995Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M42.5998 4.19993V6.99993H41.7998V4.09993L39.2998 6.99993H38.2998L40.8998 3.99993L38.3998 0.799927H39.3998L41.7998 3.79993V0.799927H42.5998V3.79993L44.9998 0.799927H45.9998L43.3998 3.99993L45.9998 6.99993H44.9998L42.5998 4.19993Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M51.6999 0.79995V6.99995H50.8999V3.09995V1.89995L47.6999 6.99995H46.8999V0.699951H47.6999V4.39995V5.59995L50.6999 0.699951H51.6999V0.79995Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M55.1 6.99995H54.3V1.49995H52.5V0.699951H56.8V1.49995H55V6.99995H55.1Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M62.5998 0.79995V6.99995H61.7998V3.09995V1.89995L58.5998 6.99995H57.7998V0.699951H58.5998V4.39995V5.59995L61.5998 0.699951H62.5998V0.79995Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> <path d="M67.3999 7.1999C66.9999 7.1999 66.5999 7.0999 66.1999 6.7999C65.7999 6.4999 65.5999 6.1999 65.3999 5.6999L66.0999 5.3999C66.1999 5.6999 66.2999 5.9999 66.5999 6.1999C66.7999 6.3999 67.0999 6.4999 67.3999 6.4999C67.6999 6.4999 67.9999 6.3999 68.1999 6.1999C68.3999 5.9999 68.5999 5.6999 68.5999 5.3999C68.5999 5.0999 68.4999 4.8999 68.1999 4.5999C67.9999 4.3999 67.6999 4.2999 67.2999 4.2999H66.7999V3.4999H67.2999C67.5999 3.4999 67.8999 3.3999 68.0999 3.1999C68.2999 2.9999 68.3999 2.7999 68.3999 2.4999C68.3999 2.1999 68.2999 1.9999 68.0999 1.8999C67.8999 1.6999 67.5999 1.6999 67.3999 1.6999C66.8999 1.6999 66.4999 1.9999 66.3999 2.4999L65.6999 2.1999C65.7999 1.8999 65.9999 1.5999 66.2999 1.2999C66.5999 0.999902 66.9999 0.899902 67.4999 0.899902C67.9999 0.899902 68.4999 1.0999 68.7999 1.3999C69.1999 1.6999 69.2999 2.0999 69.2999 2.5999C69.2999 3.1999 68.9999 3.5999 68.4999 3.8999C68.7999 3.9999 68.9999 4.1999 69.1999 4.4999C69.3999 4.7999 69.4999 4.9999 69.4999 5.3999C69.4999 5.8999 69.2999 6.3999 68.8999 6.6999C68.3999 6.9999 67.9999 7.1999 67.3999 7.1999Z" fill="white" stroke="white" stroke-width="0.2" stroke-miterlimit="10"></path> </svg> <svg width="85" height="17" viewBox="0 0 85 17" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M27.1001 4.79997C24.7001 4.79997 22.8001 6.59997 22.8001 9.09997C22.8001 11.5 24.7001 13.4 27.1001 13.4C29.5001 13.4 31.4001 11.6 31.4001 9.09997C31.4001 6.49997 29.5001 4.79997 27.1001 4.79997ZM27.1001 11.6C25.8001 11.6 24.7001 10.5 24.7001 8.99998C24.7001 7.49998 25.8001 6.39998 27.1001 6.39998C28.4001 6.39998 29.5001 7.39998 29.5001 8.99998C29.5001 10.5 28.4001 11.6 27.1001 11.6ZM17.8001 4.79997C15.4001 4.79997 13.5001 6.59997 13.5001 9.09997C13.5001 11.5 15.4001 13.4 17.8001 13.4C20.2001 13.4 22.1001 11.6 22.1001 9.09997C22.1001 6.49997 20.2001 4.79997 17.8001 4.79997ZM17.8001 11.6C16.5001 11.6 15.4001 10.5 15.4001 8.99998C15.4001 7.49998 16.5001 6.39998 17.8001 6.39998C19.1001 6.39998 20.2001 7.39998 20.2001 8.99998C20.2001 10.5 19.1001 11.6 17.8001 11.6ZM6.7001 6.09997V7.89998H11.0001C10.9001 8.89998 10.5001 9.69998 10.0001 10.2C9.4001 10.8 8.4001 11.5 6.7001 11.5C4.0001 11.5 2.0001 9.39998 2.0001 6.69998C2.0001 3.99998 4.1001 1.89997 6.7001 1.89997C8.1001 1.89997 9.2001 2.49998 10.0001 3.19998L11.3001 1.89997C10.2001 0.899975 8.8001 0.0999756 6.8001 0.0999756C3.2001 0.0999756 0.100098 3.09998 0.100098 6.69998C0.100098 10.3 3.2001 13.3 6.8001 13.3C8.8001 13.3 10.2001 12.7 11.4001 11.4C12.6001 10.2 13.0001 8.49998 13.0001 7.19998C13.0001 6.79998 13.0001 6.39997 12.9001 6.09997H6.7001ZM52.1001 7.49998C51.7001 6.49998 50.7001 4.79997 48.5001 4.79997C46.3001 4.79997 44.5001 6.49997 44.5001 9.09997C44.5001 11.5 46.3001 13.4 48.7001 13.4C50.6001 13.4 51.8001 12.2 52.2001 11.5L50.8001 10.5C50.3001 11.2 49.7001 11.7 48.7001 11.7C47.7001 11.7 47.1001 11.3 46.6001 10.4L52.3001 7.99998L52.1001 7.49998ZM46.3001 8.89998C46.3001 7.29998 47.6001 6.39998 48.5001 6.39998C49.2001 6.39998 49.9001 6.79997 50.1001 7.29997L46.3001 8.89998ZM41.6001 13H43.5001V0.499975H41.6001V13ZM38.6001 5.69998C38.1001 5.19998 37.3001 4.69998 36.3001 4.69998C34.2001 4.69998 32.2001 6.59998 32.2001 8.99998C32.2001 11.4 34.1001 13.2 36.3001 13.2C37.3001 13.2 38.1001 12.7 38.5001 12.2H38.6001V12.8C38.6001 14.4 37.7001 15.3 36.3001 15.3C35.2001 15.3 34.4001 14.5 34.2001 13.8L32.6001 14.5C33.1001 15.6 34.3001 17 36.4001 17C38.6001 17 40.4001 15.7 40.4001 12.6V4.99998H38.6001V5.69998ZM36.4001 11.6C35.1001 11.6 34.0001 10.5 34.0001 8.99998C34.0001 7.49998 35.1001 6.39998 36.4001 6.39998C37.7001 6.39998 38.7001 7.49998 38.7001 8.99998C38.7001 10.5 37.7001 11.6 36.4001 11.6ZM60.8001 0.499975H56.3001V13H58.2001V8.29997H60.8001C62.9001 8.29997 64.9001 6.79997 64.9001 4.39997C64.9001 1.99997 62.9001 0.499975 60.8001 0.499975ZM60.9001 6.49998H58.2001V2.19998H60.9001C62.3001 2.19998 63.1001 3.39997 63.1001 4.29997C63.0001 5.39997 62.2001 6.49998 60.9001 6.49998ZM72.4001 4.69998C71.0001 4.69998 69.6001 5.29997 69.1001 6.59997L70.8001 7.29997C71.2001 6.59997 71.8001 6.39998 72.5001 6.39998C73.5001 6.39998 74.4001 6.99998 74.5001 7.99998V8.09997C74.2001 7.89997 73.4001 7.59997 72.6001 7.59997C70.8001 7.59997 69.0001 8.59998 69.0001 10.4C69.0001 12.1 70.5001 13.2 72.1001 13.2C73.4001 13.2 74.0001 12.6 74.5001 12H74.6001V13H76.4001V8.19998C76.2001 5.99998 74.5001 4.69998 72.4001 4.69998ZM72.2001 11.6C71.6001 11.6 70.7001 11.3 70.7001 10.5C70.7001 9.49998 71.8001 9.19998 72.7001 9.19998C73.5001 9.19998 73.9001 9.39997 74.4001 9.59997C74.2001 10.8 73.2001 11.6 72.2001 11.6ZM82.7001 4.99998L80.6001 10.4H80.5001L78.3001 4.99998H76.3001L79.6001 12.6L77.7001 16.8H79.6001L84.7001 4.99998H82.7001ZM65.9001 13H67.8001V0.499975H65.9001V13Z" fill="white"></path> </svg> </span> </a> </div> </div> <div class="f-img"> <a class="unlink" rel="nofollow" target="_blank" href="https://auto.ria.com/uk/mobile_app/" aria-label="Завантажити додаток мобільний AUTO.RIA на Android або iOS" title="Завантажити мобільний додаток AUTO.RIA на Android або iOS" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_go_to_mobile_app', 'newfooter']);"> <picture> <source srcset="https://cdn.riastatic.com/docs/pictures/common/0/95/9534/9534.webp" type="image/webp"> <img src="https://cdn.riastatic.com/docs/pictures/common/0/85/8538/8538.png" alt="Завантажити додаток мобільний AUTO.RIA на Android або iOS" loading="lazy"> </picture> </a> </div> <div class="social-wrap"> <span class="social-text">Приєднуйтесь до спільноти автолюбителів AUTO.RIA</span> <div class="social"> <a class="item fb" rel="nofollow" target="_blank" href="https://www.facebook.com/AUTORIAcom" title="Спільнота автолюбителів в Facebook" aria-label="Спільнота автолюбителів в Facebook" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_facebook', 'newfooter']);"></a> <a class="item instagram" rel="nofollow" target="_blank" href="https://www.instagram.com/auto_ria_com/" title="Спільнота автолюбителів в Instagram" aria-label="Спільнота автолюбителів в Instagram" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_instagram', 'newfooter']);"></a> <a class="item youtube" rel="nofollow" target="_blank" href="https://www.youtube.com/channel/UCNILl5ht9pjREG0sdwtV96w" title="Спільнота автолюбителів в Youtube" aria-label="Спільнота автолюбителів в Youtube" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_youtube', 'newfooter']);"></a> <a class="item twitter" rel="nofollow" target="_blank" href="https://twitter.com/AUTO_RIA_com" title="Спільнота автолюбителів в Twitter" aria-label="Спільнота автолюбителів в Twitter" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_twitter', 'newfooter']);"></a> <a class="item telegram" rel="nofollow" target="_blank" href="https://t.me/joinchat/AAAAAEwsRgFIdR71wA2a4Q" title="Спільнота автолюбителів в Telegram" aria-label="Спільнота автолюбителів в Telegram" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_telegram', 'newfooter']);"></a> </div> </div> </div> </div> <div class="footer-nav mhide"> <div class="footer-list"> <ul class="unstyle list-ul"> <li class="item"> <ul class="unstyle list"> <li class="item"><a class="link" href="https://auto.ria.com/uk/car/used/" title="Вживані авто" aria-label="Вживані авто" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_used_cars', 'newfooter']);">Вживані авто</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/dealers/" title="Автодилери" aria-label="Автодилери" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_dealers', 'newfooter']);">Автодилери</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/autointer/" title="Авто з Європи" aria-label="Авто з Європи" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_autointer', 'newfooter']);">Авто з Європи</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/driven-cars/" title="Пригнані авто" aria-label="Пригнані авто" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_driven_cars', 'newfooter']);">Пригнані авто</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/rastamozhka-avto/" title="Нерозмитнені авто" aria-label="Нерозмитнені авто" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_rastamozhka_avto', 'newfooter']);">Нерозмитнені авто</a></li> </ul> <ul class="unstyle list"> <li class="item"><a class="link" href="https://auto.ria.com/uk/newauto/" title="Нові авто" aria-label="Нові авто" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_newauto', 'newfooter']);">Нові авто</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/newauto/autosalons/" title="Автосалони" aria-label="Автосалони" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_autosalons', 'newfooter']);">Автосалони</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/newauto/motosalons/" title="Мотосалони" aria-label="Мотосалони" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_motosalons', 'newfooter']);">Мотосалони</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/newauto/category-spectehnika/" title="Спецтехніка" aria-label="Спецтехніка" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_spectehnika', 'newfooter']);">Спецтехніка</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/newauto/car/electrocar/" title="Електромобілі" aria-label="Електромобілі" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_electrocar', 'newfooter']);">Електромобілі</a></li> </ul> <ul class="unstyle list"> <li class="item"><a class="link" target="_blank" href="https://agro.ria.com/uk/" title="Сільгосптехніка" aria-label="Сільгосптехніка" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_agro', 'newfooter']);">Сільгосптехніка</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/newauto/category-selkhoztekhnika/" title="Нова" aria-label="Нова" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_selkhoztekhnika', 'newfooter']);">Нова</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/selkhoztekhnika-catalog/" title="Вживані" aria-label="Вживані" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_selkhoztekhnika_bu', 'newfooter']);">Вживані</a></li> <li class="item"><a class="link" rel="nofollow" target="_blank" href="https://www.ria.com/uk/c/arenda-spetstekhniki/" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_arenda_spetstekhniki', 'newfooter']);" title="Оренда" aria-label="Оренда">Оренда</a></li> <li class="item"><a class="link" rel="nofollow" target="_blank" href="https://www.ria.com/uk/c/selskokhozyaystvennyye-uslugi/" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_selskokhozyaystvennyye_uslugi', 'newfooter']);" title="Послуги" aria-label="Послуги">Послуги</a></li> </ul> <ul class="unstyle list"> <li class="item"><a class="link" href="https://auto.ria.com/uk/autoservice/" title="Послуги для авто" aria-label="Послуги для авто" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_autoservice', 'newfooter']);">Послуги для авто</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/autoservice/sto/" title="CTO" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_sto', 'newfooter']);">CTO</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/autoservice/avtomoyka/" title="Автомийки" aria-label="Автомийки" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_avtomoyka', 'newfooter']);">Автомийки</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/avtorazborka/" title="Авторозбірки" aria-label="Авторозбірки" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_avtorazborka', 'newfooter']);">Авторозбірки</a> </li><li class="item"><a class="link" href="https://auto.ria.com/uk/avtovikup/" title="Автовикуп" aria-label="Автовикуп" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_avtovikup', 'newfooter']);">Автовикуп</a></li> </ul> <ul class="unstyle list"> <li class="item"><a class="link" href="https://auto.ria.com/uk/all_for_auto/" title="Сервіси" aria-label="Сервіси" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_service_all_for_auto', 'newfooter']);">Сервіси</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/rastamozhka-avto/calculator/" title="Калькулятор розмитнення" aria-label="Калькулятор розмитнення" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_service_calculator', 'newfooter']);">Калькулятор розмитнення</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/compare/" title="Порівняння авто" aria-label="Порівняння авто" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_service_compare', 'newfooter']);">Порівняння авто</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/toplivo/" title="Ціни на пальне" aria-label="Ціни на пальне" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_service_toplivo', 'newfooter']);">Ціни на пальне</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/terms/" title="Автотерміни" aria-label="Автотерміни" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_service_terms', 'newfooter']);">Автотерміни</a></li> </ul> </li> </ul> <ul class="unstyle list-ul"> <li class="item"> <ul class="unstyle list"> <li class="item"><a class="link" href="https://auto.ria.com/uk/news/" title="Новини" aria-label="Новини" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_news', 'newfooter']);">Новини</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/news/test-drive/" title="Тест-драйви" aria-label="Тест-драйви" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_news_test_drive', 'newfooter']);">Тест-драйви</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/news/electric-cars/" title="Електромобілі" aria-label="Електромобілі" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_news_electric_cars', 'newfooter']);">Електромобілі</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/news/tag/rastamozhka/" title="Розмитнення" aria-label="Розмитнення" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_news_rastamozhka', 'newfooter']);">Розмитнення</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/news/journals/" title="Онлайн-журнал" aria-label="Онлайн-журнал" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_news_journals', 'newfooter']);">Онлайн-журнал</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/car-spring/" title="Як підготувати авто до весни" aria-label="Як підготувати авто до весни" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_news_car_spring', 'newfooter']);">Як підготувати авто до весни</a></li> </ul> <ul class="unstyle vertical-list"> <li class="item"><a class="link" target="_blank" href="https://auto.ria.com/uk/reviews/" title="Відгуки про авто" aria-label="Відгуки про авто" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_reviews', 'newfooter']);">Відгуки про авто</a></li> <li class="item"><a class="link" target="_blank" rel="nofollow" href="https://autoleader.ria.com/uk/?utm_source=auto_ria&amp;utm_medium=text_link&amp;utm_content=autoleader&amp;utm_campaign=footer" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_autoleader', 'newfooter']);" title="Авто Лідер" aria-label="Авто Лідер">Авто Лідер</a></li> <li class="item"><a class="link" target="_blank" rel="nofollow" href="https://b2b.ria.com/uk/?utm_source=auto_ria&amp;utm_medium=text_link&amp;utm_content=b2b&amp;utm_campaign=footer" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_b2b', 'newfooter']);" title="RIA.com для бізнесу" aria-label="RIA.com для бізнесу">RIA.com для бізнесу</a></li> <li class="item"><a class="link" target="_blank" href="https://ria.company/" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_Marketplaces', 'newfooter']);" title="RIA.com Marketplaces" aria-label="RIA.com Marketplaces">RIA.com Marketplaces</a></li> <li class="item"><a class="link" target="_blank" rel="nofollow" href="https://developers.ria.com/auto_ria" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_developers', 'newfooter']);" title="API для розробників" aria-label="API для розробників">API для розробників</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/price/" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_price', 'newfooter']);" title="Реклама на сайті" aria-label="Реклама на сайті">Реклама на сайті</a></li> <li class="item"><a class="link" rel="nofollow" target="_blank" href="https://uk.wikipedia.org/wiki/AUTO.RIA" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_wiki', 'newfooter']);" title="Вікіпедія про AUTO.RIA" aria-label="Вікіпедія про AUTO.RIA">Вікіпедія про AUTO.RIA</a></li> <li class="item"><a class="link" target="_blank" rel="nofollow" href="http://affiliate.ria.com/" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_affiliate', 'newfooter']);" title="Партнерська програма" aria-label="Партнерська програма">Партнерська програма</a></li> <li class="item"><a class="link" href="https://auto.ria.com/uk/map/" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_map', 'newfooter']);" title="Мапа сайту" aria-label="Мапа сайту">Мапа сайту</a></li> </ul> </li> </ul> <div class="help-wrap"> <div id="logoPersonMenager">    <div class="wrap"> <picture class="group-img"> <source srcset="https://cdn.riastatic.com/docs/pictures/common/0/94/9454/9454.webp" type="image/webp"> <img src="https://cdn.riastatic.com/docs/pictures/common/0/94/9451/9451.jpg" alt="" loading="lazy"> </picture> <a class="help-link" rel="nofollow" target="_blank" href="https://help.ria.com/uk/index.php?/Knowledgebase/List/Index/2/" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_help', 'newfooter']);" title="Допомога по сайту AUTO.RIA" aria-label="Допомога по сайту AUTO.RIA">Допомога по сайту AUTO.RIA.com →</a> </div> <div class="connect"> <a class="item viber" rel="nofollow" target="_blank" href="viber://pa?chatURI=auto.ria" title="Viber AUTO.RIA" aria-label="Viber AUTO.RIA" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_viber', 'newfooter']);">Viber</a> <a class="item chat" rel="nofollow" target="_blank" href="https://help.ria.com/uk/#chat" title="Online чат AUTO.RIA" aria-label="Online чат AUTO.RIA" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_chat', 'newfooter']);">Online чат</a> <a class="item email" rel="nofollow" target="_blank" href="https://help.ria.com/uk/#contact_us" title="Написати AUTO.RIA" aria-label="Написати AUTO.RIA" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_contact_us', 'newfooter']);">Написати</a> <a class="item call" rel="nofollow" target="_blank" href="https://help.ria.com/uk/#call_us" title="Подзвонити" aria-label="Подзвонити" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_call_us', 'newfooter']);">Подзвонити</a> </div>  </div> <ul class="unstyle vertical-list"> <li class="item"><a class="link" rel="nofollow" target="_blank" href="https://bezpeka.ria.com/uk/" title="Безпечні" aria-label="Безпечні угоди з" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_bezpeka', 'newfooter']);">Безпечні угоди</a></li> <li class="item"><a class="link" rel="nofollow" target="_blank" href="https://www.ria.com/offert/" title="Угода про надання онлайн-сервісів" aria-label="Угода про надання онлайн-сервісів" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_offert', 'newfooter']);">Угода про надання<br>онлайн-сервісів</a></li> <li class="item"> <a class="link" rel="nofollow" target="_blank" href="http://help.ria.com/uk/index.php?/Knowledgebase/List/Index/2/autoriaua" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_help_ria_by_site', 'newfooter']);" aria-label="Допомога">Допомога по сайту AUTO.RIA.com</a> </li> </ul> </div> </div> </div> <div class="footer-line-wrap"> <div class="f-line"> <div class="logo"> <a class="unlink" target="_blank" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_logo', 'newfooter']);" href="https://ria.com/uk/"><img src="https://cdn.riastatic.com/docs/pictures/common/0/84/8454/8454.svg" alt="Logo ria.com" loading="lazy"></a> <span class="copy">© 2014-2020 RIA.com</span> </div> <a class="link helping dhide" rel="nofollow" target="_blank" href="http://help.ria.com/uk/index.php?/Knowledgebase/List/Index/2/autoriaua" onclick="_gaq.push(['_trackEvent', 'footer', 'ClickOn_link_help_ria', 'newfooter']);" aria-label="Допомога" title="Допомога">Допомога</a> </div> </div>  <script type="text/javascript">
+        if (typeof window._gaq === 'undefined' || typeof window._gaq !== 'object') {
+             window._gaq = {};
+            window._gaq.push =  function(array){
+                if(typeof window.ga !== 'undefined' ) {
+                    if (array[0] === '_trackPageview') {
+                        window.ga('send', 'pageview');
+                    } else if (array[0] === '_trackEvent') {
+                        window.ga('send','event', array[1], array[2], array[3]);
+                    }
+                }
+            }
+        }
+    </script> </footer>
+    
+
+
+
+<noindex>
+    <noscript>
+        <div class="old-browser-support">
+            <div class="left-bg"></div>
+            <div class="container">
+                <div class="item">
+                    <div class="attention-block">
+                        <p class="size15">
+                            <strong class="red">ВНИМАНИЕ!</strong>
+                            <br>В Вашем браузере <strong>отключен</strong> JavaScript.
+                        </p>
+                        <p>Функциональность страниц может быть ограничена или вовсе не возможна.</p>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="browser-block">
+                        <p class="size15 bold">Включите JavaScript,</p>
+                        <p>это займет всего пару минут.</p>
+                        <p class="button-block">
+                            <a target="_blank" href="http://help.ria.com/index.php?/Knowledgebase/Article/View/627/92/kk-vkljuchit-javaskript-v-populjarnykh-bruzerkh" title="Включить" class="button middle">
+                                Включить
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </noscript>
+</noindex>
+
+<div class="hide">
+
+    <script>
+      var ads_page_type = '';
+      var google_tag_params = {};
+
+      
+      if (ads_page_type) {
+        var google_tag_params = {
+          dynx_pagetype: ads_page_type
+        };
+      } else if (typeof google_tag_params_finale_page !== 'undefined') {
+        var google_tag_params = google_tag_params_finale_page;
+      }
+      /* <![CDATA[ */
+        var google_conversion_id = 823613200,
+        google_custom_params = window.google_tag_params,
+        google_remarketing_only = true;
+      /* ]]> */
+
+      <!-- MMI CMeter -->
+      var tns_already, tnscm_adn = tnscm_adn || [], currentProtocol = ("https:" == location.protocol ? "https:" : "http:");
+
+
+      window.addEventListener("load", function(event) {
+
+        var remarketingScript = document.createElement('script');
+        remarketingScript.src = "//www.googleadservices.com/pagead/conversion.js";
+        remarketingScript.type = "text/javascript";
+        document.head.appendChild(remarketingScript);
+
+
+        
+        var analyticsScript = document.createElement('script');
+        analyticsScript.src = "/analytics/public/js/loadData2.js?v1.05";
+        analyticsScript.type = "text/javascript";
+        document.head.appendChild(analyticsScript);
+        
+
+
+        
+        <!-- MMI CMeter -->
+        (function(c,m){if(c.indexOf&&c.indexOf(m)<0){c.unshift(m);}}(tnscm_adn,"inline_cm"));
+        if ("undefined"==typeof(tns_already) || null==tns_already || 0==tns_already)
+        {
+          tns_already=1;
+          var i=new Image();
+          i.src=currentProtocol + "//pa.tns-ua.com/bug/pic.gif?siteid=auto.ria.com&j=1&nocache="+Math.random();
+
+          (function(){
+            var p=document.getElementsByTagName('head')[0];
+            var s=document.createElement("script");
+            s.type="text/javascript";
+            s.src= currentProtocol + "//source.mmi.bemobile.ua/cm/cm.js";
+            s.async = true;
+            p.appendChild(s);
+          })();
+        };
+        
+
+        //Фіксує, чи юзер онлайн
+        var chkRegPspId = /PSP_ID=.+?/ig;
+        var chkRegUserOnline = /user_online=.+?/ig;
+
+        var chkPspId = chkRegPspId.exec(document.cookie);
+        var chkUserOnline = chkRegUserOnline.exec(document.cookie);
+
+        if (chkPspId && !chkUserOnline) {
+          var checkOnlineImage = document.createElement("IMG");
+          checkOnlineImage.src = "//ui.ria.com/last_visit/set/index.jpg";
+        }
+      });
+    </script>
+    
+
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/823613200/?guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+    <div class="adriver ads social reklam" id="adblockTest"></div>
+    <script>
+      var uiImage = document.createElement("IMG");
+      var referrerRiaCom = !!document.referrer.match("ria.com");
+      var rMetrics = !!window.location.search.match(/[\?&]r_audience=(\w+)/) || !!window.location.search.match(/[\?&]r_medium=(\w+)/) || !!window.location.search.match(/[\?&]r_source=(\w+)/);
+      var moreRMetrics = (referrerRiaCom || rMetrics) ? '' : (document.referrer.length === 0 ? '&r_audience=direct&r_source=direct' : '&r_audience=all&r_medium=referer&r_source=' + new URL(document.referrer).host);
+      uiImage.src = "//slonik.ria.com/api/v3/event/client/index.gif?event_id="+(window.r_event_id?window.r_event_id:383)+"&project_id="+(window.r_project_id?window.r_project_id:1)+"&viewRandom=" + Math.random()+moreRMetrics;
+      uiImage.style = "position: absolute;visibility: hidden;width: 0;height: 0;";
+      document.body.appendChild(uiImage);
+    </script>
+    <noscript><img aria-hidden="true" src="//pa.tns-ua.com/bug/pic.gif?siteid=auto.ria.com" alt="counter tns" /></noscript>
+</div><img src="//slonik.ria.com/api/v3/event/client/index.gif?event_id=383&amp;project_id=1&amp;viewRandom=0.31721431630068797" style="position: absolute; visibility: hidden; width: 0px; height: 0px;">
+
+<div id="privateAccessModeMessage" class="hide privateIOS modal fade">
+    <div class="modal-header">
+        <a href="#" class="close" data-dismiss="modal" aria-hidden="true">×</a>
+        <div class="size18">
+            Режим «Частный доступ»
+        </div>
+    </div>
+    <div class="error" style="margin: 0">
+        <i class="alert-removed"></i>
+        <div class="message">
+            <p><strong>Внимание!</strong> Вы используете режим
+                <stong>«Частный доступ»</stong>.
+            </p>
+            <p>
+                Отключите режим приватного доступа, чтоб воспользоваться поиском б/у авто.
+                <br>
+                <a href="https://support.apple.com/ru-ru/HT203036" target="_blank"><strong>Как отключить?</strong></a>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+    #gdprId input[type=checkbox],#gdprId.c-notifier input[type=checkbox]:checked~.c-notifier-btn,#gdprId.c-notifier input[type=checkbox]:checked~.c-notifier-container{display:none}#gdprId button,#gdprId input{overflow:visible}#gdprId *{font-weight:400;font-style:normal;font-size:15px;font-family:Arial,Helvetica,sans-serif;line-height:1.2;color:#414042;background:#fff;box-sizing:border-box}#gdprId.c-notifier{background:#FCFCFC;box-shadow:0 -4px 4px rgba(0,0,0,.25);position:fixed;bottom:0;right:0;left:0;z-index:3;}#gdprId .c-notifier-container{display:flex;max-width:960px;margin:0 auto;align-items:center;padding:20px 15px;flex-wrap:wrap;position:relative}#gdprId .c-notifier-svg{flex-shrink:0}#gdprId .c-notifier-area{padding-left:15px;flex-direction:column;width:calc(100% - 53px)}#gdprId .c-notifier-btn{border:1px solid #256799;box-sizing:border-box;color:#256799;border-radius:2px;font-size:16px;text-align:center;width:100%;height:32px;line-height:31px}#gdprId .c-notifier-btn:hover{background:#ddf4fb;cursor:pointer}#gdprId .c-notifier-link{text-decoration:none;color:#256799;border-bottom:1px solid transparent;text-decoration-skip-ink:none;display:inline-block}.c-notifier-close:checked~.c-notifier-container{display:none}#gdprId .c-notifier-link:hover{border-color:#256799}@media all and (max-width:769px){#gdprId .c-notifier-btn{width:120px;position:absolute;right:15px;bottom:16px}#gdprId .c-notifier-link{margin-top:15px;max-width:50%;margin-bottom:7px}#gdprId .c-notifier-container{padding:15px}#gdprId .c-notifier-svg{align-self:flex-start}#gdprId .c-notifier-link:hover{border-bottom-color:transparent}}@media all and (min-width:769px){#gdprId .c-notifier-container{flex-wrap:nowrap;padding-left:0;padding-right:0;padding-bottom:10px}#gdprId .c-notifier-area{max-width:564px;width:100%;flex-shrink:0;margin-right:20px}}
+</style>
+<div id="gdprId" class="c-notifier"><input type="checkbox" id="c-notifier-close"><div class="c-notifier-container"><svg class="c-notifier-svg" width="38" height="39" viewBox="0 0 38 39" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 1.24268C20 1.24268 23 6.24268 20 10.2427C17 14.2427 13 14.2427 13 14.2427C13 14.2427 12 17.2427 10 19.2427C8 21.2427 3 21.2427 1 19.2427C1.6 28.9427 10.1 38.2427 20 38.2427C30.2 38.2427 38.7 31.1427 37 18.2427C34.9 2.14268 20 1.24268 20 1.24268Z" fill="#D3E1EB"></path><path d="M18.0001 1.24268C17.9001 1.24268 17.8001 1.24268 17.7001 1.24268C17.9001 1.84268 18.0001 2.54268 18.0001 3.24268C18.0001 7.64268 14.4001 11.2427 10.0001 11.2427C9.7001 11.2427 9.3001 11.2427 9.0001 11.1427C9.0001 11.1427 9.0001 11.1427 9.0001 11.2427C9.0001 15.6427 5.4001 19.2427 1.1001 19.2427C1.6001 28.1427 9.0001 35.2427 18.0001 35.2427C27.4001 35.2427 35.0001 27.6427 35.0001 18.2427C35.0001 8.84268 27.4001 1.24268 18.0001 1.24268Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path><path d="M24 18.2427C25.6569 18.2427 27 16.8995 27 15.2427C27 13.5858 25.6569 12.2427 24 12.2427C22.3431 12.2427 21 13.5858 21 15.2427C21 16.8995 22.3431 18.2427 24 18.2427Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path><path d="M12 26.2427C13.1046 26.2427 14 25.3472 14 24.2427C14 23.1381 13.1046 22.2427 12 22.2427C10.8954 22.2427 10 23.1381 10 24.2427C10 25.3472 10.8954 26.2427 12 26.2427Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path><path d="M22 27.2427C23.1046 27.2427 24 26.3472 24 25.2427C24 24.1381 23.1046 23.2427 22 23.2427C20.8954 23.2427 20 24.1381 20 25.2427C20 26.3472 20.8954 27.2427 22 27.2427Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path></svg><div class="c-notifier-area"><div>Ми використовуємо cookie, щоб вам було зручніше користуватись сайтом</div> <a href="https://www.ria.com/offert/gdpr/" onclick="trackMoreGdpr()" title="Детальніше" target="_blank" rel="nofollow noopener" class="c-notifier-link">Детальніше →</a> </div> <label class="c-notifier-btn" onclick="setCookieGdpr();trackCloseGdpr();" for="c-notifier-close">Закрити</label> </div></div>
+<script async="">var langId=window.ria&&window.ria.langId||2;function setContent(){return getCookie("gdpr")?"":gdprHtml}
+function getCookie(e){var n=document.cookie.match(new RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return n?decodeURIComponent(n[1]):void 0}
+function trackMoreGdpr(){_gaq.push(["_trackEvent","popup","Click_on_more_gdpr",document.location.pathname])}
+function trackCloseGdpr(){_gaq.push(["_trackEvent","popup","Click_on_close_gdpr",document.location.pathname])}
+function setCookieGdpr(){var e=new Date((new Date).getTime()+31536e6);document.cookie="gdpr=1; path=/; expires="+e.toUTCString()}
+gdprText=langId&&2==langId?'<div>Мы используем cookie, чтобы вам было удобнее пользоваться сайтом</div> <a href="https://www.ria.com/offert/gdpr/" onclick="trackMoreGdpr()" title="Детальнее" target="_blank" rel="nofollow noopener" class="c-notifier-link">Детальнее →</a>':'<div>Ми використовуємо cookie, щоб вам було зручніше користуватись сайтом</div> <a href="https://www.ria.com/offert/gdpr/" onclick="trackMoreGdpr()" title="Детальніше" target="_blank" rel="nofollow noopener" class="c-notifier-link">Детальніше →</a>',gdprHtml='<input type="checkbox" id="c-notifier-close"><div class="c-notifier-container"><svg class="c-notifier-svg" width="38" height="39" viewBox="0 0 38 39" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 1.24268C20 1.24268 23 6.24268 20 10.2427C17 14.2427 13 14.2427 13 14.2427C13 14.2427 12 17.2427 10 19.2427C8 21.2427 3 21.2427 1 19.2427C1.6 28.9427 10.1 38.2427 20 38.2427C30.2 38.2427 38.7 31.1427 37 18.2427C34.9 2.14268 20 1.24268 20 1.24268Z" fill="#D3E1EB"></path><path d="M18.0001 1.24268C17.9001 1.24268 17.8001 1.24268 17.7001 1.24268C17.9001 1.84268 18.0001 2.54268 18.0001 3.24268C18.0001 7.64268 14.4001 11.2427 10.0001 11.2427C9.7001 11.2427 9.3001 11.2427 9.0001 11.1427C9.0001 11.1427 9.0001 11.1427 9.0001 11.2427C9.0001 15.6427 5.4001 19.2427 1.1001 19.2427C1.6001 28.1427 9.0001 35.2427 18.0001 35.2427C27.4001 35.2427 35.0001 27.6427 35.0001 18.2427C35.0001 8.84268 27.4001 1.24268 18.0001 1.24268Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path><path d="M24 18.2427C25.6569 18.2427 27 16.8995 27 15.2427C27 13.5858 25.6569 12.2427 24 12.2427C22.3431 12.2427 21 13.5858 21 15.2427C21 16.8995 22.3431 18.2427 24 18.2427Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path><path d="M12 26.2427C13.1046 26.2427 14 25.3472 14 24.2427C14 23.1381 13.1046 22.2427 12 22.2427C10.8954 22.2427 10 23.1381 10 24.2427C10 25.3472 10.8954 26.2427 12 26.2427Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path><path d="M22 27.2427C23.1046 27.2427 24 26.3472 24 25.2427C24 24.1381 23.1046 23.2427 22 23.2427C20.8954 23.2427 20 24.1381 20 25.2427C20 26.3472 20.8954 27.2427 22 27.2427Z" stroke="#256799" stroke-width="2" stroke-miterlimit="10" stroke-linejoin="round"></path></svg><div class="c-notifier-area">'+gdprText+' </div> <label class="c-notifier-btn" onclick="setCookieGdpr();trackCloseGdpr();" for="c-notifier-close">'+(langId&&2==langId?"Закрыть":"Закрити")+'</label> </div>',document.getElementById("gdprId").innerHTML=setContent();</script>
+
+
+
+
+
+
+
+
+
+
+<!--    .END Footer    -->
+<script async="" src="https://img7.auto.ria.com/js/library/requirejs/require.js" data-main="https://img7.auto.ria.com/js/builds/index.js?v=8.3.61530" data-version="8.3.61530" data-geo-ip-location="0_0" data-lang-id="4" data-url="/login.html" data-rand="0">
+</script>
+
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1515938945286577");</script>
+<script type="text/javascript" id="">fbq("track","PageView");</script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-469cf41adb11dc78be68c1ae7f9457a4.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe></body></html>

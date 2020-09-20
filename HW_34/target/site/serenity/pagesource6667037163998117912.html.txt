@@ -1,0 +1,163 @@
+<html lang="uk-Uk"><head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="cDVJXzVFZ3cbew8RaiQNRTtnezR8LiQ4MmUtKU8zIiMTdA0ORTM.Lg==">
+        <title></title>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/6TWYOsKNtRFaLeFqv5xN42-l/recaptcha__uk.js"></script><script>
+                        home_url = "https://login.ria.com";
+            site_url = "http://auto.ria.com/login.html";
+            ENVIRONMENT = "prod";
+        </script>
+        <script src="https://login.ria.com/js/lib/jquery-1.11.2.min.js"></script>
+        <script src="https://login.ria.com/js/lib/telegram-passport.js?v=0.18"></script>
+        <link href="https://login.ria.com/css/login.css?v=0.12" type="text/css" rel="stylesheet">
+            </head>
+    <body>
+                        <style>
+    .grecaptcha-badge {
+        display: none !important;
+    }
+</style>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+        page = "login";
+    window_location = "https://auto.ria.com/iframe-ria-login/login/2/4";
+</script>
+<script src="https://login.ria.com/js/out/login.min.js?v=0.18"></script>
+
+<div class="common-login ">
+    <form id="login-form" action="https://auto.ria.com/iframe-ria-login/login/2/4" method="post">
+<input type="hidden" name="_csrf" value="cDVJXzVFZ3cbew8RaiQNRTtnezR8LiQ4MmUtKU8zIiMTdA0ORTM.Lg==">        
+    <div class="login-rows">
+        <div class="label">Телефон або e-mail</div>
+        <div class="input-field ">
+            <input type="text" id="emailloginform-email" class="" name="EmailLoginForm[email]">            <i class="icon-info" show_element="email_alert">?</i>
+            <div class="item-alert" id="email_alert_new">
+                <!--Введите необходимый формат:<br>-->
+                <strong>Для номера телефону формат:</strong> <br>
+                ХХХ ХХХХХХХ (Код оператора + номер телефону).<br>
+                (Наприклад: 093 0000000).
+            </div>
+        </div>
+            </div>
+    <div class="login-rows">
+        <div class="label">Пароль</div>
+        <div class="input-field ">
+            <input type="password" id="emailloginform-password" class="" name="EmailLoginForm[password]">            <i class="passport-symbols-view" id="login-icon-view-id"></i>
+            <div class="item-alert" id="email_alert2">
+                <span id="show-email_alert2-id">Показати символи</span>
+                <span id="hide-email_alert2-id" class="hide">Приховати символи</span>
+            </div>
+        </div>
+            </div>
+    <div class="remember-me">
+        <input type="checkbox" id="rememberme_checkbox_id" class="ckeck" checked="">
+        <label class="label-ckeck sub" for="rememberme_checkbox_id">Запамʼятати мене</label>
+    </div>
+
+            <input type="hidden" id="emailloginform-recaptcha_tocken" class="hide" name="EmailLoginForm[recaptcha_tocken]">    
+    <div class="login-link">
+                        <div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; position: fixed; visibility: hidden; display: block; transition: right 0.3s ease 0s; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfvO1wUAAAAAIwVisMx9EviMGF3wXnzARBcuH_6&amp;co=aHR0cHM6Ly9hdXRvLnJpYS5jb206NDQz&amp;hl=uk&amp;v=6TWYOsKNtRFaLeFqv5xN42-l&amp;size=invisible&amp;cb=mpk2ofs6k7d6" width="256" height="60" role="presentation" name="a-6cdq73oo1eod" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><button type="submit" class="button large green  g-recaptcha" data-size="invisible" data-sitekey="6LfvO1wUAAAAAIwVisMx9EviMGF3wXnzARBcuH_6" data-callback="submitFormFn" onclick="ga('send', 'event',  'login', 'sign_in_desktop', 'sign_in'); resizeRecaptcha();">Увійти</button>
+        <a href="https://auto.ria.com/iframe-ria-login/recover/2/4" id="remember_password" title="Забули пароль?" class="link" onclick="ga('send', 'event',  'login', 'recovery_password_desktop', 'sign_in');">Забули пароль?</a>
+    </div>
+
+    </form>
+    <script type="text/javascript">
+        function resizeRecaptcha(){
+            window.removeEventListener("message", receiveMessage, false);
+            window.parent.postMessage("{\"height\":" + 550 + "}", "*");
+        }
+        function submitFormFn(token){
+            jQuery("body").addClass('preloader');
+            document.getElementById("emailloginform-recaptcha_tocken").value = token;
+            document.getElementById("login-form").submit();
+        }
+        screenX = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
+        screenY = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop;
+        outerWidth = typeof window.outerWidth != 'undefined' ? window.outerWidth : document.body.clientWidth;
+        outerHeight = typeof window.outerHeight != 'undefined' ? window.outerHeight : (document.body.clientHeight - 22);
+        width = 655;
+        height = 454;
+        left = parseInt(screenX + ((outerWidth - width) / 2), 10);
+        top = parseInt(screenY + ((outerHeight - height) / 2.5), 10);
+    </script>
+    <script type="text/javascript">
+        function receiveMessage(event) {
+            if (event.data != '') {
+                window.location = 'https://login.ria.com/' + event.data
+            }
+        }
+        function starWindow(href) {
+            if(window.top != window.self){
+                var popup = window.open(href, '', 'width=655,height=454,scrollbars=1,modal=yes' + ',left=' + left + ',top=' + top);
+                window.addEventListener("message", receiveMessage, false);
+            }else{
+                window.location.replace(href);  
+            }
+        }
+    </script>
+                <div class="social-login">
+            <!--Facebook-->
+                            <a class="item fb-social" href="https://www.facebook.com/v4.0/dialog/oauth/?client_id=1518067615176484&amp;redirect_uri=https://login.ria.com/fb-auth&amp;display=popup&amp;response_type=code&amp;scope=email" onclick="ga('send', 'event',  'login', 'fb_desktop', 'social_network'); starWindow(this.href); return false;" title="Увійти через Facebook">
+					<i class="soc-fb"></i>
+                    <span>Увійти через Facebook</span>
+                </a>
+                        <!--Вконтакте-->
+                        <!--Google +-->
+                            <a class="item g-social" href="https://accounts.google.com/o/oauth2/auth?redirect_uri=https://login.ria.com/g-auth&amp;response_type=code&amp;client_id=324252216515-df0l464t59j69cnkvspi1fmh6t30nd6s.apps.googleusercontent.com&amp;scope=email profile openid" onclick="ga('send', 'event',  'login', 'g_plus_desktop', 'social_network'); starWindow(this.href); return false;" title="Увійти через Google">
+                    <i class="soc-gplus"></i>
+                    <span>Увійти через Google</span>
+                </a>
+                        
+        </div>
+        <div class="login-link">
+        <!--<a href="#" class="link">Нужна помощь?</a>-->
+                <a href="https://auto.ria.com/iframe-ria-login/registration/2/4" title="Зареєструватися на AUTO.RIA" class="link-dotted size18 line-h-24" onclick="ga('send', 'event',  'login', 'registration_desktop', 'registration');">Зареєструватися на AUTO.RIA        </a>
+    </div>
+
+
+    <script type="text/javascript">
+    //// Create IE + others compatible event handler
+    //var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+    //var eventer = window[eventMethod];
+    //var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+    //
+    //// Listen to message from child window
+    //eventer(messageEvent,function(e) {
+    //  console.log('parent received message!:  ',e.data);
+    //},false);
+    ////console.log(win);
+</script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-119062-46', 'auto');
+    ga('send', 'pageview');
+    ga('send', 'event',  'login', 'came_to_login', 'login_form');
+
+</script>
+        
+        <script src="https://login.ria.com/js/old/noiframe.js?v=0.11"></script>
+<script src="https://login.ria.com/assets/19122a6c/yii.js"></script>
+<script src="https://login.ria.com/assets/19122a6c/yii.activeForm.js"></script>
+<script src="https://login.ria.com/js/old/myscript.js?v=0.16"></script>
+<script src="https://login.ria.com/js/old/autoRiaLogin.js?v=0.05"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#login-form').yiiActiveForm([], []);
+$("document").ready(function(){sendPageName("login");});
+});</script>        <script src="//ui.ria.com/js/ui_last_visit.js"></script>
+    
+
+</div><div style="visibility: visible; position: absolute; width: 350px; top: 10px; left: 0px; right: 0px; transition: visibility 0s linear 0s, opacity 0.3s linear 0s; opacity: 1;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.5;"></div><div style="margin: 0px auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2000000000; background-color: rgb(255, 255, 255); overflow: hidden; width: 300px; height: 511px;"><iframe title="recaptcha challenge" src="https://www.google.com/recaptcha/api2/bframe?hl=uk&amp;v=6TWYOsKNtRFaLeFqv5xN42-l&amp;k=6LfvO1wUAAAAAIwVisMx9EviMGF3wXnzARBcuH_6&amp;cb=wsdeejezq6fi" name="c-6cdq73oo1eod" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 300px; height: 511px;"></iframe></div></div></body></html>

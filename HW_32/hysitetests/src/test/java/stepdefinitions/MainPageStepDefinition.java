@@ -8,6 +8,8 @@ import cucumber.api.java.en.When;
 import net.thucydides.core.annotations.Steps;
 import steps.MainPageSteps;
 
+
+
 public class MainPageStepDefinition {
 
     @Steps
@@ -15,7 +17,9 @@ public class MainPageStepDefinition {
 
     @Given("^I access main page Hys Site$")
     public void iAccessMainPageHysSite() {
-        mainPageSteps.openMainPage();
+        System.out.println("Is 1");
+                mainPageSteps.openMainPage();
+        System.out.println("Is2");
     }
 
 

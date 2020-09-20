@@ -23,7 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eb97739-44e1-4cfa-b57e-6aa8ecabde1a" name="Default Changelist" comment="HW_30">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/src/test/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/src/test/java/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/src/test/java/Pages/MainPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/src/test/java/Pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/src/test/java/Steps/MainPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/src/test/java/Steps/MainPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/src/test/java/StepsDefinitions/MainPageStepsDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/src/test/java/StepsDefinitions/MainPageStepsDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/src/test/resources/Features/HW_33.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/src/test/resources/Features/HW_33.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/target/test-classes/Features/HW_33.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/target/test-classes/Features/HW_33.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/target/test-classes/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/target/test-classes/Pages/MainPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/target/test-classes/Steps/MainPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/target/test-classes/Steps/MainPageSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW_33/target/test-classes/StepsDefinitions/MainPageStepsDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW_33/target/test-classes/StepsDefinitions/MainPageStepsDefinitions.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
